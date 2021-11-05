@@ -1,0 +1,27 @@
+[{
+  "date_time": "2020-05-05 15:39:03",
+  "first_name": "Galya1",
+  "last_name": "Ivanov",
+  "type": "PARKING",
+  "fine_amount": 341.00
+},{
+  "date_time": "2020-05-05 15:39:03",
+  "first_name": "Galya2",
+  "last_name": "Ivanov",
+  "type": "SPEEDING",
+  "fine_amount": 340.00
+},{
+  "date_time": "2020-05-05 15:39:03",
+  "first_name": "Galya3",
+  "last_name": "Ivanov",
+  "type": "PARKING",
+  "fine_amount": 340.00
+},{
+  "date_time": "2020-05-05 15:39:03",
+  "first_name": "Galya4",
+  "last_name": "Ivanov",
+  "type": "SPEEDING",
+  "fine_amount": 340.00
+}]
+
+
