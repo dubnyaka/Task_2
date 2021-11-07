@@ -2,6 +2,8 @@ package entity;
 
 import lombok.*;
 
+import java.util.UUID;
+
 @Getter
 @Setter
 @NoArgsConstructor
@@ -10,6 +12,7 @@ import lombok.*;
 public class Offender {
     private String first_name;
     private String last_name;
+    private UUID PersonID;
     int numberOfViolations;
     double total_fine;
     double average_fine;

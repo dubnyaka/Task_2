@@ -1,194 +1,74 @@
 [
   {
-    "date_time": "2012-7-26 18:14:16",
-    "first_name": "Jarrett",
-    "last_name": "RATLIFF",
+    "date_time": "2015-10-5 05:05:40",
+    "first_name": "Stefanie",
+    "last_name": "SHERMAN",
     "type": "PARKING",
-    "fine_amount": 2862.17,
-    "personID": "a0ad7542-8002-4653-96ad-5f6f5b879e5a"
+    "fine_amount": 2586.94,
+    "personID": "1cb29702-6bc8-46d4-bf91-b6b0f77dbd9d"
   },
   {
-    "date_time": "2018-9-2 03:38:02",
-    "first_name": "Hollie",
-    "last_name": "MCGOWAN",
+    "date_time": "2011-7-6 20:52:31",
+    "first_name": "Bradford",
+    "last_name": "MOSLEY",
     "type": "PARKING",
-    "fine_amount": 3429.47,
-    "personID": "0096debb-3395-4b4f-8403-e130c142a79a"
+    "fine_amount": 1697.37,
+    "personID": "2786f1ab-6fe8-4d9b-95d3-6340f830bae8"
   },
   {
-    "date_time": "2018-8-28 09:38:50",
-    "first_name": "Jarrett",
-    "last_name": "RATLIFF",
-    "type": "SPEEDING",
-    "fine_amount": 425.06,
-    "personID": "709c406c-069c-4bea-9c48-525d471d9e31"
-  },
-  {
-    "date_time": "2016-4-5 08:32:30",
-    "first_name": "Milton",
-    "last_name": "PETERS",
-    "type": "SPEEDING",
-    "fine_amount": 652.14,
-    "personID": "ee86efce-8934-461d-8044-08240b8d27dd"
-  },
-  {
-    "date_time": "2012-1-29 02:50:31",
-    "first_name": "Hollie",
-    "last_name": "MCGOWAN",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 3894.62,
-    "personID": "0b9a8901-f32c-47cc-8921-1f46fd96c617"
-  },
-  {
-    "date_time": "2018-3-2 08:03:46",
-    "first_name": "Gavin",
-    "last_name": "TUCKER",
+    "date_time": "2016-4-29 19:07:01",
+    "first_name": "Darrell",
+    "last_name": "ORTIZ",
     "type": "PARKING",
-    "fine_amount": 336.97,
-    "personID": "fe0a4946-14c3-4527-9145-f12c96683c2b"
+    "fine_amount": 894.4,
+    "personID": "b637da5e-54df-40fa-b6bd-c94a7c0403fc"
   },
   {
-    "date_time": "2016-3-4 08:20:33",
-    "first_name": "Nicolas",
-    "last_name": "BAILEY",
-    "type": "SPEEDING",
-    "fine_amount": 3967.29,
-    "personID": "ee7a3a2d-8760-4cc8-9810-e761dd9adc33"
-  },
-  {
-    "date_time": "2019-2-1 01:13:28",
-    "first_name": "Jarrett",
-    "last_name": "RATLIFF",
+    "date_time": "2020-11-4 18:19:21",
+    "first_name": "Glen",
+    "last_name": "PENNINGTON",
     "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 3804.01,
-    "personID": "0fdfb84a-bdef-4937-8466-0551b7a4804e"
+    "fine_amount": 4564.75,
+    "personID": "6e156271-0551-4ab2-9b5a-bbcf6c2049dd"
   },
   {
-    "date_time": "2014-12-4 13:38:10",
-    "first_name": "Milton",
-    "last_name": "PETERS",
+    "date_time": "2015-12-31 19:23:19",
+    "first_name": "Darrell",
+    "last_name": "ORTIZ",
     "type": "PARKING",
-    "fine_amount": 170.36,
-    "personID": "87701c66-4c96-491a-ab73-bd94579d562f"
+    "fine_amount": 4985.64,
+    "personID": "b637da5e-54df-40fa-b6bd-c94a7c0403fc"
   },
   {
-    "date_time": "2013-1-30 22:21:58",
-    "first_name": "Lisa",
-    "last_name": "DOMINGUEZ",
+    "date_time": "2015-3-5 06:40:58",
+    "first_name": "Darrell",
+    "last_name": "ORTIZ",
     "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 2909.83,
-    "personID": "a9299134-ca8b-444c-ad8f-d5466150a93d"
+    "fine_amount": 354.57,
+    "personID": "b637da5e-54df-40fa-b6bd-c94a7c0403fc"
   },
   {
-    "date_time": "2019-6-30 17:55:29",
-    "first_name": "Gavin",
-    "last_name": "TUCKER",
+    "date_time": "2017-2-6 03:57:50",
+    "first_name": "Glen",
+    "last_name": "PENNINGTON",
+    "type": "SPEEDING",
+    "fine_amount": 3595.77,
+    "personID": "6e156271-0551-4ab2-9b5a-bbcf6c2049dd"
+  },
+  {
+    "date_time": "2015-2-3 01:45:33",
+    "first_name": "Savannah",
+    "last_name": "BARNETT",
+    "type": "SPEEDING",
+    "fine_amount": 1372.46,
+    "personID": "2a38f44f-0da6-4f04-90f5-02b69e25847f"
+  },
+  {
+    "date_time": "2020-11-6 21:08:42",
+    "first_name": "Savannah",
+    "last_name": "BARNETT",
     "type": "PARKING",
-    "fine_amount": 3482.9,
-    "personID": "5c70703b-8f86-4dd6-891e-8f96bfeef51a"
-  },
-  {
-    "date_time": "2020-6-6 21:20:58",
-    "first_name": "Bradley",
-    "last_name": "PICKETT",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 2190.24,
-    "personID": "154abc8c-2971-4edc-82f4-2d4398c9def6"
-  },
-  {
-    "date_time": "2014-11-29 21:58:10",
-    "first_name": "Christy",
-    "last_name": "RODRIQUEZ",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 2767.6,
-    "personID": "c4881363-c984-4b25-997c-13a811a2d5bb"
-  },
-  {
-    "date_time": "2018-7-6 11:01:20",
-    "first_name": "Nicolas",
-    "last_name": "BAILEY",
-    "type": "SPEEDING",
-    "fine_amount": 1474.01,
-    "personID": "44764786-55a9-4573-8824-ca217d3052c7"
-  },
-  {
-    "date_time": "2015-10-4 03:24:16",
-    "first_name": "Hollie",
-    "last_name": "MCGOWAN",
-    "type": "SPEEDING",
-    "fine_amount": 3148.18,
-    "personID": "b7e10f08-5b62-4c0f-9041-4f646a0979eb"
-  },
-  {
-    "date_time": "2016-5-2 19:57:25",
-    "first_name": "Christy",
-    "last_name": "RODRIQUEZ",
-    "type": "SPEEDING",
-    "fine_amount": 2416.85,
-    "personID": "282710a3-9056-493f-b8c4-23ab50423f48"
-  },
-  {
-    "date_time": "2014-5-26 21:47:45",
-    "first_name": "Christy",
-    "last_name": "RODRIQUEZ",
-    "type": "SPEEDING",
-    "fine_amount": 91.07,
-    "personID": "1f31acb5-bf50-481d-ab82-80660f2cce64"
-  },
-  {
-    "date_time": "2013-6-30 04:58:21",
-    "first_name": "Brooke",
-    "last_name": "WISE",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 3455.96,
-    "personID": "077368ef-55b2-47f7-9e1f-32b8b4196c68"
-  },
-  {
-    "date_time": "2011-5-29 04:00:02",
-    "first_name": "Gavin",
-    "last_name": "TUCKER",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 1668.12,
-    "personID": "a3b2c84c-41a5-40c1-aae5-f7729cf128ec"
-  },
-  {
-    "date_time": "2018-2-24 14:43:29",
-    "first_name": "Hillary",
-    "last_name": "VILLARREAL",
-    "type": "PARKING",
-    "fine_amount": 1566.49,
-    "personID": "2b3b866c-597f-45ce-ba50-135ca6dc7b6a"
-  },
-  {
-    "date_time": "2014-11-26 10:55:22",
-    "first_name": "Nicolas",
-    "last_name": "BAILEY",
-    "type": "SPEEDING",
-    "fine_amount": 189.61,
-    "personID": "0349cf58-1d02-4eb0-a161-5dc59931a09b"
-  },
-  {
-    "date_time": "2017-5-5 04:08:54",
-    "first_name": "Hillary",
-    "last_name": "VILLARREAL",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 3816.85,
-    "personID": "8c8384d5-826d-401c-9df4-990a36846ca2"
-  },
-  {
-    "date_time": "2016-4-6 20:58:48",
-    "first_name": "Lisa",
-    "last_name": "DOMINGUEZ",
-    "type": "AGGRESSIVE DRIVING",
-    "fine_amount": 1028.48,
-    "personID": "34046f5b-c490-4160-aa66-e543e2ada6d6"
-  },
-  {
-    "date_time": "2012-5-30 02:14:21",
-    "first_name": "Gavin",
-    "last_name": "TUCKER",
-    "type": "SPEEDING",
-    "fine_amount": 3815.31,
-    "personID": "56bd5622-ed80-4d9e-8a88-99c6d2a0a871"
+    "fine_amount": 4613.92,
+    "personID": "2a38f44f-0da6-4f04-90f5-02b69e25847f"
   }
 ]

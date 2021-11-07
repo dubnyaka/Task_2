@@ -2,9 +2,9 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
 import entity.TrafficViolation;
+import org.apache.commons.math3.util.Precision;
 
 import java.io.*;
-import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.*;
@@ -12,7 +12,13 @@ import java.util.*;
 public class JsonGenerator {
 
     public static void main(String[] args) {
+        String dir = "src/main/traffic_violations/";
+        String fileName = "traffic_violations.json";
+        int numberOfPerson = 5;
+        int maxViolationPerPerson = 3;
+        List<String> violationTypes = Arrays.asList("SPEEDING", "PARKING", "AGGRESSIVE DRIVING");
         // Сделать для рандомного имени и фамилии несколько штрафов
+
         List<String> FirstNames = new ArrayList<>();
         List<String> LastNames = new ArrayList<>();
 
@@ -42,23 +48,20 @@ public class JsonGenerator {
         Random rand = new Random();
 
         List<TrafficViolation> violationsList = new ArrayList<>();
-        List<String> violationTypes = Arrays.asList("SPEEDING", "PARKING", "AGGRESSIVE DRIVING");
-
-        for (int i = 0; i < 10; i++) {
+        // How many person
+        for (int i = 0; i < numberOfPerson; i++) {
             String tempFirstName = FirstNames.get(rand.nextInt(FirstNames.size()));
             String tempLastName = LastNames.get(rand.nextInt(LastNames.size()));
+            UUID PersonID = UUID.randomUUID();
 
-            // How much violation for one person
-            int maxPerPerson = 10;
-            for (int j = 0; j < rand.nextInt(maxPerPerson) + 1; j++) {
+            // How many violation for one person
+            for (int j = 0; j < rand.nextInt(maxViolationPerPerson) + 1; j++) {
                 LocalDateTime date_time = LocalDateTime.now()
                         .minusYears(rand.nextInt(10))
                         .minusMonths(rand.nextInt(20))
                         .minus(rand.nextInt(1000000), ChronoUnit.SECONDS);
-                String PersonID = UUID.randomUUID().toString();
                 String type = violationTypes.get(rand.nextInt(violationTypes.size()));
-                double fine_amount = Math.round(rand.nextDouble(5000.0) * 100.0) / 100.0;
-
+                double fine_amount = Precision.round(rand.nextDouble(5000.0),2);
 
                 TrafficViolation violation = new TrafficViolation(date_time, tempFirstName, tempLastName, PersonID, type, fine_amount);
                 violationsList.add(violation);
@@ -68,9 +71,8 @@ public class JsonGenerator {
 
         // Serialization to json
         ObjectMapper objectMapper = new ObjectMapper().registerModule(new JavaTimeModule());
-        String s = null;
         try {
-            objectMapper.writeValue(new File("src/main/traffic_violations/traffic_violations.json"),violationsList);
+            objectMapper.writeValue(new File(dir + fileName),violationsList);
         } catch (JsonProcessingException e) {
             e.printStackTrace();
         } catch (IOException e) {

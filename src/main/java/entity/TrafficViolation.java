@@ -16,7 +16,7 @@ public class TrafficViolation {
     private LocalDateTime date_time;
     private String first_name;
     private String last_name;
-    private String PersonID = UUID.randomUUID().toString();
+    private UUID PersonID = UUID.randomUUID();
     private String type;
     double fine_amount;
 }
