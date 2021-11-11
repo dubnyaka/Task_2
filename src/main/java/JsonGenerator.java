@@ -13,9 +13,9 @@ public class JsonGenerator {
 
     public static void main(String[] args) {
         String dir = "src/main/traffic_violations/";
-        String fileName = "traffic_violations.json";
-        int numberOfPerson = 5;
-        int maxViolationPerPerson = 3;
+        String fileName = "traffic_violations41.json";
+        int numberOfPerson = 4;
+        int maxViolationPerPerson = 10;
         List<String> violationTypes = Arrays.asList("SPEEDING", "PARKING", "AGGRESSIVE DRIVING");
         // Сделать для рандомного имени и фамилии несколько штрафов
 
