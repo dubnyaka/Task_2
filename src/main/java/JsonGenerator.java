@@ -12,73 +12,76 @@ import java.util.*;
 public class JsonGenerator {
 
     public static void main(String[] args) {
-        String dir = "src/main/traffic_violations/";
-        String fileName = "traffic_violations4.json";
-        int numberOfPerson = 5;
-        int maxViolationPerPerson = 1;
-        List<String> violationTypes = Arrays.asList("SPEEDING", "PARKING", "AGGRESSIVE DRIVING");
-        // Сделать для рандомного имени и фамилии несколько штрафов
+        generate("src/main/traffic_violations/",100,3,8);
+    }
 
-        List<String> FirstNames = new ArrayList<>();
-        List<String> LastNames = new ArrayList<>();
 
-        String FirstNamesFille = "src/main/java/UtilsData/EnglishNames.txt";
-        String LastNamesFille = "src/main/java/UtilsData/EnglishLastNames.txt";
+    public static void generate(String dir,int persons,int maxPerPerson,int count){
+        for (int counter = 0; counter < count; counter++) {
+            String fileName = String.format("traffic_violation%d.json",counter);
+            List<String> violationTypes = Arrays.asList("SPEEDING", "PARKING", "AGGRESSIVE DRIVING");
+            // Сделать для рандомного имени и фамилии несколько штрафов
 
-        BufferedReader br = null;
-        try {
-            br = new BufferedReader(new FileReader(FirstNamesFille));
-            FirstNames.addAll(br.lines().toList());
+            List<String> FirstNames = new ArrayList<>();
+            List<String> LastNames = new ArrayList<>();
 
-            br = new BufferedReader(new FileReader(LastNamesFille));
-            LastNames.addAll(br.lines().toList());
+            String FirstNamesFille = "src/main/java/UtilsData/EnglishNames.txt";
+            String LastNamesFille = "src/main/java/UtilsData/EnglishLastNames.txt";
 
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } finally {
-            if (br != null) {
-                try {
-                    br.close();
-                } catch (IOException e) {
-                    e.printStackTrace();
+            BufferedReader br = null;
+            try {
+                br = new BufferedReader(new FileReader(FirstNamesFille));
+                FirstNames.addAll(br.lines().toList());
+
+                br = new BufferedReader(new FileReader(LastNamesFille));
+                LastNames.addAll(br.lines().toList());
+
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
+            } finally {
+                if (br != null) {
+                    try {
+                        br.close();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
-        }
 
-        Random rand = new Random();
+            Random rand = new Random();
 
-        List<TrafficViolation> violationsList = new ArrayList<>();
-        // How many person
-        for (int i = 0; i < numberOfPerson; i++) {
-            String tempFirstName = FirstNames.get(rand.nextInt(FirstNames.size()));
-            String tempLastName = LastNames.get(rand.nextInt(LastNames.size()));
-            UUID PersonID = UUID.randomUUID();
+            List<TrafficViolation> violationsList = new ArrayList<>();
+            // How many person
+            for (int i = 0; i < persons; i++) {
+                String tempFirstName = FirstNames.get(rand.nextInt(FirstNames.size()));
+                String tempLastName = LastNames.get(rand.nextInt(LastNames.size()));
+                UUID PersonID = UUID.randomUUID();
 
-            // How many violation for one person
-            for (int j = 0; j < rand.nextInt(maxViolationPerPerson) + 1; j++) {
-                LocalDateTime date_time = LocalDateTime.now()
-                        .minusYears(rand.nextInt(10))
-                        .minusMonths(rand.nextInt(20))
-                        .minus(rand.nextInt(1000000), ChronoUnit.SECONDS);
-                String type = violationTypes.get(rand.nextInt(violationTypes.size()));
-                double fine_amount = Precision.round(rand.nextDouble(5000.0),2);
+                // How many violation for one person
+                for (int j = 0; j < rand.nextInt(maxPerPerson) + 1; j++) {
+                    LocalDateTime date_time = LocalDateTime.now()
+                            .minusYears(rand.nextInt(10))
+                            .minusMonths(rand.nextInt(20))
+                            .minus(rand.nextInt(1000000), ChronoUnit.SECONDS);
+                    String type = violationTypes.get(rand.nextInt(violationTypes.size()));
+                    double fine_amount = Precision.round(rand.nextDouble(5000.0),2);
 
-                TrafficViolation violation = new TrafficViolation(date_time, tempFirstName, tempLastName, PersonID, type, fine_amount);
-                violationsList.add(violation);
+                    TrafficViolation violation = new TrafficViolation(date_time, tempFirstName, tempLastName, PersonID, type, fine_amount);
+                    violationsList.add(violation);
+                }
+            }
+            Collections.shuffle(violationsList);
+
+            // Serialization to json
+            ObjectMapper objectMapper = new ObjectMapper().registerModule(new JavaTimeModule());
+            try {
+                objectMapper.writeValue(new File(dir + fileName),violationsList);
+            } catch (JsonProcessingException e) {
+                e.printStackTrace();
+            } catch (IOException e) {
+                e.printStackTrace();
             }
         }
-        Collections.shuffle(violationsList);
-
-        // Serialization to json
-        ObjectMapper objectMapper = new ObjectMapper().registerModule(new JavaTimeModule());
-        try {
-            objectMapper.writeValue(new File(dir + fileName),violationsList);
-        } catch (JsonProcessingException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
     }
 
 }

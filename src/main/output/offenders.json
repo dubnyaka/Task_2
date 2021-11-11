@@ -1,82 +1,6402 @@
 [
   {
-    "first_name": "Douglas",
-    "last_name": "TRAN",
-    "numberOfViolations": 1,
-    "total_fine": 2604.44,
-    "average_fine": 2604.44,
-    "personID": "1a1d3371-e2ea-44e8-a037-4eb21630b74b"
+    "first_name": "Crystal",
+    "last_name": "WATSON",
+    "numberOfViolations": 2,
+    "total_fine": 7081.3,
+    "average_fine": 3540.65,
+    "personID": "5d9cf1c6-b0ff-45fd-a0ca-6427c259c7ec"
   },
   {
-    "first_name": "Dana",
-    "last_name": "PATTON",
-    "numberOfViolations": 1,
-    "total_fine": 3852.6,
-    "average_fine": 3852.6,
-    "personID": "e12bede6-0f63-4788-8099-ab4243ae0b42"
+    "first_name": "Alvin",
+    "last_name": "RIDDLE",
+    "numberOfViolations": 3,
+    "total_fine": 6339.9,
+    "average_fine": 2113.3,
+    "personID": "48d1ca7b-1646-4782-bc03-b687fd07f4eb"
   },
   {
-    "first_name": "Ramon",
+    "first_name": "Anthony",
+    "last_name": "RAMOS",
+    "numberOfViolations": 1,
+    "total_fine": 730.07,
+    "average_fine": 730.07,
+    "personID": "bad04eff-3f99-4666-9f9c-f0a75680d46c"
+  },
+  {
+    "first_name": "Leticia",
+    "last_name": "HENSON",
+    "numberOfViolations": 3,
+    "total_fine": 10157.54,
+    "average_fine": 3385.85,
+    "personID": "f51bab22-1944-4c60-96b9-261110e30351"
+  },
+  {
+    "first_name": "Jami",
+    "last_name": "LAWSON",
+    "numberOfViolations": 2,
+    "total_fine": 8208.64,
+    "average_fine": 4104.32,
+    "personID": "8c9375d7-3e42-4864-b512-43a702176bca"
+  },
+  {
+    "first_name": "Leon",
+    "last_name": "WILKINSON",
+    "numberOfViolations": 3,
+    "total_fine": 12376.83,
+    "average_fine": 4125.61,
+    "personID": "edaaa2d0-58c5-4376-b2ce-b1fa5c14d3e5"
+  },
+  {
+    "first_name": "Hector",
+    "last_name": "VAUGHAN",
+    "numberOfViolations": 3,
+    "total_fine": 9086.66,
+    "average_fine": 3028.89,
+    "personID": "a80c77f6-595b-4128-a6fc-fec6d953eeee"
+  },
+  {
+    "first_name": "Carly",
+    "last_name": "MCKAY",
+    "numberOfViolations": 2,
+    "total_fine": 3966.93,
+    "average_fine": 1983.47,
+    "personID": "0e6b6d4a-6b60-4e4f-b500-6bd0dfe59f2b"
+  },
+  {
+    "first_name": "Herbert",
     "last_name": "DUNN",
-    "numberOfViolations": 1,
-    "total_fine": 1134.49,
-    "average_fine": 1134.49,
-    "personID": "64284f20-944e-448f-bceb-362ccb085a57"
+    "numberOfViolations": 2,
+    "total_fine": 2683.06,
+    "average_fine": 1341.53,
+    "personID": "99e6548e-eb28-405a-a81e-4e1fbdb1fdba"
   },
   {
-    "first_name": "Randi",
-    "last_name": "BLANKENSHIP",
+    "first_name": "Trenton",
+    "last_name": "MITCHELL",
     "numberOfViolations": 1,
-    "total_fine": 535.64,
-    "average_fine": 535.64,
-    "personID": "f4cea220-be94-4418-ac2e-e231bc121adc"
+    "total_fine": 1996.3,
+    "average_fine": 1996.3,
+    "personID": "032c551d-479b-4cc3-b94b-2dddefa25e49"
   },
   {
     "first_name": "Ashleigh",
-    "last_name": "NEWMAN",
-    "numberOfViolations": 1,
-    "total_fine": 1442.33,
-    "average_fine": 1442.33,
-    "personID": "275fde34-3e83-4a5b-a8a9-ffcbd83456b6"
+    "last_name": "ZIMMERMAN",
+    "numberOfViolations": 2,
+    "total_fine": 5425.24,
+    "average_fine": 2712.62,
+    "personID": "b7b2106a-33c0-46af-8438-988824ee8afc"
   },
   {
-    "first_name": "Rene",
-    "last_name": "CONRAD",
+    "first_name": "Curtis",
+    "last_name": "COOKE",
     "numberOfViolations": 1,
-    "total_fine": 3525.9,
-    "average_fine": 3525.9,
-    "personID": "e35ef7a4-344d-4adc-88b1-1a476c70cdd8"
+    "total_fine": 236.89,
+    "average_fine": 236.89,
+    "personID": "8ba5f31e-03c0-4b70-ab02-9fca847c00a5"
   },
   {
-    "first_name": "Nathaniel",
+    "first_name": "Karl",
+    "last_name": "HOLMES",
+    "numberOfViolations": 2,
+    "total_fine": 2198.52,
+    "average_fine": 1099.26,
+    "personID": "581643d3-5a99-4c28-b92f-f184501195d4"
+  },
+  {
+    "first_name": "Elias",
+    "last_name": "WELCH",
+    "numberOfViolations": 3,
+    "total_fine": 1723.77,
+    "average_fine": 574.59,
+    "personID": "c82a4a23-8e67-4f49-b17e-51e73adda978"
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "HERNANDEZ",
+    "numberOfViolations": 2,
+    "total_fine": 6039.55,
+    "average_fine": 3019.78,
+    "personID": "8410a52d-12f0-4559-b35a-c306de7020a6"
+  },
+  {
+    "first_name": "Aubrey",
+    "last_name": "KNOWLES",
+    "numberOfViolations": 2,
+    "total_fine": 5685.09,
+    "average_fine": 2842.55,
+    "personID": "9478d252-c2fb-4eee-a05e-d9cbb4f4a741"
+  },
+  {
+    "first_name": "Lauren",
+    "last_name": "SKINNER",
+    "numberOfViolations": 1,
+    "total_fine": 453.84,
+    "average_fine": 453.84,
+    "personID": "5497705d-31e9-4365-a7b8-9cf312ab9787"
+  },
+  {
+    "first_name": "Gina",
+    "last_name": "BAKER",
+    "numberOfViolations": 3,
+    "total_fine": 6709.27,
+    "average_fine": 2236.42,
+    "personID": "3b2505bc-c4ff-4602-a8ca-92d7ff61513a"
+  },
+  {
+    "first_name": "Blair",
+    "last_name": "WALTER",
+    "numberOfViolations": 1,
+    "total_fine": 3522.4,
+    "average_fine": 3522.4,
+    "personID": "239e893f-5d63-4f6b-bdd8-4c88be902f4a"
+  },
+  {
+    "first_name": "Shaina",
+    "last_name": "COLEMAN",
+    "numberOfViolations": 3,
+    "total_fine": 7217.86,
+    "average_fine": 2405.95,
+    "personID": "9f626ea0-85ac-44f6-9bf0-3cd2cc329bae"
+  },
+  {
+    "first_name": "Albert",
+    "last_name": "MEJIA",
+    "numberOfViolations": 3,
+    "total_fine": 3102.46,
+    "average_fine": 1034.15,
+    "personID": "dd823244-e6b7-4c90-9410-ffbd278f01eb"
+  },
+  {
+    "first_name": "Russell",
+    "last_name": "SHAFFER",
+    "numberOfViolations": 1,
+    "total_fine": 2891.82,
+    "average_fine": 2891.82,
+    "personID": "13467ae5-67d7-4de5-b6a4-726fcd142267"
+  },
+  {
+    "first_name": "Julia",
+    "last_name": "HANCOCK",
+    "numberOfViolations": 2,
+    "total_fine": 1685.56,
+    "average_fine": 842.78,
+    "personID": "3a277fc7-8eac-4452-9f27-ded5e2748cb4"
+  },
+  {
+    "first_name": "Latrice",
+    "last_name": "HESTER",
+    "numberOfViolations": 1,
+    "total_fine": 4948.7,
+    "average_fine": 4948.7,
+    "personID": "ecacb0df-f9c6-4358-94cb-ba1074c3dcd9"
+  },
+  {
+    "first_name": "Bridgette",
+    "last_name": "SCOTT",
+    "numberOfViolations": 2,
+    "total_fine": 5981.43,
+    "average_fine": 2990.72,
+    "personID": "c1c3bdca-6482-4b2a-a0fd-da87d6073ff2"
+  },
+  {
+    "first_name": "Jay",
+    "last_name": "YORK",
+    "numberOfViolations": 1,
+    "total_fine": 1109.83,
+    "average_fine": 1109.83,
+    "personID": "b4b4a8ad-e4ed-49c9-8101-ec079eeba2e0"
+  },
+  {
+    "first_name": "Theodore",
+    "last_name": "MOORE",
+    "numberOfViolations": 1,
+    "total_fine": 3304.07,
+    "average_fine": 3304.07,
+    "personID": "a96c8fa9-61ed-46ce-a7cb-6fc121f72028"
+  },
+  {
+    "first_name": "Tia",
+    "last_name": "LOVE",
+    "numberOfViolations": 1,
+    "total_fine": 201.36,
+    "average_fine": 201.36,
+    "personID": "7c1a3c99-bc75-42d0-9708-2e29706ed75e"
+  },
+  {
+    "first_name": "Yvonne",
+    "last_name": "TORRES",
+    "numberOfViolations": 2,
+    "total_fine": 7634.09,
+    "average_fine": 3817.05,
+    "personID": "b6bdc0d8-70d9-4545-a9f8-62cf42fb6a0d"
+  },
+  {
+    "first_name": "Nicolas",
+    "last_name": "HOLMES",
+    "numberOfViolations": 1,
+    "total_fine": 4064.95,
+    "average_fine": 4064.95,
+    "personID": "be8fea0b-47be-4673-b4d0-fb034bff595c"
+  },
+  {
+    "first_name": "Spencer",
+    "last_name": "WOODWARD",
+    "numberOfViolations": 1,
+    "total_fine": 1011.21,
+    "average_fine": 1011.21,
+    "personID": "d3580450-9cff-4c3e-ae94-12e674c5df44"
+  },
+  {
+    "first_name": "Marc",
+    "last_name": "HARVEY",
+    "numberOfViolations": 1,
+    "total_fine": 4572.61,
+    "average_fine": 4572.61,
+    "personID": "24cc83a8-d4d8-4c91-8b05-e9c5026c3fba"
+  },
+  {
+    "first_name": "Emanuel",
+    "last_name": "ALVARADO",
+    "numberOfViolations": 1,
+    "total_fine": 1068.03,
+    "average_fine": 1068.03,
+    "personID": "c8231289-9586-4999-862e-fe9a4d08cb32"
+  },
+  {
+    "first_name": "Donald",
+    "last_name": "BENTON",
+    "numberOfViolations": 2,
+    "total_fine": 4564.33,
+    "average_fine": 2282.17,
+    "personID": "a7ac23bb-776a-4c25-8a0c-27beff79f5af"
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "MACK",
+    "numberOfViolations": 2,
+    "total_fine": 2558.82,
+    "average_fine": 1279.41,
+    "personID": "78908f81-2e63-46ec-a211-cbe329f99fa8"
+  },
+  {
+    "first_name": "Lionel",
+    "last_name": "JUAREZ",
+    "numberOfViolations": 2,
+    "total_fine": 3238.45,
+    "average_fine": 1619.23,
+    "personID": "2cc90b47-7675-433f-b8f1-1cba3f34f184"
+  },
+  {
+    "first_name": "Shauna",
+    "last_name": "WALLACE",
+    "numberOfViolations": 3,
+    "total_fine": 8300.03,
+    "average_fine": 2766.68,
+    "personID": "f8b44ace-17c3-46ad-bff2-144920d0b03e"
+  },
+  {
+    "first_name": "Lillian",
+    "last_name": "STAFFORD",
+    "numberOfViolations": 2,
+    "total_fine": 3614.06,
+    "average_fine": 1807.03,
+    "personID": "b64a7df6-ebf5-404b-a61e-805985295b2d"
+  },
+  {
+    "first_name": "Dena",
+    "last_name": "LOGAN",
+    "numberOfViolations": 2,
+    "total_fine": 6652.4,
+    "average_fine": 3326.2,
+    "personID": "6e11de90-e2aa-4c00-ab06-83893b623d84"
+  },
+  {
+    "first_name": "Sally",
+    "last_name": "TREVINO",
+    "numberOfViolations": 3,
+    "total_fine": 6772.1,
+    "average_fine": 2257.37,
+    "personID": "d151e18d-8845-4d01-a81c-3ef94efe4dc0"
+  },
+  {
+    "first_name": "Trent",
+    "last_name": "PARKER",
+    "numberOfViolations": 2,
+    "total_fine": 4560.05,
+    "average_fine": 2280.03,
+    "personID": "7c2b5b29-5316-4cbd-8a10-ec2f7f934940"
+  },
+  {
+    "first_name": "Bianca",
+    "last_name": "JIMENEZ",
+    "numberOfViolations": 2,
+    "total_fine": 4639.57,
+    "average_fine": 2319.79,
+    "personID": "bf481c36-08e8-47fa-b18f-a4c0bd506c35"
+  },
+  {
+    "first_name": "Ruby",
+    "last_name": "ZIMMERMAN",
+    "numberOfViolations": 1,
+    "total_fine": 4437.13,
+    "average_fine": 4437.13,
+    "personID": "84bbb5f2-c3c3-4830-8502-e7bbca2f5265"
+  },
+  {
+    "first_name": "Belinda",
+    "last_name": "SHAW",
+    "numberOfViolations": 1,
+    "total_fine": 4510.63,
+    "average_fine": 4510.63,
+    "personID": "02538c81-f119-4bc6-bea6-ce748476d8e5"
+  },
+  {
+    "first_name": "Belinda",
+    "last_name": "ABBOTT",
+    "numberOfViolations": 1,
+    "total_fine": 1096.01,
+    "average_fine": 1096.01,
+    "personID": "335b58b8-9400-482d-af1b-95e8b6ee439f"
+  },
+  {
+    "first_name": "Kurtis",
+    "last_name": "BRANCH",
+    "numberOfViolations": 2,
+    "total_fine": 2446.64,
+    "average_fine": 1223.32,
+    "personID": "c3034175-74f4-4446-b232-d28469e4abc6"
+  },
+  {
+    "first_name": "Hector",
+    "last_name": "MCKEE",
+    "numberOfViolations": 2,
+    "total_fine": 3212.3,
+    "average_fine": 1606.15,
+    "personID": "af1eb181-521a-495a-9ec6-97f320c5947f"
+  },
+  {
+    "first_name": "Alecia",
+    "last_name": "BYERS",
+    "numberOfViolations": 1,
+    "total_fine": 3283.37,
+    "average_fine": 3283.37,
+    "personID": "5ff533a7-d8c9-48e9-bc50-9a813768e59a"
+  },
+  {
+    "first_name": "Rose",
+    "last_name": "MERCER",
+    "numberOfViolations": 1,
+    "total_fine": 3024.04,
+    "average_fine": 3024.04,
+    "personID": "88ab80d8-9412-4e70-ac74-40cd6520cbec"
+  },
+  {
+    "first_name": "Allan",
+    "last_name": "FOX",
+    "numberOfViolations": 3,
+    "total_fine": 10421.01,
+    "average_fine": 3473.67,
+    "personID": "09514757-52e0-4481-84f8-683caafe9638"
+  },
+  {
+    "first_name": "Marquita",
+    "last_name": "COLON",
+    "numberOfViolations": 1,
+    "total_fine": 2437.59,
+    "average_fine": 2437.59,
+    "personID": "fc44142c-5700-4c74-bbca-22541a7a7090"
+  },
+  {
+    "first_name": "Dana",
+    "last_name": "PRUITT",
+    "numberOfViolations": 1,
+    "total_fine": 773.55,
+    "average_fine": 773.55,
+    "personID": "9946935b-1614-4aa1-883f-19fc2323ac21"
+  },
+  {
+    "first_name": "Leroy",
+    "last_name": "SAUNDERS",
+    "numberOfViolations": 1,
+    "total_fine": 4035.23,
+    "average_fine": 4035.23,
+    "personID": "811c34d9-4160-4e17-9600-46e90b1ef92e"
+  },
+  {
+    "first_name": "Lawrence",
+    "last_name": "NIXON",
+    "numberOfViolations": 2,
+    "total_fine": 6508.52,
+    "average_fine": 3254.26,
+    "personID": "5e06ea8e-a779-4798-aeca-79f1e375a04c"
+  },
+  {
+    "first_name": "Carrie",
+    "last_name": "SANTANA",
+    "numberOfViolations": 2,
+    "total_fine": 8788.4,
+    "average_fine": 4394.2,
+    "personID": "114a47e3-2b92-457c-8e1e-56edfead9e76"
+  },
+  {
+    "first_name": "Kate",
+    "last_name": "RIVERS",
+    "numberOfViolations": 2,
+    "total_fine": 4306.9,
+    "average_fine": 2153.45,
+    "personID": "241cc105-092e-46a2-94bf-5d49acdd0fcc"
+  },
+  {
+    "first_name": "Abigail",
+    "last_name": "CLINE",
+    "numberOfViolations": 3,
+    "total_fine": 5353.14,
+    "average_fine": 1784.38,
+    "personID": "e29a8152-34b2-4ccd-b79a-cd8f6d3a64ee"
+  },
+  {
+    "first_name": "Nolan",
+    "last_name": "ALLISON",
+    "numberOfViolations": 1,
+    "total_fine": 4249.6,
+    "average_fine": 4249.6,
+    "personID": "e5b3d34b-c403-43d9-ab1b-cc7a78437e78"
+  },
+  {
+    "first_name": "Rory",
+    "last_name": "MAY",
+    "numberOfViolations": 1,
+    "total_fine": 4148.06,
+    "average_fine": 4148.06,
+    "personID": "350a78ad-5330-4c8f-842a-c3f5693e4481"
+  },
+  {
+    "first_name": "Meagan",
+    "last_name": "TATE",
+    "numberOfViolations": 3,
+    "total_fine": 4946.51,
+    "average_fine": 1648.84,
+    "personID": "73fff543-bbd1-47aa-8986-a20ee8637157"
+  },
+  {
+    "first_name": "Marco",
+    "last_name": "MCCONNELL",
+    "numberOfViolations": 1,
+    "total_fine": 3387.81,
+    "average_fine": 3387.81,
+    "personID": "03af4e06-145f-42c2-b01a-2b85899529bf"
+  },
+  {
+    "first_name": "Kristie",
+    "last_name": "MCMAHON",
+    "numberOfViolations": 1,
+    "total_fine": 731.4,
+    "average_fine": 731.4,
+    "personID": "a587b176-a6a5-44fc-946a-844e272d0123"
+  },
+  {
+    "first_name": "Larissa",
+    "last_name": "ROSE",
+    "numberOfViolations": 2,
+    "total_fine": 2612.41,
+    "average_fine": 1306.21,
+    "personID": "f72f0083-ad52-4ee1-bd31-d1b570fb10e2"
+  },
+  {
+    "first_name": "Beau",
+    "last_name": "HARRISON",
+    "numberOfViolations": 3,
+    "total_fine": 8229.64,
+    "average_fine": 2743.21,
+    "personID": "b71ea681-ba03-4b58-931e-0935c766bd0a"
+  },
+  {
+    "first_name": "Spencer",
+    "last_name": "GILES",
+    "numberOfViolations": 1,
+    "total_fine": 3239.31,
+    "average_fine": 3239.31,
+    "personID": "c093f7f8-efe4-4a77-ace5-195414b9ab75"
+  },
+  {
+    "first_name": "Yvonne",
+    "last_name": "AVERY",
+    "numberOfViolations": 2,
+    "total_fine": 3763.88,
+    "average_fine": 1881.94,
+    "personID": "b160a02d-1de8-4f41-80ba-f2198aafab6e"
+  },
+  {
+    "first_name": "Johnathon",
+    "last_name": "ODONNELL",
+    "numberOfViolations": 2,
+    "total_fine": 6653.35,
+    "average_fine": 3326.68,
+    "personID": "d34a4a81-d39f-4e51-a57d-b2be01f36ab3"
+  },
+  {
+    "first_name": "Milton",
+    "last_name": "HYDE",
+    "numberOfViolations": 1,
+    "total_fine": 4931.32,
+    "average_fine": 4931.32,
+    "personID": "b05a55b2-c93e-4303-b8c3-cf2124a25c1b"
+  },
+  {
+    "first_name": "Albert",
+    "last_name": "PRESTON",
+    "numberOfViolations": 2,
+    "total_fine": 3514.39,
+    "average_fine": 1757.2,
+    "personID": "04c6af2b-6c6c-4144-a4a7-e20926c26633"
+  },
+  {
+    "first_name": "Melvin",
+    "last_name": "HALEY",
+    "numberOfViolations": 1,
+    "total_fine": 1902.47,
+    "average_fine": 1902.47,
+    "personID": "8702f1c8-fc3a-4f8b-87f4-fd600c1acb6e"
+  },
+  {
+    "first_name": "Terrence",
+    "last_name": "HEWITT",
+    "numberOfViolations": 1,
+    "total_fine": 4721.49,
+    "average_fine": 4721.49,
+    "personID": "183a1322-17e0-4442-9825-6eecbd45a3aa"
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "PETERSON",
+    "numberOfViolations": 3,
+    "total_fine": 8047.24,
+    "average_fine": 2682.41,
+    "personID": "64245629-b1a1-4662-9d6c-b018fdce6de9"
+  },
+  {
+    "first_name": "Adrianne",
+    "last_name": "KIDD",
+    "numberOfViolations": 2,
+    "total_fine": 3875.5,
+    "average_fine": 1937.75,
+    "personID": "4cebdb89-5b88-456e-b013-10148bd992fa"
+  },
+  {
+    "first_name": "Damien",
+    "last_name": "KANE",
+    "numberOfViolations": 2,
+    "total_fine": 3701.83,
+    "average_fine": 1850.92,
+    "personID": "ff4dd997-4e06-46cb-97ed-a4480c16c901"
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "KLINE",
+    "numberOfViolations": 2,
+    "total_fine": 4426.67,
+    "average_fine": 2213.34,
+    "personID": "7a6a57c9-c10b-4349-8602-7fa9593f7fd3"
+  },
+  {
+    "first_name": "Brittany",
+    "last_name": "LARSEN",
+    "numberOfViolations": 2,
+    "total_fine": 4480.53,
+    "average_fine": 2240.27,
+    "personID": "8be57c7a-f6be-4da2-ad19-f79cd9ca5766"
+  },
+  {
+    "first_name": "Jeffery",
+    "last_name": "RICHARDS",
+    "numberOfViolations": 3,
+    "total_fine": 7889.54,
+    "average_fine": 2629.85,
+    "personID": "ed2531d5-a3f4-472f-809c-e5e2c5ca5834"
+  },
+  {
+    "first_name": "Mary",
+    "last_name": "HARDY",
+    "numberOfViolations": 2,
+    "total_fine": 5627.61,
+    "average_fine": 2813.81,
+    "personID": "cfe8790a-4a1f-4a45-8d08-00610bd908a5"
+  },
+  {
+    "first_name": "Grant",
+    "last_name": "STUART",
+    "numberOfViolations": 1,
+    "total_fine": 1228.56,
+    "average_fine": 1228.56,
+    "personID": "baa5fc9f-a0b4-415a-875f-48132835a01d"
+  },
+  {
+    "first_name": "Lakeisha",
+    "last_name": "WARREN",
+    "numberOfViolations": 1,
+    "total_fine": 1247.49,
+    "average_fine": 1247.49,
+    "personID": "d1dd5393-6627-4953-b758-973a2375de9f"
+  },
+  {
+    "first_name": "Earl",
+    "last_name": "RIGGS",
+    "numberOfViolations": 3,
+    "total_fine": 7274.74,
+    "average_fine": 2424.91,
+    "personID": "0d94e7cb-bdb2-44a9-ac91-6f7c837d7b60"
+  },
+  {
+    "first_name": "Amie",
+    "last_name": "DANIELS",
+    "numberOfViolations": 1,
+    "total_fine": 4644.21,
+    "average_fine": 4644.21,
+    "personID": "bdd1f2e2-4b8f-41e9-ba5d-e49c47de5cff"
+  },
+  {
+    "first_name": "Kacie",
+    "last_name": "SEXTON",
+    "numberOfViolations": 2,
+    "total_fine": 5075.54,
+    "average_fine": 2537.77,
+    "personID": "1e0968c7-dc7c-445d-a7be-fca281ca0c81"
+  },
+  {
+    "first_name": "Julius",
+    "last_name": "RUSSO",
+    "numberOfViolations": 2,
+    "total_fine": 4873.68,
+    "average_fine": 2436.84,
+    "personID": "6a726974-68cd-4165-87d1-997acf1933a5"
+  },
+  {
+    "first_name": "Maggie",
+    "last_name": "HOOD",
+    "numberOfViolations": 3,
+    "total_fine": 10270.22,
+    "average_fine": 3423.41,
+    "personID": "4f70ef64-6f84-408d-a458-75bc0581cbc5"
+  },
+  {
+    "first_name": "Marvin",
+    "last_name": "HEATH",
+    "numberOfViolations": 2,
+    "total_fine": 5169.01,
+    "average_fine": 2584.51,
+    "personID": "12f5a97d-597c-4f10-b011-27fbd8ad2263"
+  },
+  {
+    "first_name": "George",
+    "last_name": "BOYLE",
+    "numberOfViolations": 3,
+    "total_fine": 10747.45,
+    "average_fine": 3582.48,
+    "personID": "bc3224e7-8532-48b0-82cc-7678b73cc615"
+  },
+  {
+    "first_name": "Damien",
+    "last_name": "NEWTON",
+    "numberOfViolations": 2,
+    "total_fine": 3542.33,
+    "average_fine": 1771.17,
+    "personID": "7401e01c-7db3-40d3-952c-26b5eed404fb"
+  },
+  {
+    "first_name": "Julie",
+    "last_name": "GILLIAM",
+    "numberOfViolations": 3,
+    "total_fine": 8329.54,
+    "average_fine": 2776.51,
+    "personID": "b5bca91f-b519-4f29-b0eb-3433db99911f"
+  },
+  {
+    "first_name": "Grace",
+    "last_name": "THOMPSON",
+    "numberOfViolations": 3,
+    "total_fine": 10088.74,
+    "average_fine": 3362.91,
+    "personID": "f75e554b-7480-4398-ba3c-49fa9ba5edbe"
+  },
+  {
+    "first_name": "Kendra",
     "last_name": "RAYMOND",
-    "numberOfViolations": 1,
-    "total_fine": 692.39,
-    "average_fine": 692.39,
-    "personID": "f1e9ca82-b225-4651-a891-1102110c0868"
+    "numberOfViolations": 3,
+    "total_fine": 5729.29,
+    "average_fine": 1909.76,
+    "personID": "54573444-0a5d-4167-ac12-e43c8523c6f6"
   },
   {
-    "first_name": "Sandy",
-    "last_name": "FINCH",
-    "numberOfViolations": 1,
-    "total_fine": 4325.66,
-    "average_fine": 4325.66,
-    "personID": "2f882cbe-267c-48b4-a6a3-87410c8425d1"
+    "first_name": "Jonathon",
+    "last_name": "BLAIR",
+    "numberOfViolations": 2,
+    "total_fine": 4461.43,
+    "average_fine": 2230.72,
+    "personID": "502f5d36-1dd4-4c9a-a194-0b18df011909"
   },
   {
-    "first_name": "Seth",
-    "last_name": "ROCHA",
+    "first_name": "Katy",
+    "last_name": "RICHARDSON",
     "numberOfViolations": 1,
-    "total_fine": 1853.71,
-    "average_fine": 1853.71,
-    "personID": "9ab38d66-a510-48b1-8efe-2cd7dba4e8e2"
+    "total_fine": 3849.06,
+    "average_fine": 3849.06,
+    "personID": "9695a4fb-7c2e-43c4-afbe-1dfd854b3a58"
+  },
+  {
+    "first_name": "Clint",
+    "last_name": "MCPHERSON",
+    "numberOfViolations": 2,
+    "total_fine": 2554.85,
+    "average_fine": 1277.43,
+    "personID": "ce049596-5347-4a18-a068-2f5d83e6ceca"
+  },
+  {
+    "first_name": "Michelle",
+    "last_name": "ERICKSON",
+    "numberOfViolations": 3,
+    "total_fine": 8939.74,
+    "average_fine": 2979.91,
+    "personID": "12db1557-e770-44f9-a0a6-8c89ddad3d51"
+  },
+  {
+    "first_name": "Eli",
+    "last_name": "BEACH",
+    "numberOfViolations": 2,
+    "total_fine": 4578.4,
+    "average_fine": 2289.2,
+    "personID": "0cc560df-2b01-4c58-9857-7c37ac0fabf4"
+  },
+  {
+    "first_name": "Iris",
+    "last_name": "ROSARIO",
+    "numberOfViolations": 2,
+    "total_fine": 5367.43,
+    "average_fine": 2683.72,
+    "personID": "6b64030c-5eac-417a-96d5-1c06e885bd30"
+  },
+  {
+    "first_name": "Olivia",
+    "last_name": "PACHECO",
+    "numberOfViolations": 3,
+    "total_fine": 9882.93,
+    "average_fine": 3294.31,
+    "personID": "7bd2f6a0-5aa6-46c1-964a-f4402b96d853"
+  },
+  {
+    "first_name": "Gustavo",
+    "last_name": "FORD",
+    "numberOfViolations": 2,
+    "total_fine": 5225.49,
+    "average_fine": 2612.75,
+    "personID": "1104f909-090d-405e-8ca1-c9bc2c101888"
+  },
+  {
+    "first_name": "Regina",
+    "last_name": "COBB",
+    "numberOfViolations": 2,
+    "total_fine": 2178.82,
+    "average_fine": 1089.41,
+    "personID": "ecda53f8-b691-48ce-8553-e2e38baf2dbc"
+  },
+  {
+    "first_name": "Barbara",
+    "last_name": "DOTSON",
+    "numberOfViolations": 1,
+    "total_fine": 2110.61,
+    "average_fine": 2110.61,
+    "personID": "ea41628a-4442-45cb-bf07-8cfec004fa61"
+  },
+  {
+    "first_name": "Kendall",
+    "last_name": "HOLLAND",
+    "numberOfViolations": 2,
+    "total_fine": 2009.4,
+    "average_fine": 1004.7,
+    "personID": "9066e36b-be40-49d7-bcd4-f5e061c5bcb4"
+  },
+  {
+    "first_name": "Noel",
+    "last_name": "PAGE",
+    "numberOfViolations": 2,
+    "total_fine": 4604.93,
+    "average_fine": 2302.47,
+    "personID": "4c41d609-c0e0-437e-9410-972cb8af9a9a"
+  },
+  {
+    "first_name": "Elisha",
+    "last_name": "ROSS",
+    "numberOfViolations": 3,
+    "total_fine": 3732.51,
+    "average_fine": 1244.17,
+    "personID": "7a335b35-d860-43af-a677-8ad71cb4d202"
+  },
+  {
+    "first_name": "Preston",
+    "last_name": "KOCH",
+    "numberOfViolations": 2,
+    "total_fine": 8520.1,
+    "average_fine": 4260.05,
+    "personID": "e454738e-0af2-43ef-9c0c-6d4d7ac4a59d"
+  },
+  {
+    "first_name": "Alfredo",
+    "last_name": "LYONS",
+    "numberOfViolations": 1,
+    "total_fine": 2584.57,
+    "average_fine": 2584.57,
+    "personID": "322ab583-6f42-4370-bb9a-d11e64861d79"
+  },
+  {
+    "first_name": "Latisha",
+    "last_name": "WOLF",
+    "numberOfViolations": 1,
+    "total_fine": 1399.63,
+    "average_fine": 1399.63,
+    "personID": "31e55325-15e6-4730-9c5d-456472898344"
+  },
+  {
+    "first_name": "Cedric",
+    "last_name": "BROOKS",
+    "numberOfViolations": 1,
+    "total_fine": 1186.64,
+    "average_fine": 1186.64,
+    "personID": "8b111b6e-42bb-4fea-9b11-90ebf1a81799"
+  },
+  {
+    "first_name": "Noelle",
+    "last_name": "WALTERS",
+    "numberOfViolations": 3,
+    "total_fine": 4386.81,
+    "average_fine": 1462.27,
+    "personID": "c56d7c6e-68ad-4b89-a0ab-c0627c598651"
+  },
+  {
+    "first_name": "Latonya",
+    "last_name": "MAYNARD",
+    "numberOfViolations": 2,
+    "total_fine": 5647.49,
+    "average_fine": 2823.75,
+    "personID": "82ca507d-5c19-4153-b6e5-888634ac6dda"
+  },
+  {
+    "first_name": "Margarita",
+    "last_name": "BELL",
+    "numberOfViolations": 3,
+    "total_fine": 6127.96,
+    "average_fine": 2042.65,
+    "personID": "807c6340-08e9-4c90-87f5-4e505c9cba94"
+  },
+  {
+    "first_name": "Billy",
+    "last_name": "AGUILAR",
+    "numberOfViolations": 2,
+    "total_fine": 2654.34,
+    "average_fine": 1327.17,
+    "personID": "8df07d00-8fee-4a74-9f8e-f051b25d8006"
+  },
+  {
+    "first_name": "James",
+    "last_name": "PHILLIPS",
+    "numberOfViolations": 1,
+    "total_fine": 1233.89,
+    "average_fine": 1233.89,
+    "personID": "43ba0fa6-ab96-46a4-b6f4-0d4dc96fb317"
+  },
+  {
+    "first_name": "Serena",
+    "last_name": "PACE",
+    "numberOfViolations": 3,
+    "total_fine": 6732.84,
+    "average_fine": 2244.28,
+    "personID": "875063b8-10df-4d36-a305-dca1b2d1cc84"
+  },
+  {
+    "first_name": "Carly",
+    "last_name": "CABRERA",
+    "numberOfViolations": 2,
+    "total_fine": 2977.2,
+    "average_fine": 1488.6,
+    "personID": "824ee82b-aa3d-4016-828e-b049f77b4503"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "FORBES",
+    "numberOfViolations": 2,
+    "total_fine": 7127.8,
+    "average_fine": 3563.9,
+    "personID": "3e8b6236-d1a4-4049-8ca7-bbf615782f88"
+  },
+  {
+    "first_name": "Lynn",
+    "last_name": "LAWRENCE",
+    "numberOfViolations": 2,
+    "total_fine": 4107.27,
+    "average_fine": 2053.64,
+    "personID": "48e822b1-f161-4de3-bfdc-c7ae0c67c23a"
+  },
+  {
+    "first_name": "Earl",
+    "last_name": "PAUL",
+    "numberOfViolations": 2,
+    "total_fine": 6645.94,
+    "average_fine": 3322.97,
+    "personID": "b60625f0-901a-433f-b313-494f12f95082"
+  },
+  {
+    "first_name": "Donna",
+    "last_name": "STUART",
+    "numberOfViolations": 1,
+    "total_fine": 3137.52,
+    "average_fine": 3137.52,
+    "personID": "506c319c-ae39-46bf-a0bd-26622d099256"
+  },
+  {
+    "first_name": "Sean",
+    "last_name": "MORENO",
+    "numberOfViolations": 3,
+    "total_fine": 5135.29,
+    "average_fine": 1711.76,
+    "personID": "01cd6de7-e1fc-462d-8dbd-7adec38a0fed"
+  },
+  {
+    "first_name": "Abigail",
+    "last_name": "HOOVER",
+    "numberOfViolations": 3,
+    "total_fine": 5485.94,
+    "average_fine": 1828.65,
+    "personID": "328bdbba-c35b-46a2-96ef-633d8d350d2f"
+  },
+  {
+    "first_name": "Monique",
+    "last_name": "WALLACE",
+    "numberOfViolations": 1,
+    "total_fine": 2450.08,
+    "average_fine": 2450.08,
+    "personID": "5dc5ab4b-5f31-4c90-af64-c3a193224bc8"
+  },
+  {
+    "first_name": "Kerri",
+    "last_name": "WARNER",
+    "numberOfViolations": 2,
+    "total_fine": 4570.58,
+    "average_fine": 2285.29,
+    "personID": "cf933a0e-51f4-4ebf-bf0e-36058aa95070"
+  },
+  {
+    "first_name": "Alvaro",
+    "last_name": "HOWELL",
+    "numberOfViolations": 2,
+    "total_fine": 7742.98,
+    "average_fine": 3871.49,
+    "personID": "4d511391-d05f-4af6-967e-2b6db42a3c55"
+  },
+  {
+    "first_name": "Hayley",
+    "last_name": "MURPHY",
+    "numberOfViolations": 3,
+    "total_fine": 5018.8,
+    "average_fine": 1672.93,
+    "personID": "7619ead3-9b55-4cbf-a153-54a8537314af"
+  },
+  {
+    "first_name": "Jerry",
+    "last_name": "WOLFE",
+    "numberOfViolations": 2,
+    "total_fine": 8101.52,
+    "average_fine": 4050.76,
+    "personID": "f6a7be9e-8b0d-40ef-89c9-a3cfb48aac5f"
+  },
+  {
+    "first_name": "Claire",
+    "last_name": "HALEY",
+    "numberOfViolations": 1,
+    "total_fine": 531.34,
+    "average_fine": 531.34,
+    "personID": "99a8b729-79e6-4459-bbe6-eaaa2d8c8eec"
+  },
+  {
+    "first_name": "Karl",
+    "last_name": "BARRERA",
+    "numberOfViolations": 2,
+    "total_fine": 3611.33,
+    "average_fine": 1805.67,
+    "personID": "33f8692f-a898-4bbc-869f-d39c6c0401ec"
+  },
+  {
+    "first_name": "Tanya",
+    "last_name": "WILCOX",
+    "numberOfViolations": 2,
+    "total_fine": 5142.32,
+    "average_fine": 2571.16,
+    "personID": "78ddc7b5-2fe7-413b-a58a-ce765d9cfecd"
+  },
+  {
+    "first_name": "Keri",
+    "last_name": "ONEAL",
+    "numberOfViolations": 1,
+    "total_fine": 2567.25,
+    "average_fine": 2567.25,
+    "personID": "4ed4d136-6ef4-46a6-b574-d62c9ca72156"
+  },
+  {
+    "first_name": "Matthew",
+    "last_name": "ESPINOZA",
+    "numberOfViolations": 2,
+    "total_fine": 4207.5,
+    "average_fine": 2103.75,
+    "personID": "615fd91c-ca54-4b59-936a-9d43d0768e0a"
+  },
+  {
+    "first_name": "Christian",
+    "last_name": "LANGLEY",
+    "numberOfViolations": 2,
+    "total_fine": 4282.47,
+    "average_fine": 2141.24,
+    "personID": "fa735bbf-a3be-47d5-a57e-1c0f15ee3026"
+  },
+  {
+    "first_name": "Crystal",
+    "last_name": "BENTON",
+    "numberOfViolations": 3,
+    "total_fine": 8124.93,
+    "average_fine": 2708.31,
+    "personID": "a7e9e280-526e-497a-906c-bb118bcd87e8"
+  },
+  {
+    "first_name": "Esther",
+    "last_name": "HERMAN",
+    "numberOfViolations": 1,
+    "total_fine": 1649.26,
+    "average_fine": 1649.26,
+    "personID": "132ef9e5-f6cd-4cd7-bdc6-89a82d6d90f7"
+  },
+  {
+    "first_name": "Norma",
+    "last_name": "MIRANDA",
+    "numberOfViolations": 2,
+    "total_fine": 5519.49,
+    "average_fine": 2759.75,
+    "personID": "93ee1cf7-ab47-419e-a117-e222ec09c3db"
+  },
+  {
+    "first_name": "Gabriel",
+    "last_name": "HERRING",
+    "numberOfViolations": 2,
+    "total_fine": 3104.23,
+    "average_fine": 1552.12,
+    "personID": "b2bccb79-b64d-46f3-9edd-eded3d525633"
+  },
+  {
+    "first_name": "Carolyn",
+    "last_name": "CARPENTER",
+    "numberOfViolations": 1,
+    "total_fine": 4089.45,
+    "average_fine": 4089.45,
+    "personID": "fb431baf-3e66-4987-88d0-dd1902c3a12b"
+  },
+  {
+    "first_name": "Kerry",
+    "last_name": "COMPTON",
+    "numberOfViolations": 3,
+    "total_fine": 4963.16,
+    "average_fine": 1654.39,
+    "personID": "c0b970f9-9dea-4ae0-8811-ed2136f4eda3"
+  },
+  {
+    "first_name": "Jacob",
+    "last_name": "GALLOWAY",
+    "numberOfViolations": 3,
+    "total_fine": 7952.09,
+    "average_fine": 2650.7,
+    "personID": "0bd101b1-981a-4751-8ade-d4dcdb19e91e"
+  },
+  {
+    "first_name": "Janine",
+    "last_name": "MACIAS",
+    "numberOfViolations": 2,
+    "total_fine": 3895.23,
+    "average_fine": 1947.62,
+    "personID": "39f724e8-575d-48a2-a726-c6091d159fe8"
+  },
+  {
+    "first_name": "Jennifer",
+    "last_name": "MOSS",
+    "numberOfViolations": 3,
+    "total_fine": 6042.38,
+    "average_fine": 2014.13,
+    "personID": "d1b1dcc8-533e-4780-a561-5dc0bfde678a"
+  },
+  {
+    "first_name": "Louis",
+    "last_name": "TRAN",
+    "numberOfViolations": 3,
+    "total_fine": 4993.81,
+    "average_fine": 1664.6,
+    "personID": "56cd37a1-0537-4e8b-9876-5ff0a9197d7d"
+  },
+  {
+    "first_name": "Julius",
+    "last_name": "ROTH",
+    "numberOfViolations": 3,
+    "total_fine": 13638.48,
+    "average_fine": 4546.16,
+    "personID": "cf9b8ecf-91bd-4c42-bb90-f60b4f1b4f1c"
+  },
+  {
+    "first_name": "Erik",
+    "last_name": "MAY",
+    "numberOfViolations": 3,
+    "total_fine": 3442.93,
+    "average_fine": 1147.64,
+    "personID": "6e510719-26e1-4526-91d9-99e09a7c01f0"
+  },
+  {
+    "first_name": "Alma",
+    "last_name": "WALKER",
+    "numberOfViolations": 2,
+    "total_fine": 4697.14,
+    "average_fine": 2348.57,
+    "personID": "cc9d5fb9-ab1d-48c1-9b9f-9f17201de551"
+  },
+  {
+    "first_name": "Victoria",
+    "last_name": "FRANCIS",
+    "numberOfViolations": 2,
+    "total_fine": 7116.02,
+    "average_fine": 3558.01,
+    "personID": "913d7b46-365f-47b8-a84a-c4300ccc126a"
+  },
+  {
+    "first_name": "Alex",
+    "last_name": "MOSLEY",
+    "numberOfViolations": 2,
+    "total_fine": 1902.87,
+    "average_fine": 951.44,
+    "personID": "1945d721-b482-4ecf-aa56-a891b9dd4672"
+  },
+  {
+    "first_name": "Lucia",
+    "last_name": "WEISS",
+    "numberOfViolations": 2,
+    "total_fine": 8320.37,
+    "average_fine": 4160.19,
+    "personID": "5aa4f696-f885-4d48-840c-56d04869a20b"
+  },
+  {
+    "first_name": "Alfredo",
+    "last_name": "BUCKNER",
+    "numberOfViolations": 3,
+    "total_fine": 11722.44,
+    "average_fine": 3907.48,
+    "personID": "6d9328fe-2ea9-4ec9-9778-ef195c1fd030"
+  },
+  {
+    "first_name": "Jake",
+    "last_name": "SKINNER",
+    "numberOfViolations": 2,
+    "total_fine": 5750.7,
+    "average_fine": 2875.35,
+    "personID": "b4f948ef-46eb-46ff-9d5b-b32d56bdf58f"
+  },
+  {
+    "first_name": "Claudia",
+    "last_name": "ESTRADA",
+    "numberOfViolations": 3,
+    "total_fine": 8327.6,
+    "average_fine": 2775.87,
+    "personID": "e6fa1781-46ca-4f0a-9439-9ec3e25f1954"
+  },
+  {
+    "first_name": "Jasmin",
+    "last_name": "BROWN",
+    "numberOfViolations": 2,
+    "total_fine": 6420.41,
+    "average_fine": 3210.21,
+    "personID": "61cf8d72-5487-4924-972f-a542e94f2b76"
+  },
+  {
+    "first_name": "Carolyn",
+    "last_name": "VAUGHAN",
+    "numberOfViolations": 3,
+    "total_fine": 8064.03,
+    "average_fine": 2688.01,
+    "personID": "3a220d6c-afd0-466c-a72e-9ff2c71bf87e"
+  },
+  {
+    "first_name": "Roderick",
+    "last_name": "SERRANO",
+    "numberOfViolations": 3,
+    "total_fine": 8279.99,
+    "average_fine": 2760.0,
+    "personID": "f963caff-d154-4158-962c-0bee57e308e0"
+  },
+  {
+    "first_name": "Lara",
+    "last_name": "WEBB",
+    "numberOfViolations": 1,
+    "total_fine": 1595.34,
+    "average_fine": 1595.34,
+    "personID": "0fd8ab9e-7311-4be6-b395-7699eaeada01"
+  },
+  {
+    "first_name": "Chelsey",
+    "last_name": "STANTON",
+    "numberOfViolations": 2,
+    "total_fine": 5071.71,
+    "average_fine": 2535.86,
+    "personID": "3f75c2ba-830f-4e95-b476-2e9b76503db0"
+  },
+  {
+    "first_name": "Katherine",
+    "last_name": "JAMES",
+    "numberOfViolations": 1,
+    "total_fine": 1399.69,
+    "average_fine": 1399.69,
+    "personID": "bf7d153c-05f0-49e8-9d86-369c2f5f3347"
+  },
+  {
+    "first_name": "Monica",
+    "last_name": "DONALDSON",
+    "numberOfViolations": 3,
+    "total_fine": 10480.36,
+    "average_fine": 3493.45,
+    "personID": "85f6f9d9-7971-4cee-8443-b0429d81196c"
+  },
+  {
+    "first_name": "Alicia",
+    "last_name": "ROSE",
+    "numberOfViolations": 1,
+    "total_fine": 4992.4,
+    "average_fine": 4992.4,
+    "personID": "75e63fc8-c594-4a7e-8765-526c01f9786a"
+  },
+  {
+    "first_name": "Lea",
+    "last_name": "RODGERS",
+    "numberOfViolations": 1,
+    "total_fine": 734.27,
+    "average_fine": 734.27,
+    "personID": "4e08e744-8d39-4b82-8129-441f45737eed"
+  },
+  {
+    "first_name": "Beverly",
+    "last_name": "HERRING",
+    "numberOfViolations": 2,
+    "total_fine": 4717.45,
+    "average_fine": 2358.73,
+    "personID": "08d44d6c-0567-4c54-baaf-1f19b69206cd"
+  },
+  {
+    "first_name": "Taryn",
+    "last_name": "NAVARRO",
+    "numberOfViolations": 2,
+    "total_fine": 5245.18,
+    "average_fine": 2622.59,
+    "personID": "989064d7-87e6-438c-9878-dfb82674a0fd"
+  },
+  {
+    "first_name": "Tyrell",
+    "last_name": "GALLAGHER",
+    "numberOfViolations": 1,
+    "total_fine": 211.48,
+    "average_fine": 211.48,
+    "personID": "5d742316-faf5-48f8-a7cf-e98d49aecae6"
+  },
+  {
+    "first_name": "Cesar",
+    "last_name": "CALHOUN",
+    "numberOfViolations": 1,
+    "total_fine": 801.7,
+    "average_fine": 801.7,
+    "personID": "8e30c467-f0d0-401f-b7db-0b0c959d9abc"
+  },
+  {
+    "first_name": "Jasmine",
+    "last_name": "MAYNARD",
+    "numberOfViolations": 2,
+    "total_fine": 5058.45,
+    "average_fine": 2529.23,
+    "personID": "34853aa8-2ed1-4479-9cdc-ad2424b7b8ba"
+  },
+  {
+    "first_name": "Christy",
+    "last_name": "MADDOX",
+    "numberOfViolations": 2,
+    "total_fine": 2944.57,
+    "average_fine": 1472.29,
+    "personID": "0995e638-4aa7-4f7e-86d3-dee8cd57a66b"
+  },
+  {
+    "first_name": "Karina",
+    "last_name": "DEAN",
+    "numberOfViolations": 2,
+    "total_fine": 4215.95,
+    "average_fine": 2107.98,
+    "personID": "adc03064-76a4-4d23-99d8-3054271a91c6"
+  },
+  {
+    "first_name": "Orlando",
+    "last_name": "NASH",
+    "numberOfViolations": 2,
+    "total_fine": 7103.94,
+    "average_fine": 3551.97,
+    "personID": "dcea32b0-7edd-46e4-b661-0d537832c41b"
+  },
+  {
+    "first_name": "Terry",
+    "last_name": "ONEIL",
+    "numberOfViolations": 3,
+    "total_fine": 7377.05,
+    "average_fine": 2459.02,
+    "personID": "b6b3dc4a-8c48-4362-9354-c4389b8c404a"
+  },
+  {
+    "first_name": "Nikki",
+    "last_name": "MORTON",
+    "numberOfViolations": 1,
+    "total_fine": 3116.92,
+    "average_fine": 3116.92,
+    "personID": "b18926f8-666b-4487-80b8-897d77890aac"
+  },
+  {
+    "first_name": "Guy",
+    "last_name": "REYNOLDS",
+    "numberOfViolations": 2,
+    "total_fine": 7190.36,
+    "average_fine": 3595.18,
+    "personID": "3ab096f8-5287-4560-970d-488a86a46b0e"
+  },
+  {
+    "first_name": "Kathryn",
+    "last_name": "BOOKER",
+    "numberOfViolations": 2,
+    "total_fine": 6069.44,
+    "average_fine": 3034.72,
+    "personID": "eadabdb6-cf80-4e5c-b7a5-ce6d20d9b623"
+  },
+  {
+    "first_name": "Norman",
+    "last_name": "ARMSTRONG",
+    "numberOfViolations": 2,
+    "total_fine": 2240.51,
+    "average_fine": 1120.26,
+    "personID": "174623a9-8bf0-43e9-9eda-df580bed1f1e"
+  },
+  {
+    "first_name": "Dwayne",
+    "last_name": "WINTERS",
+    "numberOfViolations": 2,
+    "total_fine": 7256.77,
+    "average_fine": 3628.39,
+    "personID": "f5b5e0b0-27ec-49e2-9826-846edb7ad5b1"
+  },
+  {
+    "first_name": "Jonathon",
+    "last_name": "NGUYEN",
+    "numberOfViolations": 2,
+    "total_fine": 7751.8,
+    "average_fine": 3875.9,
+    "personID": "c896802b-d8bb-45f6-b82f-e89d8633f2fa"
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "DUFFY",
+    "numberOfViolations": 2,
+    "total_fine": 7186.5,
+    "average_fine": 3593.25,
+    "personID": "ef9abc2c-ad1c-4b93-aa4c-f8a4a98a9fc8"
+  },
+  {
+    "first_name": "Stefanie",
+    "last_name": "MCKAY",
+    "numberOfViolations": 3,
+    "total_fine": 7749.84,
+    "average_fine": 2583.28,
+    "personID": "0b590a96-4633-4727-9423-38e8e8c63d40"
+  },
+  {
+    "first_name": "Krystal",
+    "last_name": "BLAKE",
+    "numberOfViolations": 3,
+    "total_fine": 1493.42,
+    "average_fine": 497.81,
+    "personID": "bdd82d26-831e-4526-ba1d-1bbf7aa06c5c"
+  },
+  {
+    "first_name": "Nancy",
+    "last_name": "HILL",
+    "numberOfViolations": 1,
+    "total_fine": 827.75,
+    "average_fine": 827.75,
+    "personID": "f0f9191c-97f5-4876-80b7-a09c9a70c5a4"
+  },
+  {
+    "first_name": "Calvin",
+    "last_name": "PUGH",
+    "numberOfViolations": 2,
+    "total_fine": 3540.46,
+    "average_fine": 1770.23,
+    "personID": "3318988a-629b-47ce-b02f-058dca5640a8"
+  },
+  {
+    "first_name": "Marshall",
+    "last_name": "FULTON",
+    "numberOfViolations": 2,
+    "total_fine": 1632.22,
+    "average_fine": 816.11,
+    "personID": "3e52810d-d46d-45b0-ba2c-7a8a3f1cc0a6"
+  },
+  {
+    "first_name": "Rogelio",
+    "last_name": "INGRAM",
+    "numberOfViolations": 1,
+    "total_fine": 2766.82,
+    "average_fine": 2766.82,
+    "personID": "315bd045-bf40-4a20-8483-91cee982f911"
+  },
+  {
+    "first_name": "Trent",
+    "last_name": "OLSEN",
+    "numberOfViolations": 2,
+    "total_fine": 1171.58,
+    "average_fine": 585.79,
+    "personID": "9c5c367f-b52a-43b2-a9dc-6cdafb70a36c"
+  },
+  {
+    "first_name": "Veronica",
+    "last_name": "STEWART",
+    "numberOfViolations": 1,
+    "total_fine": 4321.16,
+    "average_fine": 4321.16,
+    "personID": "aa596ce0-0a73-4cef-b5af-7626809f1a97"
+  },
+  {
+    "first_name": "Breanne",
+    "last_name": "BERRY",
+    "numberOfViolations": 2,
+    "total_fine": 342.33,
+    "average_fine": 171.17,
+    "personID": "d288b67e-bb48-4311-b108-6c095b72db79"
+  },
+  {
+    "first_name": "Alejandro",
+    "last_name": "KERR",
+    "numberOfViolations": 2,
+    "total_fine": 6326.93,
+    "average_fine": 3163.47,
+    "personID": "29bc5dbb-b458-43b8-b0c8-e506033ab4bf"
+  },
+  {
+    "first_name": "Clay",
+    "last_name": "LOWE",
+    "numberOfViolations": 1,
+    "total_fine": 1816.21,
+    "average_fine": 1816.21,
+    "personID": "77781fe0-a452-49fc-85cd-9eec42faad42"
+  },
+  {
+    "first_name": "Regina",
+    "last_name": "MORIN",
+    "numberOfViolations": 3,
+    "total_fine": 10027.79,
+    "average_fine": 3342.6,
+    "personID": "41af526d-df19-4cef-8dfa-09e050d3a54c"
+  },
+  {
+    "first_name": "Eli",
+    "last_name": "MORRIS",
+    "numberOfViolations": 2,
+    "total_fine": 8058.36,
+    "average_fine": 4029.18,
+    "personID": "7bf8ec31-d66f-467e-a2db-fd57280201e4"
+  },
+  {
+    "first_name": "Noel",
+    "last_name": "CASEY",
+    "numberOfViolations": 1,
+    "total_fine": 2756.05,
+    "average_fine": 2756.05,
+    "personID": "4f2a7fff-2196-47cc-844d-d9edbf87951d"
+  },
+  {
+    "first_name": "Noelle",
+    "last_name": "CARSON",
+    "numberOfViolations": 3,
+    "total_fine": 7152.29,
+    "average_fine": 2384.1,
+    "personID": "e4288c91-b118-422a-92bb-7acd40e86aa2"
+  },
+  {
+    "first_name": "Trent",
+    "last_name": "WEEKS",
+    "numberOfViolations": 2,
+    "total_fine": 784.19,
+    "average_fine": 392.1,
+    "personID": "feaf3b0f-638d-43af-b7ef-5714c89a845b"
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "ORR",
+    "numberOfViolations": 2,
+    "total_fine": 7803.12,
+    "average_fine": 3901.56,
+    "personID": "19b18f28-ada8-4d5c-9819-7fb91870f804"
+  },
+  {
+    "first_name": "Lora",
+    "last_name": "LANG",
+    "numberOfViolations": 1,
+    "total_fine": 578.62,
+    "average_fine": 578.62,
+    "personID": "5852b3e7-ae0d-4e81-ab54-542c783a2dc2"
+  },
+  {
+    "first_name": "Constance",
+    "last_name": "BEASLEY",
+    "numberOfViolations": 3,
+    "total_fine": 7931.83,
+    "average_fine": 2643.94,
+    "personID": "a7b6cda4-4a77-4a10-be13-1b1a692217e5"
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "ADAMS",
+    "numberOfViolations": 2,
+    "total_fine": 6265.25,
+    "average_fine": 3132.63,
+    "personID": "4c5baff7-100b-4966-be0f-515d9152e57a"
+  },
+  {
+    "first_name": "Rolando",
+    "last_name": "HOGAN",
+    "numberOfViolations": 2,
+    "total_fine": 2569.87,
+    "average_fine": 1284.94,
+    "personID": "8c30c988-086b-4914-98ee-9fdb95597715"
+  },
+  {
+    "first_name": "Domonique",
+    "last_name": "TORRES",
+    "numberOfViolations": 2,
+    "total_fine": 3933.93,
+    "average_fine": 1966.97,
+    "personID": "874ef6cc-e034-4164-9c3f-10d5fc6f29e9"
+  },
+  {
+    "first_name": "Marshall",
+    "last_name": "WALKER",
+    "numberOfViolations": 2,
+    "total_fine": 5471.34,
+    "average_fine": 2735.67,
+    "personID": "0057d883-5f6c-4a8a-bca7-40f9493a79e9"
+  },
+  {
+    "first_name": "Terrence",
+    "last_name": "ARMSTRONG",
+    "numberOfViolations": 2,
+    "total_fine": 5545.93,
+    "average_fine": 2772.97,
+    "personID": "9b959f43-18fd-4399-b364-32677fa940d0"
+  },
+  {
+    "first_name": "Kyle",
+    "last_name": "JAMES",
+    "numberOfViolations": 1,
+    "total_fine": 3714.28,
+    "average_fine": 3714.28,
+    "personID": "5b2fec89-dac9-4622-8481-ec4b6717dd5a"
+  },
+  {
+    "first_name": "Tessa",
+    "last_name": "ALVAREZ",
+    "numberOfViolations": 2,
+    "total_fine": 2616.96,
+    "average_fine": 1308.48,
+    "personID": "fc4511fb-bd84-46b9-9b24-25b2f6f2c733"
+  },
+  {
+    "first_name": "Leonard",
+    "last_name": "DANIEL",
+    "numberOfViolations": 2,
+    "total_fine": 1482.4,
+    "average_fine": 741.2,
+    "personID": "125b7c35-8676-4d7b-b723-c64a99eb9c34"
+  },
+  {
+    "first_name": "Ramon",
+    "last_name": "STEWART",
+    "numberOfViolations": 2,
+    "total_fine": 5741.62,
+    "average_fine": 2870.81,
+    "personID": "71415824-137e-4a03-ac85-f5230b05eb6e"
+  },
+  {
+    "first_name": "Carl",
+    "last_name": "LARSEN",
+    "numberOfViolations": 3,
+    "total_fine": 5517.99,
+    "average_fine": 1839.33,
+    "personID": "8b9e822c-0f2c-423a-90d4-bb6223f1cd35"
+  },
+  {
+    "first_name": "Brett",
+    "last_name": "SOLOMON",
+    "numberOfViolations": 2,
+    "total_fine": 3834.56,
+    "average_fine": 1917.28,
+    "personID": "f45c75d1-92ce-4cc9-9226-ec914c3e9cdb"
+  },
+  {
+    "first_name": "Rocky",
+    "last_name": "WASHINGTON",
+    "numberOfViolations": 2,
+    "total_fine": 4792.57,
+    "average_fine": 2396.29,
+    "personID": "75d5d923-2cf7-4645-8a80-bf3bed003724"
+  },
+  {
+    "first_name": "Joshua",
+    "last_name": "MUELLER",
+    "numberOfViolations": 1,
+    "total_fine": 1083.8,
+    "average_fine": 1083.8,
+    "personID": "f3b2345e-357f-417c-9dd1-cf82acb94cda"
+  },
+  {
+    "first_name": "Damien",
+    "last_name": "CAMERON",
+    "numberOfViolations": 3,
+    "total_fine": 9917.88,
+    "average_fine": 3305.96,
+    "personID": "d32cddd2-2ff2-470f-98bb-d8f5e2f50d52"
+  },
+  {
+    "first_name": "Mike",
+    "last_name": "HUNTER",
+    "numberOfViolations": 2,
+    "total_fine": 2431.2,
+    "average_fine": 1215.6,
+    "personID": "ebbe0dff-b45b-4a59-a5c0-00121762e301"
+  },
+  {
+    "first_name": "Thomas",
+    "last_name": "KERR",
+    "numberOfViolations": 3,
+    "total_fine": 4392.87,
+    "average_fine": 1464.29,
+    "personID": "d4290da2-56f7-4612-a8b0-6ac74253b0b3"
+  },
+  {
+    "first_name": "Randy",
+    "last_name": "KANE",
+    "numberOfViolations": 2,
+    "total_fine": 6504.97,
+    "average_fine": 3252.49,
+    "personID": "5f74a478-9f25-4ba2-aaec-e7308133aa98"
+  },
+  {
+    "first_name": "Lesley",
+    "last_name": "HAMILTON",
+    "numberOfViolations": 2,
+    "total_fine": 5847.13,
+    "average_fine": 2923.57,
+    "personID": "4fc66441-43d3-4042-b5ad-2502f58764c0"
+  },
+  {
+    "first_name": "Justin",
+    "last_name": "ORTIZ",
+    "numberOfViolations": 3,
+    "total_fine": 10258.38,
+    "average_fine": 3419.46,
+    "personID": "0ddffefc-4d81-484e-82eb-ed8fb3d5f85d"
+  },
+  {
+    "first_name": "Jacquelyn",
+    "last_name": "GIBSON",
+    "numberOfViolations": 1,
+    "total_fine": 1968.63,
+    "average_fine": 1968.63,
+    "personID": "45bf3a25-05f5-4881-af28-22a4be470b20"
+  },
+  {
+    "first_name": "Latasha",
+    "last_name": "JOYCE",
+    "numberOfViolations": 1,
+    "total_fine": 1115.65,
+    "average_fine": 1115.65,
+    "personID": "90650463-9265-4387-b69f-587a1a67b363"
+  },
+  {
+    "first_name": "Zachary",
+    "last_name": "MARSHALL",
+    "numberOfViolations": 3,
+    "total_fine": 6511.51,
+    "average_fine": 2170.5,
+    "personID": "28f66d48-4584-42a0-a508-eb6305bcfb4a"
+  },
+  {
+    "first_name": "Erick",
+    "last_name": "HENDERSON",
+    "numberOfViolations": 2,
+    "total_fine": 3327.23,
+    "average_fine": 1663.62,
+    "personID": "e7943db9-cef9-4a70-9ca7-1d8eb3715ef5"
+  },
+  {
+    "first_name": "Sidney",
+    "last_name": "CASE",
+    "numberOfViolations": 1,
+    "total_fine": 1985.21,
+    "average_fine": 1985.21,
+    "personID": "9d81de22-ac43-47d8-afbc-2223e910ceba"
+  },
+  {
+    "first_name": "Abigail",
+    "last_name": "WITT",
+    "numberOfViolations": 1,
+    "total_fine": 3715.67,
+    "average_fine": 3715.67,
+    "personID": "78f7a880-a5e0-4c33-a5d5-cc0ac5d167a5"
+  },
+  {
+    "first_name": "Clifton",
+    "last_name": "MARKS",
+    "numberOfViolations": 2,
+    "total_fine": 3047.61,
+    "average_fine": 1523.81,
+    "personID": "2c4e65b1-7f68-4ea2-9d6c-2fffd65c7eeb"
+  },
+  {
+    "first_name": "Olivia",
+    "last_name": "SPENCER",
+    "numberOfViolations": 3,
+    "total_fine": 5910.2,
+    "average_fine": 1970.07,
+    "personID": "a71dcaba-e3ae-442f-b0d6-1b985bcd50b4"
+  },
+  {
+    "first_name": "Derrick",
+    "last_name": "BRADSHAW",
+    "numberOfViolations": 2,
+    "total_fine": 4262.3,
+    "average_fine": 2131.15,
+    "personID": "4c0561da-c21d-4aec-8dbd-53f959bd90c4"
+  },
+  {
+    "first_name": "Shelley",
+    "last_name": "BALL",
+    "numberOfViolations": 2,
+    "total_fine": 5727.52,
+    "average_fine": 2863.76,
+    "personID": "38fa294f-a258-4e27-8b66-895c15703094"
+  },
+  {
+    "first_name": "Raven",
+    "last_name": "CRANE",
+    "numberOfViolations": 1,
+    "total_fine": 928.62,
+    "average_fine": 928.62,
+    "personID": "5d1e1a40-db92-4925-a672-add7098f85d7"
+  },
+  {
+    "first_name": "Brock",
+    "last_name": "BARRETT",
+    "numberOfViolations": 2,
+    "total_fine": 2522.17,
+    "average_fine": 1261.09,
+    "personID": "dad75c7d-963b-4da0-b9d0-9ad3e30d172a"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "HARRISON",
+    "numberOfViolations": 2,
+    "total_fine": 5036.91,
+    "average_fine": 2518.46,
+    "personID": "9d646a33-211b-4cc4-a4b7-f556f9703000"
+  },
+  {
+    "first_name": "Stefanie",
+    "last_name": "WOODWARD",
+    "numberOfViolations": 2,
+    "total_fine": 1583.59,
+    "average_fine": 791.8,
+    "personID": "ba7cd64f-c477-4a26-86a6-6786f380eadf"
+  },
+  {
+    "first_name": "Duane",
+    "last_name": "HAYDEN",
+    "numberOfViolations": 2,
+    "total_fine": 6050.93,
+    "average_fine": 3025.47,
+    "personID": "100e4c61-ee67-4726-9e16-1de3b8b15475"
+  },
+  {
+    "first_name": "Wesley",
+    "last_name": "HOLMAN",
+    "numberOfViolations": 1,
+    "total_fine": 2306.91,
+    "average_fine": 2306.91,
+    "personID": "01ad5637-a894-451c-a391-a98300206202"
+  },
+  {
+    "first_name": "Britney",
+    "last_name": "ENGLISH",
+    "numberOfViolations": 1,
+    "total_fine": 2013.95,
+    "average_fine": 2013.95,
+    "personID": "6d096dd0-f490-4178-994c-bcb88734ddd4"
+  },
+  {
+    "first_name": "Stuart",
+    "last_name": "TALLEY",
+    "numberOfViolations": 1,
+    "total_fine": 3050.13,
+    "average_fine": 3050.13,
+    "personID": "121e16f6-5b7b-4c90-b5bf-da5fd25a0c90"
+  },
+  {
+    "first_name": "Harrison",
+    "last_name": "EVERETT",
+    "numberOfViolations": 3,
+    "total_fine": 4630.26,
+    "average_fine": 1543.42,
+    "personID": "20a74ac0-90e0-4411-be4f-fe7192dbc658"
+  },
+  {
+    "first_name": "Jana",
+    "last_name": "HURLEY",
+    "numberOfViolations": 3,
+    "total_fine": 4588.86,
+    "average_fine": 1529.62,
+    "personID": "de9c8183-222b-4521-9d5d-37cb5ed97e6c"
+  },
+  {
+    "first_name": "Barry",
+    "last_name": "FREEMAN",
+    "numberOfViolations": 2,
+    "total_fine": 5002.75,
+    "average_fine": 2501.38,
+    "personID": "18a219e7-c062-453a-bbaf-38a9cf38b214"
+  },
+  {
+    "first_name": "Glen",
+    "last_name": "HARDING",
+    "numberOfViolations": 1,
+    "total_fine": 3409.38,
+    "average_fine": 3409.38,
+    "personID": "e5647c28-2474-4224-9d6e-80be08821075"
+  },
+  {
+    "first_name": "Miguel",
+    "last_name": "BENJAMIN",
+    "numberOfViolations": 2,
+    "total_fine": 2715.69,
+    "average_fine": 1357.85,
+    "personID": "fdedc844-1974-4578-974d-a64ffab5702d"
+  },
+  {
+    "first_name": "Jimmy",
+    "last_name": "WORKMAN",
+    "numberOfViolations": 3,
+    "total_fine": 7679.0,
+    "average_fine": 2559.67,
+    "personID": "dcbb3a1e-bce6-4cc6-91b4-6dfd4283ba0a"
+  },
+  {
+    "first_name": "Teri",
+    "last_name": "HUTCHINSON",
+    "numberOfViolations": 1,
+    "total_fine": 3298.58,
+    "average_fine": 3298.58,
+    "personID": "4c6f5b4e-82dd-407c-a788-31feb17bf8cb"
+  },
+  {
+    "first_name": "Kaitlyn",
+    "last_name": "HOUSTON",
+    "numberOfViolations": 3,
+    "total_fine": 9724.65,
+    "average_fine": 3241.55,
+    "personID": "faf4ab2c-10b3-4a9a-b0d8-5ef10195e607"
+  },
+  {
+    "first_name": "Kendra",
+    "last_name": "CABRERA",
+    "numberOfViolations": 1,
+    "total_fine": 980.54,
+    "average_fine": 980.54,
+    "personID": "9c281a0e-0b20-4053-bb06-40d8d87facb9"
+  },
+  {
+    "first_name": "Danny",
+    "last_name": "WIGGINS",
+    "numberOfViolations": 2,
+    "total_fine": 8894.17,
+    "average_fine": 4447.09,
+    "personID": "fc7e1a10-a073-43d7-8346-90498cf4287f"
+  },
+  {
+    "first_name": "Kaitlyn",
+    "last_name": "WALTERS",
+    "numberOfViolations": 2,
+    "total_fine": 5156.46,
+    "average_fine": 2578.23,
+    "personID": "98116955-5e16-4a73-9afb-d73394c4be7d"
+  },
+  {
+    "first_name": "Desiree",
+    "last_name": "DELGADO",
+    "numberOfViolations": 1,
+    "total_fine": 4232.63,
+    "average_fine": 4232.63,
+    "personID": "5b162c3d-e2db-41c5-8ae1-fcbdd6b6c68f"
+  },
+  {
+    "first_name": "Ricardo",
+    "last_name": "MOLINA",
+    "numberOfViolations": 2,
+    "total_fine": 5048.79,
+    "average_fine": 2524.4,
+    "personID": "ca016eb7-99d2-475c-80e3-34537c7960a5"
+  },
+  {
+    "first_name": "Tyler",
+    "last_name": "KENNEDY",
+    "numberOfViolations": 2,
+    "total_fine": 4936.11,
+    "average_fine": 2468.06,
+    "personID": "f211ca8d-151d-45a8-813f-64fdf023e79c"
+  },
+  {
+    "first_name": "Hope",
+    "last_name": "GREER",
+    "numberOfViolations": 2,
+    "total_fine": 4153.25,
+    "average_fine": 2076.63,
+    "personID": "a26228c6-caeb-4973-a766-7d957c1fad88"
+  },
+  {
+    "first_name": "Garrett",
+    "last_name": "GRIFFITH",
+    "numberOfViolations": 2,
+    "total_fine": 2559.42,
+    "average_fine": 1279.71,
+    "personID": "08cd98d8-e9b2-47d7-ae1a-04d554b3026e"
+  },
+  {
+    "first_name": "Tina",
+    "last_name": "FLORES",
+    "numberOfViolations": 2,
+    "total_fine": 6830.57,
+    "average_fine": 3415.29,
+    "personID": "51ef5922-3425-46f3-a434-6c8008d2a81a"
+  },
+  {
+    "first_name": "Garrett",
+    "last_name": "KENNEDY",
+    "numberOfViolations": 2,
+    "total_fine": 9162.94,
+    "average_fine": 4581.47,
+    "personID": "0fdbbb6a-1a71-4bbd-b46e-0c2f180c1757"
+  },
+  {
+    "first_name": "Suzanne",
+    "last_name": "CAMPOS",
+    "numberOfViolations": 2,
+    "total_fine": 3289.7,
+    "average_fine": 1644.85,
+    "personID": "0098a273-16ed-437a-880c-59480c214871"
+  },
+  {
+    "first_name": "Brian",
+    "last_name": "SANTOS",
+    "numberOfViolations": 1,
+    "total_fine": 1502.69,
+    "average_fine": 1502.69,
+    "personID": "00c5c43e-2544-4db1-aec7-3ba6ca59f15f"
+  },
+  {
+    "first_name": "Leanne",
+    "last_name": "FOLEY",
+    "numberOfViolations": 1,
+    "total_fine": 1935.18,
+    "average_fine": 1935.18,
+    "personID": "7c635a30-b6f3-44b4-9b8d-2555ebcf2368"
+  },
+  {
+    "first_name": "Jon",
+    "last_name": "CASEY",
+    "numberOfViolations": 3,
+    "total_fine": 1050.65,
+    "average_fine": 350.22,
+    "personID": "66b6f2ca-13d6-4b14-b089-d0a504746288"
+  },
+  {
+    "first_name": "Byron",
+    "last_name": "WILKERSON",
+    "numberOfViolations": 1,
+    "total_fine": 1168.72,
+    "average_fine": 1168.72,
+    "personID": "bd6ad745-3e9e-4e31-b163-fb13f7f40d75"
+  },
+  {
+    "first_name": "Melisa",
+    "last_name": "KELLEY",
+    "numberOfViolations": 2,
+    "total_fine": 8841.25,
+    "average_fine": 4420.63,
+    "personID": "f4fbd24d-d031-4211-bd4d-ce4fc9aeec49"
+  },
+  {
+    "first_name": "Alecia",
+    "last_name": "POWERS",
+    "numberOfViolations": 2,
+    "total_fine": 1560.93,
+    "average_fine": 780.47,
+    "personID": "7c57b539-d2f2-43d1-9175-37114e455218"
+  },
+  {
+    "first_name": "Dwayne",
+    "last_name": "CHANDLER",
+    "numberOfViolations": 2,
+    "total_fine": 3136.44,
+    "average_fine": 1568.22,
+    "personID": "b8da5f2c-e1a6-4aae-960c-6fb9437eb44c"
+  },
+  {
+    "first_name": "Jon",
+    "last_name": "CLARK",
+    "numberOfViolations": 2,
+    "total_fine": 2938.44,
+    "average_fine": 1469.22,
+    "personID": "decf5dc0-8fec-4ccb-98b9-641201c98f33"
+  },
+  {
+    "first_name": "Kenneth",
+    "last_name": "TREVINO",
+    "numberOfViolations": 2,
+    "total_fine": 4737.71,
+    "average_fine": 2368.86,
+    "personID": "c5c9cfb5-923d-41a4-87f7-6a90d8fe3603"
+  },
+  {
+    "first_name": "Micheal",
+    "last_name": "ROSA",
+    "numberOfViolations": 1,
+    "total_fine": 664.35,
+    "average_fine": 664.35,
+    "personID": "096ee8fb-f2c5-4f99-9bb1-9b3e738a45b3"
+  },
+  {
+    "first_name": "Krista",
+    "last_name": "RAMIREZ",
+    "numberOfViolations": 1,
+    "total_fine": 3876.08,
+    "average_fine": 3876.08,
+    "personID": "f24bfee7-df9b-4539-ac29-25ead89ffdd3"
+  },
+  {
+    "first_name": "Laurel",
+    "last_name": "HARRELL",
+    "numberOfViolations": 2,
+    "total_fine": 6012.88,
+    "average_fine": 3006.44,
+    "personID": "adf9a0dc-0279-43cc-a6e2-0f06228ffd78"
+  },
+  {
+    "first_name": "Allan",
+    "last_name": "FARLEY",
+    "numberOfViolations": 1,
+    "total_fine": 3562.0,
+    "average_fine": 3562.0,
+    "personID": "2503d13b-121d-4504-a75a-d1a0a0db6f88"
+  },
+  {
+    "first_name": "Esmeralda",
+    "last_name": "KIM",
+    "numberOfViolations": 1,
+    "total_fine": 326.63,
+    "average_fine": 326.63,
+    "personID": "3bafbfe8-d96a-493c-8027-b581cd376609"
+  },
+  {
+    "first_name": "Lucy",
+    "last_name": "CANTU",
+    "numberOfViolations": 2,
+    "total_fine": 3305.74,
+    "average_fine": 1652.87,
+    "personID": "0f5d425a-c92c-42ec-9fb1-76820c6e5910"
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "HILL",
+    "numberOfViolations": 2,
+    "total_fine": 8527.8,
+    "average_fine": 4263.9,
+    "personID": "20749824-2443-4896-ba58-3be2adc6626b"
+  },
+  {
+    "first_name": "Ian",
+    "last_name": "MCKINNEY",
+    "numberOfViolations": 2,
+    "total_fine": 5796.31,
+    "average_fine": 2898.16,
+    "personID": "113a4e4e-0e6a-49ca-a535-17665a472256"
+  },
+  {
+    "first_name": "Tiffanie",
+    "last_name": "TERRELL",
+    "numberOfViolations": 1,
+    "total_fine": 2352.34,
+    "average_fine": 2352.34,
+    "personID": "978549e2-1639-4150-9c26-efc3925b8a27"
+  },
+  {
+    "first_name": "Caroline",
+    "last_name": "DELANEY",
+    "numberOfViolations": 3,
+    "total_fine": 4904.78,
+    "average_fine": 1634.93,
+    "personID": "67d3715f-a3e6-4807-bf25-6e16b704d1c1"
+  },
+  {
+    "first_name": "Esmeralda",
+    "last_name": "COBB",
+    "numberOfViolations": 1,
+    "total_fine": 1719.6,
+    "average_fine": 1719.6,
+    "personID": "16fffdb7-dec2-471c-9bc8-cd30f908b7c4"
+  },
+  {
+    "first_name": "Kristie",
+    "last_name": "HERRING",
+    "numberOfViolations": 3,
+    "total_fine": 9385.02,
+    "average_fine": 3128.34,
+    "personID": "a32a5e1c-c27c-4326-a13f-ee2a9eca1711"
+  },
+  {
+    "first_name": "Clint",
+    "last_name": "CUNNINGHAM",
+    "numberOfViolations": 1,
+    "total_fine": 2786.65,
+    "average_fine": 2786.65,
+    "personID": "534d987f-1a18-41f1-87a3-7c1632ac2361"
+  },
+  {
+    "first_name": "Kristal",
+    "last_name": "HYDE",
+    "numberOfViolations": 1,
+    "total_fine": 1818.81,
+    "average_fine": 1818.81,
+    "personID": "48e84ae0-8607-4b1f-890a-26959fa94d83"
+  },
+  {
+    "first_name": "Marco",
+    "last_name": "RANDALL",
+    "numberOfViolations": 2,
+    "total_fine": 8532.67,
+    "average_fine": 4266.34,
+    "personID": "9a7afaab-efbe-4d81-8588-da337cb18b4d"
+  },
+  {
+    "first_name": "Daniela",
+    "last_name": "AGUILAR",
+    "numberOfViolations": 1,
+    "total_fine": 604.58,
+    "average_fine": 604.58,
+    "personID": "0441d4c4-8975-4af2-8b6c-156b8a6785ce"
+  },
+  {
+    "first_name": "Janet",
+    "last_name": "NEWMAN",
+    "numberOfViolations": 2,
+    "total_fine": 8840.66,
+    "average_fine": 4420.33,
+    "personID": "aeb4b037-c948-4d94-8784-6d02b30a9960"
+  },
+  {
+    "first_name": "Britney",
+    "last_name": "ODOM",
+    "numberOfViolations": 1,
+    "total_fine": 1336.87,
+    "average_fine": 1336.87,
+    "personID": "256bb50e-ef7b-42f4-a2d6-4960d5f0b118"
+  },
+  {
+    "first_name": "Rebecca",
+    "last_name": "POPE",
+    "numberOfViolations": 1,
+    "total_fine": 1628.44,
+    "average_fine": 1628.44,
+    "personID": "2242058f-74c9-4b40-a257-881a0e8c3633"
+  },
+  {
+    "first_name": "Anne",
+    "last_name": "TOWNSEND",
+    "numberOfViolations": 1,
+    "total_fine": 1072.84,
+    "average_fine": 1072.84,
+    "personID": "4c7a876c-172f-4f66-b0c9-69ee2aee622c"
+  },
+  {
+    "first_name": "Joanne",
+    "last_name": "BISHOP",
+    "numberOfViolations": 3,
+    "total_fine": 6385.76,
+    "average_fine": 2128.59,
+    "personID": "babe4d97-f3b2-4832-ae37-ddd5594404c7"
+  },
+  {
+    "first_name": "Dean",
+    "last_name": "SWEENEY",
+    "numberOfViolations": 2,
+    "total_fine": 3939.37,
+    "average_fine": 1969.69,
+    "personID": "ea9e47bb-c6ce-4150-858d-b528145e048a"
+  },
+  {
+    "first_name": "Karina",
+    "last_name": "GLASS",
+    "numberOfViolations": 1,
+    "total_fine": 1280.08,
+    "average_fine": 1280.08,
+    "personID": "16922fb3-064b-4e07-a57e-3a55430f2f84"
+  },
+  {
+    "first_name": "Alana",
+    "last_name": "SALINAS",
+    "numberOfViolations": 3,
+    "total_fine": 9280.37,
+    "average_fine": 3093.46,
+    "personID": "de7b8169-385a-43dc-a671-c6a6be8cf01f"
+  },
+  {
+    "first_name": "Alexis",
+    "last_name": "WALLER",
+    "numberOfViolations": 2,
+    "total_fine": 486.95,
+    "average_fine": 243.48,
+    "personID": "6b4e3276-1528-4a40-919d-d0640257272d"
+  },
+  {
+    "first_name": "Carissa",
+    "last_name": "ZIMMERMAN",
+    "numberOfViolations": 3,
+    "total_fine": 8395.12,
+    "average_fine": 2798.37,
+    "personID": "cbe47755-091b-4c3e-acc4-a3cc6b605f29"
+  },
+  {
+    "first_name": "Abel",
+    "last_name": "ROSE",
+    "numberOfViolations": 3,
+    "total_fine": 5170.05,
+    "average_fine": 1723.35,
+    "personID": "e43c26a5-a58d-4dac-b8c3-eb670cfbc73f"
+  },
+  {
+    "first_name": "Jill",
+    "last_name": "DELEON",
+    "numberOfViolations": 3,
+    "total_fine": 10817.42,
+    "average_fine": 3605.81,
+    "personID": "9b843216-dc29-4838-9fb6-c97870c0f956"
+  },
+  {
+    "first_name": "Deandre",
+    "last_name": "EDWARDS",
+    "numberOfViolations": 2,
+    "total_fine": 7246.85,
+    "average_fine": 3623.43,
+    "personID": "f192da08-9a7a-43f8-b8cd-0bf499d5922b"
+  },
+  {
+    "first_name": "Sally",
+    "last_name": "BOYLE",
+    "numberOfViolations": 2,
+    "total_fine": 4126.61,
+    "average_fine": 2063.31,
+    "personID": "d2f5b01c-0cbb-41cc-8fc3-5c497c6f229a"
+  },
+  {
+    "first_name": "Alecia",
+    "last_name": "SPARKS",
+    "numberOfViolations": 2,
+    "total_fine": 6222.45,
+    "average_fine": 3111.23,
+    "personID": "9d4f7c66-62bd-474f-8bf7-ea34c0b2e74d"
+  },
+  {
+    "first_name": "Elijah",
+    "last_name": "PUCKETT",
+    "numberOfViolations": 2,
+    "total_fine": 5962.32,
+    "average_fine": 2981.16,
+    "personID": "a86d4de0-c27a-494a-874c-aa64581a0164"
+  },
+  {
+    "first_name": "Milton",
+    "last_name": "CASH",
+    "numberOfViolations": 2,
+    "total_fine": 1860.17,
+    "average_fine": 930.09,
+    "personID": "d7f62e42-c037-4fb9-bc77-a8dd5ef40e94"
+  },
+  {
+    "first_name": "Sydney",
+    "last_name": "CANNON",
+    "numberOfViolations": 3,
+    "total_fine": 8328.52,
+    "average_fine": 2776.17,
+    "personID": "9b9fc597-71ec-4045-a444-9db4fdd03171"
+  },
+  {
+    "first_name": "Miranda",
+    "last_name": "MCDONALD",
+    "numberOfViolations": 2,
+    "total_fine": 400.83,
+    "average_fine": 200.42,
+    "personID": "ec83c45c-a9e7-4a5f-9f80-fd5fd78cd4c5"
+  },
+  {
+    "first_name": "Serena",
+    "last_name": "MOODY",
+    "numberOfViolations": 2,
+    "total_fine": 3280.11,
+    "average_fine": 1640.06,
+    "personID": "87f26424-aa78-443e-b3e1-cf386b66f8dd"
   },
   {
     "first_name": "Paige",
-    "last_name": "ORTEGA",
+    "last_name": "MCGUIRE",
+    "numberOfViolations": 3,
+    "total_fine": 3396.9,
+    "average_fine": 1132.3,
+    "personID": "46b00925-b8c2-4531-a156-50b90ac8abb2"
+  },
+  {
+    "first_name": "Grace",
+    "last_name": "REEVES",
+    "numberOfViolations": 3,
+    "total_fine": 6775.68,
+    "average_fine": 2258.56,
+    "personID": "8b9d1724-df75-4fd9-8a35-fcd84aa94b53"
+  },
+  {
+    "first_name": "Lacey",
+    "last_name": "BOWMAN",
+    "numberOfViolations": 3,
+    "total_fine": 6368.49,
+    "average_fine": 2122.83,
+    "personID": "12fc1596-a98c-43f9-a879-7e31b7f277a3"
+  },
+  {
+    "first_name": "Nicholas",
+    "last_name": "BOOKER",
+    "numberOfViolations": 2,
+    "total_fine": 7836.05,
+    "average_fine": 3918.03,
+    "personID": "ed6403b5-7a10-4ba9-9f97-2b2c5553f588"
+  },
+  {
+    "first_name": "Chelsie",
+    "last_name": "RATLIFF",
     "numberOfViolations": 1,
-    "total_fine": 935.8,
-    "average_fine": 935.8,
-    "personID": "4c9a5867-c5cb-4d32-a96c-f3905bf7b591"
+    "total_fine": 3041.96,
+    "average_fine": 3041.96,
+    "personID": "2671e5ed-04cf-449f-a1aa-ac0c88a02dd8"
+  },
+  {
+    "first_name": "Ciara",
+    "last_name": "PAUL",
+    "numberOfViolations": 1,
+    "total_fine": 2265.93,
+    "average_fine": 2265.93,
+    "personID": "f67af931-821e-4247-b234-b5704900924a"
+  },
+  {
+    "first_name": "Shayna",
+    "last_name": "ONEIL",
+    "numberOfViolations": 1,
+    "total_fine": 3398.74,
+    "average_fine": 3398.74,
+    "personID": "3848e8bd-2f91-4568-a5e7-2429472f8ff1"
+  },
+  {
+    "first_name": "Chance",
+    "last_name": "LANDRY",
+    "numberOfViolations": 2,
+    "total_fine": 5765.9,
+    "average_fine": 2882.95,
+    "personID": "e273a2cf-a7d6-48ca-9ab6-0b94817b04d8"
+  },
+  {
+    "first_name": "Levi",
+    "last_name": "ELLISON",
+    "numberOfViolations": 1,
+    "total_fine": 3024.09,
+    "average_fine": 3024.09,
+    "personID": "840e4109-33c1-45ea-a0a7-6e3731fecf60"
+  },
+  {
+    "first_name": "Lacey",
+    "last_name": "DONALDSON",
+    "numberOfViolations": 3,
+    "total_fine": 8196.52,
+    "average_fine": 2732.17,
+    "personID": "45ae1747-e9c2-404e-8de3-9a6efecad101"
+  },
+  {
+    "first_name": "Karissa",
+    "last_name": "BLACKWELL",
+    "numberOfViolations": 1,
+    "total_fine": 1985.12,
+    "average_fine": 1985.12,
+    "personID": "c43e9489-a94d-4d84-bb26-a4fd252465a4"
+  },
+  {
+    "first_name": "Alan",
+    "last_name": "OCONNOR",
+    "numberOfViolations": 1,
+    "total_fine": 2432.46,
+    "average_fine": 2432.46,
+    "personID": "783511db-9a52-47f6-98e4-5efa3bcbc2b9"
+  },
+  {
+    "first_name": "Rebecca",
+    "last_name": "SIMMONS",
+    "numberOfViolations": 2,
+    "total_fine": 8183.7,
+    "average_fine": 4091.85,
+    "personID": "f217d200-9b01-437d-a2f7-e7ebde92f0c3"
+  },
+  {
+    "first_name": "Zachary",
+    "last_name": "TUCKER",
+    "numberOfViolations": 2,
+    "total_fine": 5007.54,
+    "average_fine": 2503.77,
+    "personID": "3eff8e05-10c2-452e-adf6-27d1909b6c85"
+  },
+  {
+    "first_name": "Yesenia",
+    "last_name": "DICKERSON",
+    "numberOfViolations": 3,
+    "total_fine": 6685.92,
+    "average_fine": 2228.64,
+    "personID": "ef496538-4a38-4627-9312-cd2921e7da81"
+  },
+  {
+    "first_name": "Christina",
+    "last_name": "BRADSHAW",
+    "numberOfViolations": 2,
+    "total_fine": 4801.1,
+    "average_fine": 2400.55,
+    "personID": "6acbea4d-d6d2-4801-b921-0864e879e45d"
+  },
+  {
+    "first_name": "Ernesto",
+    "last_name": "POWELL",
+    "numberOfViolations": 1,
+    "total_fine": 3818.88,
+    "average_fine": 3818.88,
+    "personID": "f951d416-7040-4475-8594-a48aefb61cec"
+  },
+  {
+    "first_name": "Kenny",
+    "last_name": "WORKMAN",
+    "numberOfViolations": 2,
+    "total_fine": 4178.79,
+    "average_fine": 2089.4,
+    "personID": "aad89f8c-0e64-41d6-bce5-4ecbc6560da9"
+  },
+  {
+    "first_name": "Erik",
+    "last_name": "INGRAM",
+    "numberOfViolations": 2,
+    "total_fine": 3119.16,
+    "average_fine": 1559.58,
+    "personID": "753d3f74-acc4-497f-9997-4f9ea2e28821"
+  },
+  {
+    "first_name": "Yvette",
+    "last_name": "MCKENZIE",
+    "numberOfViolations": 1,
+    "total_fine": 2101.0,
+    "average_fine": 2101.0,
+    "personID": "2a3643f5-fb8e-49b7-93ac-cfe22ba3d728"
+  },
+  {
+    "first_name": "Jade",
+    "last_name": "CAMPOS",
+    "numberOfViolations": 2,
+    "total_fine": 6794.06,
+    "average_fine": 3397.03,
+    "personID": "4c58ef1a-5098-4475-8d85-47274e1e8059"
+  },
+  {
+    "first_name": "Adriana",
+    "last_name": "THORNTON",
+    "numberOfViolations": 2,
+    "total_fine": 4617.41,
+    "average_fine": 2308.71,
+    "personID": "399ab466-e9f2-47ea-8896-5261ba91c0cf"
+  },
+  {
+    "first_name": "Alexandria",
+    "last_name": "CLINE",
+    "numberOfViolations": 3,
+    "total_fine": 4123.89,
+    "average_fine": 1374.63,
+    "personID": "d5fee6cb-039c-4a0c-b06d-901b65cb7456"
+  },
+  {
+    "first_name": "Terry",
+    "last_name": "HART",
+    "numberOfViolations": 1,
+    "total_fine": 4396.32,
+    "average_fine": 4396.32,
+    "personID": "ffc12dde-bca0-4fd3-994e-0cad5a3e1de5"
+  },
+  {
+    "first_name": "Sean",
+    "last_name": "MORTON",
+    "numberOfViolations": 1,
+    "total_fine": 4306.4,
+    "average_fine": 4306.4,
+    "personID": "095e6d38-b06c-4de6-b7b3-0594e7392fa6"
+  },
+  {
+    "first_name": "Abraham",
+    "last_name": "OLSEN",
+    "numberOfViolations": 1,
+    "total_fine": 3641.72,
+    "average_fine": 3641.72,
+    "personID": "a15f35e4-ef73-4ad6-829d-612a10ba714b"
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "WHEELER",
+    "numberOfViolations": 1,
+    "total_fine": 2935.75,
+    "average_fine": 2935.75,
+    "personID": "e8deaec8-af58-4943-aba3-28eafdb48da8"
+  },
+  {
+    "first_name": "Jack",
+    "last_name": "GARCIA",
+    "numberOfViolations": 1,
+    "total_fine": 933.2,
+    "average_fine": 933.2,
+    "personID": "0a7fef68-e781-4e4e-b0e5-9821ce5d6121"
+  },
+  {
+    "first_name": "Gwendolyn",
+    "last_name": "CARVER",
+    "numberOfViolations": 3,
+    "total_fine": 6964.15,
+    "average_fine": 2321.38,
+    "personID": "be494bfe-0867-4946-9cf0-9faf719b753a"
+  },
+  {
+    "first_name": "Jerome",
+    "last_name": "POPE",
+    "numberOfViolations": 2,
+    "total_fine": 1619.5,
+    "average_fine": 809.75,
+    "personID": "17efd7aa-9623-47db-914f-10df8de276a7"
+  },
+  {
+    "first_name": "Meaghan",
+    "last_name": "CROSBY",
+    "numberOfViolations": 2,
+    "total_fine": 3066.65,
+    "average_fine": 1533.33,
+    "personID": "0ab68ee6-736c-4410-89e3-5132c53c2daa"
+  },
+  {
+    "first_name": "Gilberto",
+    "last_name": "ALBERT",
+    "numberOfViolations": 2,
+    "total_fine": 6986.83,
+    "average_fine": 3493.42,
+    "personID": "c53f09cf-926a-4725-a959-35c58f305178"
+  },
+  {
+    "first_name": "Derrick",
+    "last_name": "ALSTON",
+    "numberOfViolations": 1,
+    "total_fine": 3812.05,
+    "average_fine": 3812.05,
+    "personID": "84136951-e9c8-4a26-8284-8bc7ef0d238f"
+  },
+  {
+    "first_name": "Grant",
+    "last_name": "OWENS",
+    "numberOfViolations": 2,
+    "total_fine": 6428.33,
+    "average_fine": 3214.17,
+    "personID": "9e96cea1-855e-4687-8a7f-509fc83e425f"
+  },
+  {
+    "first_name": "Leroy",
+    "last_name": "MANN",
+    "numberOfViolations": 1,
+    "total_fine": 1311.78,
+    "average_fine": 1311.78,
+    "personID": "cff817f8-374a-42c6-b38e-7038a9b454fc"
+  },
+  {
+    "first_name": "Stefan",
+    "last_name": "SALAZAR",
+    "numberOfViolations": 2,
+    "total_fine": 4800.57,
+    "average_fine": 2400.29,
+    "personID": "d1ef0301-246e-4509-9309-f12659b62367"
+  },
+  {
+    "first_name": "Marisa",
+    "last_name": "HENRY",
+    "numberOfViolations": 2,
+    "total_fine": 6089.79,
+    "average_fine": 3044.9,
+    "personID": "1b4b418b-890f-41e7-88a5-5ad97cc74fe8"
+  },
+  {
+    "first_name": "Alyssa",
+    "last_name": "TORRES",
+    "numberOfViolations": 1,
+    "total_fine": 1699.66,
+    "average_fine": 1699.66,
+    "personID": "d022778c-9010-488c-8fd1-ffab9b08073b"
+  },
+  {
+    "first_name": "Cedric",
+    "last_name": "HANSEN",
+    "numberOfViolations": 1,
+    "total_fine": 3284.09,
+    "average_fine": 3284.09,
+    "personID": "7027bd83-4295-4ca8-b680-e87f7cfcaae1"
+  },
+  {
+    "first_name": "Anastasia",
+    "last_name": "DUKE",
+    "numberOfViolations": 2,
+    "total_fine": 8079.85,
+    "average_fine": 4039.93,
+    "personID": "0d50cb81-640e-4341-8469-f234dd1fc9a2"
+  },
+  {
+    "first_name": "Lewis",
+    "last_name": "RUSSO",
+    "numberOfViolations": 1,
+    "total_fine": 3722.96,
+    "average_fine": 3722.96,
+    "personID": "0f36c007-a6ed-44e1-82a9-914d89cf1c69"
+  },
+  {
+    "first_name": "Sade",
+    "last_name": "SPENCER",
+    "numberOfViolations": 2,
+    "total_fine": 4361.06,
+    "average_fine": 2180.53,
+    "personID": "588f08a9-3f0a-4b52-857a-bfc4ff3df282"
+  },
+  {
+    "first_name": "Bryce",
+    "last_name": "MCLEOD",
+    "numberOfViolations": 2,
+    "total_fine": 2344.06,
+    "average_fine": 1172.03,
+    "personID": "7ab4cd50-db56-4ab3-8fef-b7e6f7311246"
+  },
+  {
+    "first_name": "Vivian",
+    "last_name": "WILLIAMSON",
+    "numberOfViolations": 1,
+    "total_fine": 4130.81,
+    "average_fine": 4130.81,
+    "personID": "c4684650-b389-4ba9-898d-2e22e9b43f81"
+  },
+  {
+    "first_name": "Erica",
+    "last_name": "WILLIAM",
+    "numberOfViolations": 3,
+    "total_fine": 9251.49,
+    "average_fine": 3083.83,
+    "personID": "63db630b-5019-4866-a1dc-d293c874a816"
+  },
+  {
+    "first_name": "Felicia",
+    "last_name": "SIMMONS",
+    "numberOfViolations": 1,
+    "total_fine": 369.27,
+    "average_fine": 369.27,
+    "personID": "86af6d9c-9f08-4d69-a2d1-70b19f624fd5"
+  },
+  {
+    "first_name": "Dean",
+    "last_name": "HANEY",
+    "numberOfViolations": 1,
+    "total_fine": 1595.1,
+    "average_fine": 1595.1,
+    "personID": "4d77d33e-e0cf-44bd-8ec8-9641a345ba71"
+  },
+  {
+    "first_name": "Ernest",
+    "last_name": "WATERS",
+    "numberOfViolations": 1,
+    "total_fine": 303.57,
+    "average_fine": 303.57,
+    "personID": "ca95b4e2-3a88-4cd2-80c2-e3b38aca4211"
+  },
+  {
+    "first_name": "Candace",
+    "last_name": "HARPER",
+    "numberOfViolations": 3,
+    "total_fine": 9742.42,
+    "average_fine": 3247.47,
+    "personID": "8f4e1c26-369c-4a34-81ae-4cc7153fbc18"
+  },
+  {
+    "first_name": "Marvin",
+    "last_name": "DOYLE",
+    "numberOfViolations": 1,
+    "total_fine": 2399.52,
+    "average_fine": 2399.52,
+    "personID": "97399164-4b9d-429e-9413-37590061e7fb"
+  },
+  {
+    "first_name": "Anthony",
+    "last_name": "CARSON",
+    "numberOfViolations": 3,
+    "total_fine": 7299.44,
+    "average_fine": 2433.15,
+    "personID": "2018029b-8be1-4d64-b83d-858d7024ba02"
+  },
+  {
+    "first_name": "Alexander",
+    "last_name": "STAFFORD",
+    "numberOfViolations": 1,
+    "total_fine": 3671.52,
+    "average_fine": 3671.52,
+    "personID": "42ae79ca-8436-420b-96f8-94ff73501f9a"
+  },
+  {
+    "first_name": "Alvin",
+    "last_name": "COHEN",
+    "numberOfViolations": 1,
+    "total_fine": 4971.95,
+    "average_fine": 4971.95,
+    "personID": "57cc81ed-53e1-4780-a416-42d1c0160704"
+  },
+  {
+    "first_name": "Kelli",
+    "last_name": "WITT",
+    "numberOfViolations": 3,
+    "total_fine": 11519.58,
+    "average_fine": 3839.86,
+    "personID": "9dada8f9-1eb6-4ffe-a366-fe50030c51bd"
+  },
+  {
+    "first_name": "Norma",
+    "last_name": "FOWLER",
+    "numberOfViolations": 2,
+    "total_fine": 5290.95,
+    "average_fine": 2645.48,
+    "personID": "c1ef0b3e-4c26-4239-a53b-af976616bbe9"
+  },
+  {
+    "first_name": "Vernon",
+    "last_name": "SANDOVAL",
+    "numberOfViolations": 2,
+    "total_fine": 3480.51,
+    "average_fine": 1740.26,
+    "personID": "ea59322f-6867-4981-ae91-38a7a0410c46"
+  },
+  {
+    "first_name": "Zachery",
+    "last_name": "LARSON",
+    "numberOfViolations": 2,
+    "total_fine": 1338.43,
+    "average_fine": 669.22,
+    "personID": "f0bc1787-de16-4dfe-8ce2-ab0e83ef5373"
+  },
+  {
+    "first_name": "Tracie",
+    "last_name": "MCCONNELL",
+    "numberOfViolations": 2,
+    "total_fine": 2644.94,
+    "average_fine": 1322.47,
+    "personID": "a140c31a-7eea-4715-91b6-f7b6fd89638a"
+  },
+  {
+    "first_name": "Barbara",
+    "last_name": "SALAZAR",
+    "numberOfViolations": 2,
+    "total_fine": 6866.24,
+    "average_fine": 3433.12,
+    "personID": "e6dc482e-5a13-487d-93b5-147e7f465fba"
+  },
+  {
+    "first_name": "Pamela",
+    "last_name": "MACDONALD",
+    "numberOfViolations": 3,
+    "total_fine": 5477.17,
+    "average_fine": 1825.72,
+    "personID": "481b0c02-83e6-466d-ab32-da8d444e77ce"
+  },
+  {
+    "first_name": "Krystle",
+    "last_name": "JOHNSTON",
+    "numberOfViolations": 1,
+    "total_fine": 4133.13,
+    "average_fine": 4133.13,
+    "personID": "d7761418-08d9-4920-972f-6b8ba0dc0d5e"
+  },
+  {
+    "first_name": "Bonnie",
+    "last_name": "HUFF",
+    "numberOfViolations": 2,
+    "total_fine": 2500.13,
+    "average_fine": 1250.07,
+    "personID": "d031346b-23c1-4f17-898b-c73f2a94bf1e"
+  },
+  {
+    "first_name": "Andy",
+    "last_name": "WALKER",
+    "numberOfViolations": 1,
+    "total_fine": 2582.3,
+    "average_fine": 2582.3,
+    "personID": "e2fd79c9-21e0-42b9-863c-514f9ebb7213"
+  },
+  {
+    "first_name": "Chelsea",
+    "last_name": "BUSH",
+    "numberOfViolations": 3,
+    "total_fine": 4861.52,
+    "average_fine": 1620.51,
+    "personID": "2a47de4f-4ee4-4c66-9d6d-062e87534124"
+  },
+  {
+    "first_name": "Shayna",
+    "last_name": "HOLT",
+    "numberOfViolations": 2,
+    "total_fine": 2198.44,
+    "average_fine": 1099.22,
+    "personID": "ed689b21-13b0-4b8d-b65a-fc28b523a2e4"
+  },
+  {
+    "first_name": "Sierra",
+    "last_name": "PERKINS",
+    "numberOfViolations": 2,
+    "total_fine": 6974.44,
+    "average_fine": 3487.22,
+    "personID": "db36c702-9737-4c47-a1d0-a6cb035270ce"
+  },
+  {
+    "first_name": "Carly",
+    "last_name": "MATHIS",
+    "numberOfViolations": 2,
+    "total_fine": 6199.8,
+    "average_fine": 3099.9,
+    "personID": "d4a4c7d7-c9c6-4b00-a3d9-c7d225790b01"
+  },
+  {
+    "first_name": "Jeremy",
+    "last_name": "HARTMAN",
+    "numberOfViolations": 2,
+    "total_fine": 8665.72,
+    "average_fine": 4332.86,
+    "personID": "d9ababc0-5742-4a42-910c-7e4bdb3330d9"
+  },
+  {
+    "first_name": "Nelson",
+    "last_name": "COOKE",
+    "numberOfViolations": 2,
+    "total_fine": 610.68,
+    "average_fine": 305.34,
+    "personID": "b272d2c8-f2b9-4858-9354-7344a88df90c"
+  },
+  {
+    "first_name": "Kerry",
+    "last_name": "TYLER",
+    "numberOfViolations": 2,
+    "total_fine": 6164.24,
+    "average_fine": 3082.12,
+    "personID": "268ae142-5e83-4241-80d8-d4c54daf7974"
+  },
+  {
+    "first_name": "Brady",
+    "last_name": "GRAVES",
+    "numberOfViolations": 3,
+    "total_fine": 7560.38,
+    "average_fine": 2520.13,
+    "personID": "c764a8f6-4f18-421a-be21-4313101a6c75"
+  },
+  {
+    "first_name": "Kristina",
+    "last_name": "TREVINO",
+    "numberOfViolations": 1,
+    "total_fine": 3015.33,
+    "average_fine": 3015.33,
+    "personID": "a0785679-a26b-4726-a9a2-4a911b04b8b4"
+  },
+  {
+    "first_name": "Luke",
+    "last_name": "DELEON",
+    "numberOfViolations": 2,
+    "total_fine": 2169.88,
+    "average_fine": 1084.94,
+    "personID": "98925c8d-31b4-41d8-bacf-9db09d16bdca"
+  },
+  {
+    "first_name": "Shanna",
+    "last_name": "OSBORNE",
+    "numberOfViolations": 1,
+    "total_fine": 683.66,
+    "average_fine": 683.66,
+    "personID": "cfcb23cb-b0e8-495b-8b59-05c06bf1730a"
+  },
+  {
+    "first_name": "Esther",
+    "last_name": "HEBERT",
+    "numberOfViolations": 3,
+    "total_fine": 2834.54,
+    "average_fine": 944.85,
+    "personID": "756af2eb-5d52-4d7a-a037-660341750b39"
+  },
+  {
+    "first_name": "Betty",
+    "last_name": "AGUILAR",
+    "numberOfViolations": 1,
+    "total_fine": 612.05,
+    "average_fine": 612.05,
+    "personID": "0a0c16b3-323f-4dc5-abba-9d7c6b08ad52"
+  },
+  {
+    "first_name": "Johanna",
+    "last_name": "BYERS",
+    "numberOfViolations": 1,
+    "total_fine": 2167.44,
+    "average_fine": 2167.44,
+    "personID": "ed0f70f7-e62b-49dc-83b9-a8af17376dcb"
+  },
+  {
+    "first_name": "Debra",
+    "last_name": "CRAIG",
+    "numberOfViolations": 1,
+    "total_fine": 2411.75,
+    "average_fine": 2411.75,
+    "personID": "1c195292-f153-4cd7-9e25-a62f07ffb712"
+  },
+  {
+    "first_name": "Bridgette",
+    "last_name": "BARRERA",
+    "numberOfViolations": 2,
+    "total_fine": 3668.49,
+    "average_fine": 1834.25,
+    "personID": "a0e90159-6107-4aa5-b1aa-f21e0c5ece17"
+  },
+  {
+    "first_name": "Julian",
+    "last_name": "PRINCE",
+    "numberOfViolations": 2,
+    "total_fine": 7743.93,
+    "average_fine": 3871.97,
+    "personID": "89bb81af-e0bf-4189-b4e5-dca678b6a224"
+  },
+  {
+    "first_name": "Neil",
+    "last_name": "GOLDEN",
+    "numberOfViolations": 2,
+    "total_fine": 7723.35,
+    "average_fine": 3861.68,
+    "personID": "74e6b30f-0d8e-4ddb-a8c1-d17fca652f93"
+  },
+  {
+    "first_name": "Dante",
+    "last_name": "COMBS",
+    "numberOfViolations": 1,
+    "total_fine": 4748.74,
+    "average_fine": 4748.74,
+    "personID": "3c19e9a1-6a57-449c-9786-9612d8928180"
+  },
+  {
+    "first_name": "Lacey",
+    "last_name": "RICHARD",
+    "numberOfViolations": 1,
+    "total_fine": 791.01,
+    "average_fine": 791.01,
+    "personID": "fa5dc4f6-74e6-4377-82b2-ae9fcea7384a"
+  },
+  {
+    "first_name": "Josiah",
+    "last_name": "ANTHONY",
+    "numberOfViolations": 1,
+    "total_fine": 4073.86,
+    "average_fine": 4073.86,
+    "personID": "bccfb2b3-1c09-4e3a-b73d-09a998015927"
+  },
+  {
+    "first_name": "Enrique",
+    "last_name": "JACOBS",
+    "numberOfViolations": 2,
+    "total_fine": 4792.66,
+    "average_fine": 2396.33,
+    "personID": "7ffdcddd-9b91-4216-81ce-be9fecbb3bb0"
+  },
+  {
+    "first_name": "Brenna",
+    "last_name": "HOLMAN",
+    "numberOfViolations": 3,
+    "total_fine": 4927.8,
+    "average_fine": 1642.6,
+    "personID": "6fc8dd39-336c-4a17-843e-bc6890bfd89d"
+  },
+  {
+    "first_name": "Caleb",
+    "last_name": "NEAL",
+    "numberOfViolations": 2,
+    "total_fine": 9516.93,
+    "average_fine": 4758.47,
+    "personID": "280ff7d9-a82c-4683-b9b2-906df54ae613"
+  },
+  {
+    "first_name": "Helen",
+    "last_name": "SHEPARD",
+    "numberOfViolations": 3,
+    "total_fine": 6065.18,
+    "average_fine": 2021.73,
+    "personID": "9baa1791-296d-49de-86da-c45f51953b98"
+  },
+  {
+    "first_name": "Christin",
+    "last_name": "BROOKS",
+    "numberOfViolations": 2,
+    "total_fine": 8028.96,
+    "average_fine": 4014.48,
+    "personID": "732dfa42-b77d-4cdb-96ee-b1baafa9ee36"
+  },
+  {
+    "first_name": "Malcolm",
+    "last_name": "CONLEY",
+    "numberOfViolations": 3,
+    "total_fine": 5970.03,
+    "average_fine": 1990.01,
+    "personID": "4abe42bd-062f-4a8f-99a7-9e9eb66c19f5"
+  },
+  {
+    "first_name": "Blanca",
+    "last_name": "PATEL",
+    "numberOfViolations": 2,
+    "total_fine": 2916.65,
+    "average_fine": 1458.33,
+    "personID": "f757d9b5-f0ae-487d-97a6-3aa8fe8881b3"
+  },
+  {
+    "first_name": "Steven",
+    "last_name": "GAY",
+    "numberOfViolations": 3,
+    "total_fine": 5283.01,
+    "average_fine": 1761.0,
+    "personID": "aae22367-a505-4170-9395-75895c943b7f"
+  },
+  {
+    "first_name": "Kevin",
+    "last_name": "SUAREZ",
+    "numberOfViolations": 2,
+    "total_fine": 4612.81,
+    "average_fine": 2306.41,
+    "personID": "bfcf5d8e-fa46-4982-bb19-c7e1842af550"
+  },
+  {
+    "first_name": "Evan",
+    "last_name": "SNYDER",
+    "numberOfViolations": 2,
+    "total_fine": 5713.34,
+    "average_fine": 2856.67,
+    "personID": "463de2a9-2fae-42c0-ad7c-173637c2007b"
+  },
+  {
+    "first_name": "Roland",
+    "last_name": "WARNER",
+    "numberOfViolations": 1,
+    "total_fine": 3865.34,
+    "average_fine": 3865.34,
+    "personID": "89555e5b-8c54-4d4d-a086-ba23ab4c23f1"
+  },
+  {
+    "first_name": "Raymond",
+    "last_name": "FOLEY",
+    "numberOfViolations": 3,
+    "total_fine": 6653.3,
+    "average_fine": 2217.77,
+    "personID": "c74a78ee-e9b1-4115-bb24-ed5e00424537"
+  },
+  {
+    "first_name": "Erick",
+    "last_name": "PRUITT",
+    "numberOfViolations": 1,
+    "total_fine": 63.5,
+    "average_fine": 63.5,
+    "personID": "1b94300e-55b3-47af-8f3f-90ae66536457"
+  },
+  {
+    "first_name": "Skyler",
+    "last_name": "PAYNE",
+    "numberOfViolations": 3,
+    "total_fine": 8026.76,
+    "average_fine": 2675.59,
+    "personID": "511f6100-3b04-4ba9-afcf-98b9cfff742f"
+  },
+  {
+    "first_name": "Katharine",
+    "last_name": "MILLS",
+    "numberOfViolations": 2,
+    "total_fine": 8332.45,
+    "average_fine": 4166.23,
+    "personID": "cbe9d51f-8d7e-41e3-90a7-23b68dc370a1"
+  },
+  {
+    "first_name": "Eva",
+    "last_name": "MOSLEY",
+    "numberOfViolations": 2,
+    "total_fine": 2712.24,
+    "average_fine": 1356.12,
+    "personID": "b1db3b6e-11f8-4d9b-9fb4-c82781c9f492"
+  },
+  {
+    "first_name": "Jessie",
+    "last_name": "VELASQUEZ",
+    "numberOfViolations": 1,
+    "total_fine": 4314.98,
+    "average_fine": 4314.98,
+    "personID": "fe747a9c-3342-43ee-8ddb-68531081556c"
+  },
+  {
+    "first_name": "Marisa",
+    "last_name": "KIRKLAND",
+    "numberOfViolations": 1,
+    "total_fine": 791.53,
+    "average_fine": 791.53,
+    "personID": "5526ac55-b254-4b86-863c-39bd7888c38d"
+  },
+  {
+    "first_name": "Felicia",
+    "last_name": "ARNOLD",
+    "numberOfViolations": 3,
+    "total_fine": 9065.99,
+    "average_fine": 3022.0,
+    "personID": "f81f3ec9-3e65-453c-97a8-bab947e3435b"
+  },
+  {
+    "first_name": "Janine",
+    "last_name": "DRAKE",
+    "numberOfViolations": 2,
+    "total_fine": 2341.31,
+    "average_fine": 1170.66,
+    "personID": "768a6215-cac5-4e63-8ea0-6a72881a68d7"
+  },
+  {
+    "first_name": "Autumn",
+    "last_name": "NEWTON",
+    "numberOfViolations": 1,
+    "total_fine": 2512.05,
+    "average_fine": 2512.05,
+    "personID": "186a2d93-5e0f-454e-945a-8f0178a7a16d"
+  },
+  {
+    "first_name": "Larry",
+    "last_name": "CARRILLO",
+    "numberOfViolations": 1,
+    "total_fine": 987.08,
+    "average_fine": 987.08,
+    "personID": "56baea70-a8cd-4106-8253-ff3ff2ace6e8"
+  },
+  {
+    "first_name": "Karl",
+    "last_name": "BURCH",
+    "numberOfViolations": 2,
+    "total_fine": 3066.54,
+    "average_fine": 1533.27,
+    "personID": "35a59b7d-7f4f-461a-9a67-3b087bbda174"
+  },
+  {
+    "first_name": "Brock",
+    "last_name": "GREGORY",
+    "numberOfViolations": 3,
+    "total_fine": 5431.13,
+    "average_fine": 1810.38,
+    "personID": "31888427-120a-4ed0-8c02-3414d1d94496"
+  },
+  {
+    "first_name": "Alexis",
+    "last_name": "TALLEY",
+    "numberOfViolations": 3,
+    "total_fine": 6394.13,
+    "average_fine": 2131.38,
+    "personID": "ca66e6c5-2794-4cfd-9a42-950078e51c5f"
+  },
+  {
+    "first_name": "Melinda",
+    "last_name": "MORIN",
+    "numberOfViolations": 2,
+    "total_fine": 2918.61,
+    "average_fine": 1459.31,
+    "personID": "1a41d753-143c-4fda-8389-8554d414200f"
+  },
+  {
+    "first_name": "Erik",
+    "last_name": "AYALA",
+    "numberOfViolations": 1,
+    "total_fine": 4812.25,
+    "average_fine": 4812.25,
+    "personID": "f54e9420-191b-45b3-9be8-7cba22d9b479"
+  },
+  {
+    "first_name": "Laura",
+    "last_name": "CONWAY",
+    "numberOfViolations": 2,
+    "total_fine": 8436.42,
+    "average_fine": 4218.21,
+    "personID": "5f925df7-b470-404f-9ffc-d1c30bfd47af"
+  },
+  {
+    "first_name": "Amy",
+    "last_name": "GILES",
+    "numberOfViolations": 3,
+    "total_fine": 8963.53,
+    "average_fine": 2987.84,
+    "personID": "060ecee3-07d0-429e-acfd-f1c17e6feab1"
+  },
+  {
+    "first_name": "Jarred",
+    "last_name": "JOHNS",
+    "numberOfViolations": 1,
+    "total_fine": 1020.38,
+    "average_fine": 1020.38,
+    "personID": "67299293-4de4-49c7-9422-210279e0691c"
+  },
+  {
+    "first_name": "Caitlyn",
+    "last_name": "WINTERS",
+    "numberOfViolations": 2,
+    "total_fine": 5186.86,
+    "average_fine": 2593.43,
+    "personID": "d179b158-b68e-46eb-83f4-e9e1d7a521b2"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "KIDD",
+    "numberOfViolations": 3,
+    "total_fine": 7223.54,
+    "average_fine": 2407.85,
+    "personID": "6dc05179-5908-420d-8060-b2dbb5aefcef"
+  },
+  {
+    "first_name": "Meghan",
+    "last_name": "GALLAGHER",
+    "numberOfViolations": 1,
+    "total_fine": 2204.26,
+    "average_fine": 2204.26,
+    "personID": "c1e9fb0c-3ad7-4f11-8a03-0d64b3fc6ff2"
+  },
+  {
+    "first_name": "Marshall",
+    "last_name": "TERRELL",
+    "numberOfViolations": 2,
+    "total_fine": 641.61,
+    "average_fine": 320.81,
+    "personID": "cadb477d-f1db-4ae8-84b0-919c3c949b66"
+  },
+  {
+    "first_name": "Deanna",
+    "last_name": "STUART",
+    "numberOfViolations": 1,
+    "total_fine": 3910.21,
+    "average_fine": 3910.21,
+    "personID": "f9bceb33-1017-494a-b752-d3268cd89f35"
+  },
+  {
+    "first_name": "Jayme",
+    "last_name": "VALENCIA",
+    "numberOfViolations": 1,
+    "total_fine": 2893.84,
+    "average_fine": 2893.84,
+    "personID": "38b6fc22-60e2-49e1-9404-2d5c091a0999"
+  },
+  {
+    "first_name": "Ellen",
+    "last_name": "JOHNS",
+    "numberOfViolations": 3,
+    "total_fine": 6989.73,
+    "average_fine": 2329.91,
+    "personID": "239ab0e9-8e95-4c58-b177-5e390b6cd9d2"
+  },
+  {
+    "first_name": "Morgan",
+    "last_name": "WALL",
+    "numberOfViolations": 2,
+    "total_fine": 5540.37,
+    "average_fine": 2770.19,
+    "personID": "8359a458-897d-40e7-97fc-c4060adcdbed"
+  },
+  {
+    "first_name": "Brian",
+    "last_name": "DALE",
+    "numberOfViolations": 2,
+    "total_fine": 5029.85,
+    "average_fine": 2514.93,
+    "personID": "a5610a9d-d267-475b-9f9b-76c1297a8eb1"
+  },
+  {
+    "first_name": "Herbert",
+    "last_name": "ROWLAND",
+    "numberOfViolations": 1,
+    "total_fine": 2819.83,
+    "average_fine": 2819.83,
+    "personID": "a853c44e-1f30-49ec-8224-79c774002971"
+  },
+  {
+    "first_name": "Kathy",
+    "last_name": "GRIFFIN",
+    "numberOfViolations": 2,
+    "total_fine": 5733.2,
+    "average_fine": 2866.6,
+    "personID": "e7e38d12-f9b0-41b9-a871-d3ce77bcf2ad"
+  },
+  {
+    "first_name": "Diana",
+    "last_name": "MORSE",
+    "numberOfViolations": 1,
+    "total_fine": 1072.49,
+    "average_fine": 1072.49,
+    "personID": "89e8baa2-c2c5-4111-96f2-0e446860fc1e"
+  },
+  {
+    "first_name": "Ray",
+    "last_name": "RODRIGUEZ",
+    "numberOfViolations": 3,
+    "total_fine": 4212.89,
+    "average_fine": 1404.3,
+    "personID": "b7a1d048-75e5-4e48-9de9-d6a57fa8c4f7"
+  },
+  {
+    "first_name": "Karl",
+    "last_name": "WALTERS",
+    "numberOfViolations": 3,
+    "total_fine": 5231.74,
+    "average_fine": 1743.91,
+    "personID": "66703533-d1ec-4888-96fd-638e6b9b0892"
+  },
+  {
+    "first_name": "Carissa",
+    "last_name": "LANE",
+    "numberOfViolations": 1,
+    "total_fine": 1453.69,
+    "average_fine": 1453.69,
+    "personID": "ee997a40-bd1e-41f8-9a7a-181395f463fc"
+  },
+  {
+    "first_name": "Francesca",
+    "last_name": "ROMERO",
+    "numberOfViolations": 2,
+    "total_fine": 3376.35,
+    "average_fine": 1688.18,
+    "personID": "8c0105e7-5105-4621-ae60-a6e84047da53"
+  },
+  {
+    "first_name": "Adriana",
+    "last_name": "CHAMBERS",
+    "numberOfViolations": 2,
+    "total_fine": 3284.12,
+    "average_fine": 1642.06,
+    "personID": "3785b2b2-a9e7-4f5c-9c78-fc6ae583ea42"
+  },
+  {
+    "first_name": "Antoinette",
+    "last_name": "SPARKS",
+    "numberOfViolations": 3,
+    "total_fine": 8326.09,
+    "average_fine": 2775.36,
+    "personID": "046ae2b8-7b49-4c44-855f-89462994000d"
+  },
+  {
+    "first_name": "Derrick",
+    "last_name": "HALL",
+    "numberOfViolations": 1,
+    "total_fine": 4326.76,
+    "average_fine": 4326.76,
+    "personID": "4cbbf5e9-4b29-49b5-b9c1-2d98e7861c76"
+  },
+  {
+    "first_name": "Frederick",
+    "last_name": "THOMAS",
+    "numberOfViolations": 2,
+    "total_fine": 1810.0,
+    "average_fine": 905.0,
+    "personID": "e48a151a-ebd5-47d9-909a-7f142cc1dabb"
+  },
+  {
+    "first_name": "Jesus",
+    "last_name": "FRANKS",
+    "numberOfViolations": 2,
+    "total_fine": 5406.29,
+    "average_fine": 2703.15,
+    "personID": "2703591c-1e87-42a2-a431-3f410b0abe29"
+  },
+  {
+    "first_name": "Mindy",
+    "last_name": "GARCIA",
+    "numberOfViolations": 2,
+    "total_fine": 1881.98,
+    "average_fine": 940.99,
+    "personID": "096d42f7-fd9c-4192-a2da-81897d55e5fe"
+  },
+  {
+    "first_name": "Karen",
+    "last_name": "HOWE",
+    "numberOfViolations": 1,
+    "total_fine": 3707.01,
+    "average_fine": 3707.01,
+    "personID": "a2d6e626-e38a-4c81-b753-aa94b4f67ea6"
+  },
+  {
+    "first_name": "Belinda",
+    "last_name": "HOPKINS",
+    "numberOfViolations": 2,
+    "total_fine": 6649.44,
+    "average_fine": 3324.72,
+    "personID": "17965b3f-9d0a-4a17-8fab-ced31f6581c4"
+  },
+  {
+    "first_name": "Sonya",
+    "last_name": "GENTRY",
+    "numberOfViolations": 2,
+    "total_fine": 4733.85,
+    "average_fine": 2366.93,
+    "personID": "b28c880b-10a8-43f1-9042-8d25250ac5dd"
+  },
+  {
+    "first_name": "Daniela",
+    "last_name": "NEWTON",
+    "numberOfViolations": 2,
+    "total_fine": 8669.18,
+    "average_fine": 4334.59,
+    "personID": "9587b019-e4e0-4994-a50d-879f0b264530"
+  },
+  {
+    "first_name": "Paula",
+    "last_name": "BRANCH",
+    "numberOfViolations": 3,
+    "total_fine": 12719.32,
+    "average_fine": 4239.77,
+    "personID": "6efac96a-b3a8-4da2-b158-33172a6bddd0"
+  },
+  {
+    "first_name": "Deandre",
+    "last_name": "GUERRERO",
+    "numberOfViolations": 2,
+    "total_fine": 6336.85,
+    "average_fine": 3168.43,
+    "personID": "c98a6406-62f3-4c43-a3ae-048b2fc107b7"
+  },
+  {
+    "first_name": "Melissa",
+    "last_name": "WALTER",
+    "numberOfViolations": 1,
+    "total_fine": 3092.3,
+    "average_fine": 3092.3,
+    "personID": "9a67598a-0208-4a63-abc7-f04667f15b82"
+  },
+  {
+    "first_name": "Shirley",
+    "last_name": "COFFEY",
+    "numberOfViolations": 2,
+    "total_fine": 2626.19,
+    "average_fine": 1313.1,
+    "personID": "37223ec9-bdba-4bb4-82db-265b5cfed3e3"
+  },
+  {
+    "first_name": "Terrell",
+    "last_name": "PENA",
+    "numberOfViolations": 1,
+    "total_fine": 2799.0,
+    "average_fine": 2799.0,
+    "personID": "f1b09a80-c3b1-492f-9c27-5a3c509bdb54"
+  },
+  {
+    "first_name": "Maxwell",
+    "last_name": "WAGNER",
+    "numberOfViolations": 1,
+    "total_fine": 2831.26,
+    "average_fine": 2831.26,
+    "personID": "d31d4ca2-b421-4ef4-a5e5-fb2550543f84"
+  },
+  {
+    "first_name": "Melisa",
+    "last_name": "BROWNING",
+    "numberOfViolations": 1,
+    "total_fine": 2685.52,
+    "average_fine": 2685.52,
+    "personID": "a26b0289-7c09-4433-81f9-69695d39b1f2"
+  },
+  {
+    "first_name": "Nelson",
+    "last_name": "MCCOY",
+    "numberOfViolations": 1,
+    "total_fine": 2412.19,
+    "average_fine": 2412.19,
+    "personID": "58190301-bbd5-49f5-ac5f-040e956b2087"
+  },
+  {
+    "first_name": "Raul",
+    "last_name": "REYES",
+    "numberOfViolations": 2,
+    "total_fine": 7149.09,
+    "average_fine": 3574.55,
+    "personID": "b07f39dd-046d-443d-882c-b4f73afeeb47"
+  },
+  {
+    "first_name": "Zachary",
+    "last_name": "COOPER",
+    "numberOfViolations": 3,
+    "total_fine": 4333.35,
+    "average_fine": 1444.45,
+    "personID": "9000168c-c77f-425b-922d-32958bed4c68"
+  },
+  {
+    "first_name": "Esteban",
+    "last_name": "STEWART",
+    "numberOfViolations": 2,
+    "total_fine": 6833.41,
+    "average_fine": 3416.71,
+    "personID": "2a8ba083-bc4c-4c86-878b-9a5dd87343f2"
+  },
+  {
+    "first_name": "Martha",
+    "last_name": "DOMINGUEZ",
+    "numberOfViolations": 2,
+    "total_fine": 5910.64,
+    "average_fine": 2955.32,
+    "personID": "5c09bb97-0be0-4c79-84fd-5f01d9594634"
+  },
+  {
+    "first_name": "Brenda",
+    "last_name": "HARMON",
+    "numberOfViolations": 3,
+    "total_fine": 4205.42,
+    "average_fine": 1401.81,
+    "personID": "9173fe06-6b55-40d4-a116-59735f261720"
+  },
+  {
+    "first_name": "Shelly",
+    "last_name": "ADKINS",
+    "numberOfViolations": 1,
+    "total_fine": 32.95,
+    "average_fine": 32.95,
+    "personID": "10315966-95ac-478d-ab60-6960d0741d98"
+  },
+  {
+    "first_name": "Sidney",
+    "last_name": "RICHARDS",
+    "numberOfViolations": 2,
+    "total_fine": 3736.09,
+    "average_fine": 1868.05,
+    "personID": "fae4aec2-0bff-425c-806e-1143f5385d0c"
+  },
+  {
+    "first_name": "Andrew",
+    "last_name": "RANDOLPH",
+    "numberOfViolations": 1,
+    "total_fine": 2133.9,
+    "average_fine": 2133.9,
+    "personID": "1aac6f8f-7870-4678-a696-6bdebd724f8e"
+  },
+  {
+    "first_name": "Nicole",
+    "last_name": "FINCH",
+    "numberOfViolations": 2,
+    "total_fine": 4811.38,
+    "average_fine": 2405.69,
+    "personID": "36c07a6c-d2bc-42b7-9a82-15507b4cf49a"
+  },
+  {
+    "first_name": "India",
+    "last_name": "LEVY",
+    "numberOfViolations": 1,
+    "total_fine": 1964.69,
+    "average_fine": 1964.69,
+    "personID": "bc9a8b7b-ca88-4525-9927-de715a5791e8"
+  },
+  {
+    "first_name": "Claudia",
+    "last_name": "MORIN",
+    "numberOfViolations": 2,
+    "total_fine": 3749.72,
+    "average_fine": 1874.86,
+    "personID": "f2eb82bf-ac72-4ef5-998f-ab92f38537e2"
+  },
+  {
+    "first_name": "Joanna",
+    "last_name": "ROWE",
+    "numberOfViolations": 2,
+    "total_fine": 3935.53,
+    "average_fine": 1967.77,
+    "personID": "0ce0db34-756b-4b24-ab26-1c67044aa63c"
+  },
+  {
+    "first_name": "Jacob",
+    "last_name": "MEADOWS",
+    "numberOfViolations": 2,
+    "total_fine": 6489.8,
+    "average_fine": 3244.9,
+    "personID": "745c8d22-1698-4ba1-8c62-7ac09822366a"
+  },
+  {
+    "first_name": "Tristan",
+    "last_name": "FARLEY",
+    "numberOfViolations": 3,
+    "total_fine": 10996.59,
+    "average_fine": 3665.53,
+    "personID": "b701c481-4c66-44ac-871b-34f1caa87eba"
+  },
+  {
+    "first_name": "Lloyd",
+    "last_name": "GIBBS",
+    "numberOfViolations": 3,
+    "total_fine": 7848.54,
+    "average_fine": 2616.18,
+    "personID": "b78950ff-cd78-45b9-8d63-622cee7bb231"
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "GARDNER",
+    "numberOfViolations": 2,
+    "total_fine": 2162.39,
+    "average_fine": 1081.2,
+    "personID": "655470c2-85c7-4029-801a-9f5188bda33a"
+  },
+  {
+    "first_name": "Darrell",
+    "last_name": "DANIEL",
+    "numberOfViolations": 2,
+    "total_fine": 6640.42,
+    "average_fine": 3320.21,
+    "personID": "0a64ea49-3e57-48a9-9b3f-c1a61e1bcee5"
+  },
+  {
+    "first_name": "Elaine",
+    "last_name": "POOLE",
+    "numberOfViolations": 2,
+    "total_fine": 7976.8,
+    "average_fine": 3988.4,
+    "personID": "dc014be9-63a6-4aaf-9eb6-27846a6dd906"
+  },
+  {
+    "first_name": "Terence",
+    "last_name": "ODONNELL",
+    "numberOfViolations": 3,
+    "total_fine": 13874.69,
+    "average_fine": 4624.9,
+    "personID": "5e537a88-b427-474e-9ba3-26a1345a222b"
+  },
+  {
+    "first_name": "Misty",
+    "last_name": "RIDDLE",
+    "numberOfViolations": 2,
+    "total_fine": 5784.76,
+    "average_fine": 2892.38,
+    "personID": "8976e1d5-1a15-4851-bcf2-5e255f1b13ee"
+  },
+  {
+    "first_name": "Maribel",
+    "last_name": "COHEN",
+    "numberOfViolations": 3,
+    "total_fine": 5353.55,
+    "average_fine": 1784.52,
+    "personID": "8ef35346-f3c5-4952-aa1b-dadc98475365"
+  },
+  {
+    "first_name": "Amber",
+    "last_name": "CAREY",
+    "numberOfViolations": 2,
+    "total_fine": 7376.22,
+    "average_fine": 3688.11,
+    "personID": "bebae1eb-525d-4cc7-92a3-4dcf426fe801"
+  },
+  {
+    "first_name": "Shanna",
+    "last_name": "BALL",
+    "numberOfViolations": 3,
+    "total_fine": 6185.94,
+    "average_fine": 2061.98,
+    "personID": "e574268f-5170-4bc0-9ddd-e58c20e52d32"
+  },
+  {
+    "first_name": "Corinne",
+    "last_name": "RICHARDS",
+    "numberOfViolations": 3,
+    "total_fine": 8486.57,
+    "average_fine": 2828.86,
+    "personID": "c26f907f-5063-444c-a421-f848228b8c10"
+  },
+  {
+    "first_name": "Roland",
+    "last_name": "HAYNES",
+    "numberOfViolations": 2,
+    "total_fine": 2403.12,
+    "average_fine": 1201.56,
+    "personID": "53089918-0385-427e-b14d-d8878f3d19d3"
+  },
+  {
+    "first_name": "Misty",
+    "last_name": "ALEXANDER",
+    "numberOfViolations": 1,
+    "total_fine": 1874.96,
+    "average_fine": 1874.96,
+    "personID": "a210db4a-2ae8-4e14-8477-37381336310c"
+  },
+  {
+    "first_name": "Milton",
+    "last_name": "NAVARRO",
+    "numberOfViolations": 2,
+    "total_fine": 2292.03,
+    "average_fine": 1146.02,
+    "personID": "0e3df865-e10d-4977-bf93-2b4514cbf2eb"
+  },
+  {
+    "first_name": "Jane",
+    "last_name": "HOLLOWAY",
+    "numberOfViolations": 2,
+    "total_fine": 6220.98,
+    "average_fine": 3110.49,
+    "personID": "ed2d3538-cb24-44c9-a349-7826f1dcd19e"
+  },
+  {
+    "first_name": "Isaiah",
+    "last_name": "CAIN",
+    "numberOfViolations": 2,
+    "total_fine": 7639.86,
+    "average_fine": 3819.93,
+    "personID": "9ffe94d0-f4b8-4f27-856b-21003aded2d1"
+  },
+  {
+    "first_name": "Caroline",
+    "last_name": "RIVERA",
+    "numberOfViolations": 3,
+    "total_fine": 7333.54,
+    "average_fine": 2444.51,
+    "personID": "8174fbbf-7c47-4310-be8b-3ada1466097c"
+  },
+  {
+    "first_name": "Teri",
+    "last_name": "MILLS",
+    "numberOfViolations": 3,
+    "total_fine": 5389.26,
+    "average_fine": 1796.42,
+    "personID": "1ca1435c-06c3-4d28-961d-71948bf1b4b5"
+  },
+  {
+    "first_name": "Toni",
+    "last_name": "VINSON",
+    "numberOfViolations": 2,
+    "total_fine": 2972.91,
+    "average_fine": 1486.46,
+    "personID": "921ce48a-e616-423c-85d2-ecc0dee539af"
+  },
+  {
+    "first_name": "Cara",
+    "last_name": "HUMPHREY",
+    "numberOfViolations": 3,
+    "total_fine": 5032.38,
+    "average_fine": 1677.46,
+    "personID": "8a45c561-645f-405d-9bac-54459fcfb7ea"
+  },
+  {
+    "first_name": "Jacqueline",
+    "last_name": "VEGA",
+    "numberOfViolations": 3,
+    "total_fine": 11913.61,
+    "average_fine": 3971.2,
+    "personID": "a61f6780-7286-4ad8-9895-1de774d6548e"
+  },
+  {
+    "first_name": "Elisha",
+    "last_name": "HOLCOMB",
+    "numberOfViolations": 1,
+    "total_fine": 3444.99,
+    "average_fine": 3444.99,
+    "personID": "da18b2d0-2e9e-48c1-a356-e79e9e839030"
+  },
+  {
+    "first_name": "Lonnie",
+    "last_name": "MCKINNEY",
+    "numberOfViolations": 2,
+    "total_fine": 2415.12,
+    "average_fine": 1207.56,
+    "personID": "620e268a-048a-4f2a-bb1c-54feb462a84b"
+  },
+  {
+    "first_name": "Alison",
+    "last_name": "HAYDEN",
+    "numberOfViolations": 3,
+    "total_fine": 6747.64,
+    "average_fine": 2249.21,
+    "personID": "283f8709-af67-4548-8935-8f1cbaac2d6e"
+  },
+  {
+    "first_name": "Taryn",
+    "last_name": "PHELPS",
+    "numberOfViolations": 1,
+    "total_fine": 2559.81,
+    "average_fine": 2559.81,
+    "personID": "4eff89b2-d6b7-4800-a604-e176f779dd09"
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "WALSH",
+    "numberOfViolations": 1,
+    "total_fine": 2781.77,
+    "average_fine": 2781.77,
+    "personID": "a247d87d-d542-4bfd-9e14-266a5fad5fae"
+  },
+  {
+    "first_name": "Anthony",
+    "last_name": "CANTU",
+    "numberOfViolations": 2,
+    "total_fine": 6803.24,
+    "average_fine": 3401.62,
+    "personID": "0aac39be-f2b2-43c2-a14d-f1ee3e2fc016"
+  },
+  {
+    "first_name": "Dennis",
+    "last_name": "FISHER",
+    "numberOfViolations": 2,
+    "total_fine": 5449.1,
+    "average_fine": 2724.55,
+    "personID": "dfcc2503-8ce2-47e0-84b4-8dd85e5b6a03"
+  },
+  {
+    "first_name": "Kristal",
+    "last_name": "HERRING",
+    "numberOfViolations": 1,
+    "total_fine": 4387.41,
+    "average_fine": 4387.41,
+    "personID": "11a8a69c-8609-4180-ad6c-f0a8d7d9ce5a"
+  },
+  {
+    "first_name": "Whitney",
+    "last_name": "SOTO",
+    "numberOfViolations": 2,
+    "total_fine": 8405.57,
+    "average_fine": 4202.79,
+    "personID": "9f44b618-0caf-4bb0-abe8-60c81d4514da"
+  },
+  {
+    "first_name": "Andrea",
+    "last_name": "BAIRD",
+    "numberOfViolations": 2,
+    "total_fine": 5833.23,
+    "average_fine": 2916.62,
+    "personID": "ad67256b-4766-4e7f-abf3-b472a3c3a854"
+  },
+  {
+    "first_name": "Jermaine",
+    "last_name": "AVERY",
+    "numberOfViolations": 1,
+    "total_fine": 4588.05,
+    "average_fine": 4588.05,
+    "personID": "c6484ad5-7e4f-4ed2-8895-0c0f7fd5d24a"
+  },
+  {
+    "first_name": "Megan",
+    "last_name": "FUENTES",
+    "numberOfViolations": 1,
+    "total_fine": 668.15,
+    "average_fine": 668.15,
+    "personID": "c929feea-5665-43ad-a2bc-2ed32f74c417"
+  },
+  {
+    "first_name": "Cathy",
+    "last_name": "COX",
+    "numberOfViolations": 2,
+    "total_fine": 4692.03,
+    "average_fine": 2346.02,
+    "personID": "7caafa1f-b411-418c-a520-459e56e1b87f"
+  },
+  {
+    "first_name": "Desmond",
+    "last_name": "HANSEN",
+    "numberOfViolations": 2,
+    "total_fine": 9630.03,
+    "average_fine": 4815.02,
+    "personID": "f3f4312e-278d-417d-9e20-e42a4fc434ec"
+  },
+  {
+    "first_name": "Stacie",
+    "last_name": "HURLEY",
+    "numberOfViolations": 2,
+    "total_fine": 5075.53,
+    "average_fine": 2537.77,
+    "personID": "f742a097-d6b6-4147-add2-9910b6d27f3d"
+  },
+  {
+    "first_name": "Karissa",
+    "last_name": "BARLOW",
+    "numberOfViolations": 1,
+    "total_fine": 4126.59,
+    "average_fine": 4126.59,
+    "personID": "e07ac8cb-1265-48a1-a5b8-1d26d9865667"
+  },
+  {
+    "first_name": "Bret",
+    "last_name": "HEAD",
+    "numberOfViolations": 2,
+    "total_fine": 4063.67,
+    "average_fine": 2031.84,
+    "personID": "4edac754-f2ab-4638-98fa-bc8763a7bfc8"
+  },
+  {
+    "first_name": "Alyson",
+    "last_name": "FLOYD",
+    "numberOfViolations": 3,
+    "total_fine": 7637.9,
+    "average_fine": 2545.97,
+    "personID": "0d1b544e-766d-4efc-ac94-b58896c5a301"
+  },
+  {
+    "first_name": "Margaret",
+    "last_name": "LEWIS",
+    "numberOfViolations": 1,
+    "total_fine": 3328.1,
+    "average_fine": 3328.1,
+    "personID": "d2a1b796-538d-4245-afd3-59716ecc59b3"
+  },
+  {
+    "first_name": "Katherine",
+    "last_name": "MENDEZ",
+    "numberOfViolations": 1,
+    "total_fine": 2509.08,
+    "average_fine": 2509.08,
+    "personID": "373f83f6-0b7a-44d2-8d59-29ee3495be6a"
+  },
+  {
+    "first_name": "Steven",
+    "last_name": "WALLACE",
+    "numberOfViolations": 2,
+    "total_fine": 6507.15,
+    "average_fine": 3253.58,
+    "personID": "93b08b2e-cebf-43c4-aa02-349c2b3c1d6e"
+  },
+  {
+    "first_name": "Ariel",
+    "last_name": "AUSTIN",
+    "numberOfViolations": 1,
+    "total_fine": 3997.57,
+    "average_fine": 3997.57,
+    "personID": "7351481b-ca31-4355-b24b-8a70378ca8b2"
+  },
+  {
+    "first_name": "Genevieve",
+    "last_name": "MEYERS",
+    "numberOfViolations": 3,
+    "total_fine": 6103.44,
+    "average_fine": 2034.48,
+    "personID": "8a19d302-0a79-4462-87af-7be470190660"
+  },
+  {
+    "first_name": "Audra",
+    "last_name": "ACOSTA",
+    "numberOfViolations": 2,
+    "total_fine": 3743.95,
+    "average_fine": 1871.98,
+    "personID": "96493645-805f-4161-b847-372be25f2936"
+  },
+  {
+    "first_name": "Lloyd",
+    "last_name": "CALDWELL",
+    "numberOfViolations": 2,
+    "total_fine": 4608.9,
+    "average_fine": 2304.45,
+    "personID": "cf988a2f-0ee3-4171-b4bf-080364dfcf7e"
+  },
+  {
+    "first_name": "Charlie",
+    "last_name": "KNOWLES",
+    "numberOfViolations": 1,
+    "total_fine": 3089.82,
+    "average_fine": 3089.82,
+    "personID": "7503e33d-af09-4f70-b71c-e7e6ff729cf5"
+  },
+  {
+    "first_name": "Beth",
+    "last_name": "CARNEY",
+    "numberOfViolations": 1,
+    "total_fine": 2432.44,
+    "average_fine": 2432.44,
+    "personID": "15dbca5b-a818-48f1-8513-499a7ea4007f"
+  },
+  {
+    "first_name": "Christian",
+    "last_name": "BEARD",
+    "numberOfViolations": 2,
+    "total_fine": 6117.64,
+    "average_fine": 3058.82,
+    "personID": "28617e87-9f37-431b-a118-9a17254941b0"
+  },
+  {
+    "first_name": "Nadia",
+    "last_name": "DELANEY",
+    "numberOfViolations": 2,
+    "total_fine": 3849.66,
+    "average_fine": 1924.83,
+    "personID": "fe2381ed-20de-4942-8280-49d86098b8ae"
+  },
+  {
+    "first_name": "Kerry",
+    "last_name": "PATTERSON",
+    "numberOfViolations": 2,
+    "total_fine": 4122.15,
+    "average_fine": 2061.08,
+    "personID": "640d681a-6dc0-44a3-9941-6537a18dcdb1"
+  },
+  {
+    "first_name": "Rebekah",
+    "last_name": "GLOVER",
+    "numberOfViolations": 2,
+    "total_fine": 5206.86,
+    "average_fine": 2603.43,
+    "personID": "b87ee1c2-ed0a-4f05-af9f-38cab0a2217a"
+  },
+  {
+    "first_name": "Annette",
+    "last_name": "NEWTON",
+    "numberOfViolations": 3,
+    "total_fine": 7214.84,
+    "average_fine": 2404.95,
+    "personID": "f7ad2dd1-49ad-4e00-b108-d15318b5b07f"
+  },
+  {
+    "first_name": "Terrance",
+    "last_name": "LUCAS",
+    "numberOfViolations": 2,
+    "total_fine": 4003.19,
+    "average_fine": 2001.6,
+    "personID": "9a2dd48e-c9f4-4d50-8bd3-34b72346a360"
+  },
+  {
+    "first_name": "Ivan",
+    "last_name": "REID",
+    "numberOfViolations": 1,
+    "total_fine": 733.44,
+    "average_fine": 733.44,
+    "personID": "e9c5db75-b748-4b22-b2e5-55bc5fa7db61"
+  },
+  {
+    "first_name": "Tatiana",
+    "last_name": "MELENDEZ",
+    "numberOfViolations": 3,
+    "total_fine": 7792.76,
+    "average_fine": 2597.59,
+    "personID": "33386caf-e353-4793-9904-0a4ab3feb6af"
+  },
+  {
+    "first_name": "Tracey",
+    "last_name": "WEEKS",
+    "numberOfViolations": 2,
+    "total_fine": 6368.36,
+    "average_fine": 3184.18,
+    "personID": "9b549030-5072-4184-90bb-5b1a8631d24b"
+  },
+  {
+    "first_name": "Robert",
+    "last_name": "NAVARRO",
+    "numberOfViolations": 1,
+    "total_fine": 395.83,
+    "average_fine": 395.83,
+    "personID": "c94b88b4-b2ff-486c-b493-23335089a10c"
+  },
+  {
+    "first_name": "Israel",
+    "last_name": "DICKSON",
+    "numberOfViolations": 1,
+    "total_fine": 1483.67,
+    "average_fine": 1483.67,
+    "personID": "2c7c516a-23b1-417d-a7b6-8ff2f3511981"
+  },
+  {
+    "first_name": "Randy",
+    "last_name": "GILMORE",
+    "numberOfViolations": 2,
+    "total_fine": 4665.12,
+    "average_fine": 2332.56,
+    "personID": "df5df6d6-f103-4f29-8c6b-080b1f61e9f1"
+  },
+  {
+    "first_name": "Gloria",
+    "last_name": "RODRIGUEZ",
+    "numberOfViolations": 2,
+    "total_fine": 8748.32,
+    "average_fine": 4374.16,
+    "personID": "85db3b9d-f6c5-4c63-a7c1-c41301d7ebb1"
+  },
+  {
+    "first_name": "Marvin",
+    "last_name": "SANTOS",
+    "numberOfViolations": 2,
+    "total_fine": 2250.47,
+    "average_fine": 1125.24,
+    "personID": "7877037a-7b29-43ea-a92a-cbf9453d5977"
+  },
+  {
+    "first_name": "Graham",
+    "last_name": "BLAIR",
+    "numberOfViolations": 2,
+    "total_fine": 1603.64,
+    "average_fine": 801.82,
+    "personID": "9130e2f0-5368-47db-833f-f43f53791656"
+  },
+  {
+    "first_name": "Mario",
+    "last_name": "WEBSTER",
+    "numberOfViolations": 1,
+    "total_fine": 944.77,
+    "average_fine": 944.77,
+    "personID": "8931fd21-7415-40de-9ed7-73643d6ef558"
+  },
+  {
+    "first_name": "Tyrell",
+    "last_name": "CRANE",
+    "numberOfViolations": 2,
+    "total_fine": 6047.87,
+    "average_fine": 3023.94,
+    "personID": "18d174d1-1652-41f6-a152-5a6ec8285dee"
+  },
+  {
+    "first_name": "Keisha",
+    "last_name": "HAMMOND",
+    "numberOfViolations": 2,
+    "total_fine": 7147.74,
+    "average_fine": 3573.87,
+    "personID": "e695e27b-f1ed-4f6b-a76c-a0b970cc382f"
+  },
+  {
+    "first_name": "Robin",
+    "last_name": "MEYER",
+    "numberOfViolations": 1,
+    "total_fine": 3387.3,
+    "average_fine": 3387.3,
+    "personID": "f7a96f4a-6fbb-4c04-a013-36be76a6de08"
+  },
+  {
+    "first_name": "Javier",
+    "last_name": "LANG",
+    "numberOfViolations": 3,
+    "total_fine": 12692.44,
+    "average_fine": 4230.81,
+    "personID": "de7e4f67-fb86-44de-80e2-14cea2d97dd7"
+  },
+  {
+    "first_name": "Amy",
+    "last_name": "ROGERS",
+    "numberOfViolations": 2,
+    "total_fine": 5553.46,
+    "average_fine": 2776.73,
+    "personID": "454b4094-eb90-4186-b417-7e21917cf9e6"
+  },
+  {
+    "first_name": "Ray",
+    "last_name": "MADDEN",
+    "numberOfViolations": 3,
+    "total_fine": 6218.72,
+    "average_fine": 2072.91,
+    "personID": "41c33ae3-240e-424c-9b83-808d24429f45"
+  },
+  {
+    "first_name": "Sydney",
+    "last_name": "COTE",
+    "numberOfViolations": 2,
+    "total_fine": 3760.7,
+    "average_fine": 1880.35,
+    "personID": "34fa63d1-384a-439f-b71b-205b5a98044d"
+  },
+  {
+    "first_name": "Wesley",
+    "last_name": "EATON",
+    "numberOfViolations": 3,
+    "total_fine": 9332.25,
+    "average_fine": 3110.75,
+    "personID": "0f159d32-dc00-4983-a2a5-1aaa0202f0d9"
+  },
+  {
+    "first_name": "Sheena",
+    "last_name": "HARRINGTON",
+    "numberOfViolations": 1,
+    "total_fine": 2204.51,
+    "average_fine": 2204.51,
+    "personID": "89830992-ccdf-48f5-8104-b696a0174ece"
+  },
+  {
+    "first_name": "Sarah",
+    "last_name": "DALTON",
+    "numberOfViolations": 2,
+    "total_fine": 3718.06,
+    "average_fine": 1859.03,
+    "personID": "088caa0a-b8c9-4d17-862a-e4a4035aebfe"
+  },
+  {
+    "first_name": "Quinton",
+    "last_name": "CARR",
+    "numberOfViolations": 2,
+    "total_fine": 4951.63,
+    "average_fine": 2475.82,
+    "personID": "d9e026e7-6a30-4891-b6af-23fc4119949e"
+  },
+  {
+    "first_name": "Julio",
+    "last_name": "WHITE",
+    "numberOfViolations": 1,
+    "total_fine": 2581.17,
+    "average_fine": 2581.17,
+    "personID": "07e4ec7c-01e5-44f8-897d-ad6ae6d8b139"
+  },
+  {
+    "first_name": "Glenn",
+    "last_name": "PRINCE",
+    "numberOfViolations": 2,
+    "total_fine": 8633.63,
+    "average_fine": 4316.82,
+    "personID": "5457f784-d8cc-49ec-8d53-1bd0fedfbfdb"
+  },
+  {
+    "first_name": "Eugene",
+    "last_name": "LANGLEY",
+    "numberOfViolations": 2,
+    "total_fine": 8411.37,
+    "average_fine": 4205.69,
+    "personID": "dc9af662-9a10-4b2e-aeda-8f5eb977564d"
+  },
+  {
+    "first_name": "Rochelle",
+    "last_name": "BRUCE",
+    "numberOfViolations": 3,
+    "total_fine": 5180.3,
+    "average_fine": 1726.77,
+    "personID": "2cbd51a8-abd6-4b21-ba5d-e505980ad7c8"
+  },
+  {
+    "first_name": "Anastasia",
+    "last_name": "HOFFMAN",
+    "numberOfViolations": 2,
+    "total_fine": 6067.66,
+    "average_fine": 3033.83,
+    "personID": "718880d4-def4-45b6-9637-b6a2a66b719a"
+  },
+  {
+    "first_name": "Guy",
+    "last_name": "MARSHALL",
+    "numberOfViolations": 3,
+    "total_fine": 6599.38,
+    "average_fine": 2199.79,
+    "personID": "69bb81f0-9fa2-4f41-a0a7-bf8548711a80"
+  },
+  {
+    "first_name": "Jodi",
+    "last_name": "CARLSON",
+    "numberOfViolations": 2,
+    "total_fine": 5518.51,
+    "average_fine": 2759.26,
+    "personID": "a9834b2b-9077-460f-9a62-0b392cffb409"
+  },
+  {
+    "first_name": "Morgan",
+    "last_name": "DICKSON",
+    "numberOfViolations": 2,
+    "total_fine": 7170.5,
+    "average_fine": 3585.25,
+    "personID": "21448e7d-6e84-4fdc-b117-3eb1d47ad83d"
+  },
+  {
+    "first_name": "Latasha",
+    "last_name": "STEVENS",
+    "numberOfViolations": 1,
+    "total_fine": 531.18,
+    "average_fine": 531.18,
+    "personID": "11d707b5-9290-43f3-9069-f5fab3bcecae"
+  },
+  {
+    "first_name": "Hayley",
+    "last_name": "SLOAN",
+    "numberOfViolations": 3,
+    "total_fine": 6322.12,
+    "average_fine": 2107.37,
+    "personID": "4057131e-b8da-42c8-a047-8579b51dfcf8"
+  },
+  {
+    "first_name": "Jimmy",
+    "last_name": "BUCHANAN",
+    "numberOfViolations": 2,
+    "total_fine": 8339.35,
+    "average_fine": 4169.68,
+    "personID": "5223bf06-21c5-4af1-8d92-40b8504d86f7"
+  },
+  {
+    "first_name": "Anne",
+    "last_name": "TANNER",
+    "numberOfViolations": 1,
+    "total_fine": 3670.58,
+    "average_fine": 3670.58,
+    "personID": "cd899e5d-367b-43ea-8c25-525a475802e0"
+  },
+  {
+    "first_name": "Shane",
+    "last_name": "BARTLETT",
+    "numberOfViolations": 2,
+    "total_fine": 5796.9,
+    "average_fine": 2898.45,
+    "personID": "60848c0c-cdf7-4678-be0b-ee7998ea321d"
+  },
+  {
+    "first_name": "Claudia",
+    "last_name": "SANDERS",
+    "numberOfViolations": 1,
+    "total_fine": 2064.05,
+    "average_fine": 2064.05,
+    "personID": "9fea1707-c4f7-498d-8286-6a0325a28532"
+  },
+  {
+    "first_name": "Gretchen",
+    "last_name": "SYKES",
+    "numberOfViolations": 2,
+    "total_fine": 5620.52,
+    "average_fine": 2810.26,
+    "personID": "6b768df2-e30a-4ad1-b218-e12ce755debc"
+  },
+  {
+    "first_name": "Tasha",
+    "last_name": "STEPHENS",
+    "numberOfViolations": 3,
+    "total_fine": 3447.65,
+    "average_fine": 1149.22,
+    "personID": "ecef7ee9-228e-4df2-a9bb-edfb70f8a447"
+  },
+  {
+    "first_name": "Vivian",
+    "last_name": "ANDERSON",
+    "numberOfViolations": 2,
+    "total_fine": 5193.07,
+    "average_fine": 2596.54,
+    "personID": "e035410f-6df7-4d89-af63-4001045837f7"
+  },
+  {
+    "first_name": "Antoine",
+    "last_name": "HOWE",
+    "numberOfViolations": 1,
+    "total_fine": 1676.57,
+    "average_fine": 1676.57,
+    "personID": "c6a8acca-35ce-4acd-9811-1d88cc97d9e6"
+  },
+  {
+    "first_name": "Ashleigh",
+    "last_name": "KENNEDY",
+    "numberOfViolations": 2,
+    "total_fine": 7434.05,
+    "average_fine": 3717.03,
+    "personID": "b6c16072-f63b-430f-b6ef-b65c877c99c3"
+  },
+  {
+    "first_name": "Lora",
+    "last_name": "HOWELL",
+    "numberOfViolations": 1,
+    "total_fine": 837.15,
+    "average_fine": 837.15,
+    "personID": "9b023c97-78bd-43d1-b7a3-22400d0f199e"
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "UNDERWOOD",
+    "numberOfViolations": 1,
+    "total_fine": 910.74,
+    "average_fine": 910.74,
+    "personID": "7c82aef5-1380-4810-a494-721d3b2859d3"
+  },
+  {
+    "first_name": "Billy",
+    "last_name": "BENSON",
+    "numberOfViolations": 3,
+    "total_fine": 6928.54,
+    "average_fine": 2309.51,
+    "personID": "de4fb775-1896-4cf2-aa3d-95c0c99f3eaa"
+  },
+  {
+    "first_name": "Reginald",
+    "last_name": "MCLAUGHLIN",
+    "numberOfViolations": 3,
+    "total_fine": 5811.45,
+    "average_fine": 1937.15,
+    "personID": "9c67bda1-39b7-4f44-8bac-c2056b9b889d"
+  },
+  {
+    "first_name": "Kendra",
+    "last_name": "BELL",
+    "numberOfViolations": 2,
+    "total_fine": 9781.35,
+    "average_fine": 4890.68,
+    "personID": "590d3e67-b07d-4b74-a222-868a2c6d813a"
+  },
+  {
+    "first_name": "Natalia",
+    "last_name": "CASTRO",
+    "numberOfViolations": 2,
+    "total_fine": 2316.7,
+    "average_fine": 1158.35,
+    "personID": "a8284d17-a5fd-4e51-b8e5-00de20d513e1"
+  },
+  {
+    "first_name": "Shirley",
+    "last_name": "GEORGE",
+    "numberOfViolations": 1,
+    "total_fine": 2809.32,
+    "average_fine": 2809.32,
+    "personID": "23c3455f-70f9-45a2-abbd-3eac00e6bbac"
+  },
+  {
+    "first_name": "Peter",
+    "last_name": "GONZALES",
+    "numberOfViolations": 3,
+    "total_fine": 6991.67,
+    "average_fine": 2330.56,
+    "personID": "d8767498-707c-42aa-a8f8-ca0b5febdebd"
+  },
+  {
+    "first_name": "Ciara",
+    "last_name": "STEELE",
+    "numberOfViolations": 2,
+    "total_fine": 5765.28,
+    "average_fine": 2882.64,
+    "personID": "0c4f3c2d-fd88-4f96-8960-e5126ccda75d"
+  },
+  {
+    "first_name": "Dominique",
+    "last_name": "KAUFMAN",
+    "numberOfViolations": 3,
+    "total_fine": 6316.02,
+    "average_fine": 2105.34,
+    "personID": "739737ec-e0f0-4bc7-ab32-e1b983393b5d"
+  },
+  {
+    "first_name": "Bobbie",
+    "last_name": "KLEIN",
+    "numberOfViolations": 3,
+    "total_fine": 8865.08,
+    "average_fine": 2955.03,
+    "personID": "a15a5ef0-0694-47bc-81df-5e6dff2cd3bf"
+  },
+  {
+    "first_name": "Charles",
+    "last_name": "PARK",
+    "numberOfViolations": 1,
+    "total_fine": 261.5,
+    "average_fine": 261.5,
+    "personID": "4704b4ef-dce2-4bbf-b792-9c24232ed18b"
+  },
+  {
+    "first_name": "Aimee",
+    "last_name": "JUSTICE",
+    "numberOfViolations": 1,
+    "total_fine": 1179.24,
+    "average_fine": 1179.24,
+    "personID": "b61e67d0-8659-470a-a474-5c2e5371961f"
+  },
+  {
+    "first_name": "Kellen",
+    "last_name": "SOSA",
+    "numberOfViolations": 1,
+    "total_fine": 1372.61,
+    "average_fine": 1372.61,
+    "personID": "747522ee-3270-411b-89eb-720bd02c6395"
+  },
+  {
+    "first_name": "Gretchen",
+    "last_name": "PARKER",
+    "numberOfViolations": 2,
+    "total_fine": 4897.29,
+    "average_fine": 2448.65,
+    "personID": "740d367e-b21b-460c-97c0-b4a9ce1186b5"
+  },
+  {
+    "first_name": "Meghan",
+    "last_name": "LAMB",
+    "numberOfViolations": 3,
+    "total_fine": 6312.27,
+    "average_fine": 2104.09,
+    "personID": "b2ac1645-2e59-49de-952f-b02c0a6f21b8"
+  },
+  {
+    "first_name": "Elias",
+    "last_name": "PITTMAN",
+    "numberOfViolations": 3,
+    "total_fine": 4414.04,
+    "average_fine": 1471.35,
+    "personID": "156ff162-25d2-4136-a3d2-5a5f09154dca"
+  },
+  {
+    "first_name": "Ciara",
+    "last_name": "TYSON",
+    "numberOfViolations": 3,
+    "total_fine": 4902.18,
+    "average_fine": 1634.06,
+    "personID": "59e05300-e619-467f-a07e-80a6f3f6cc17"
+  },
+  {
+    "first_name": "Roberto",
+    "last_name": "QUINN",
+    "numberOfViolations": 3,
+    "total_fine": 9302.41,
+    "average_fine": 3100.8,
+    "personID": "ebcbe074-e2a9-4b5c-ac60-3b65032be3ae"
+  },
+  {
+    "first_name": "Shelley",
+    "last_name": "WOODARD",
+    "numberOfViolations": 2,
+    "total_fine": 4006.4,
+    "average_fine": 2003.2,
+    "personID": "9ddaacde-8204-4779-a7db-5a3692215e67"
+  },
+  {
+    "first_name": "Elaine",
+    "last_name": "OWEN",
+    "numberOfViolations": 1,
+    "total_fine": 1249.54,
+    "average_fine": 1249.54,
+    "personID": "a038d143-ef4c-4d12-b1f5-08952fe18076"
+  },
+  {
+    "first_name": "Jay",
+    "last_name": "DICKERSON",
+    "numberOfViolations": 3,
+    "total_fine": 6469.3,
+    "average_fine": 2156.43,
+    "personID": "3b1e4756-ce53-4682-a8be-1e374a7d6dbb"
+  },
+  {
+    "first_name": "Kelly",
+    "last_name": "OBRIEN",
+    "numberOfViolations": 2,
+    "total_fine": 7588.63,
+    "average_fine": 3794.32,
+    "personID": "3317c542-c383-491b-aee8-e8ed97db48cb"
+  },
+  {
+    "first_name": "Raul",
+    "last_name": "NOLAN",
+    "numberOfViolations": 1,
+    "total_fine": 4372.07,
+    "average_fine": 4372.07,
+    "personID": "a83a0351-6a36-460a-aeb4-51ea963e13ec"
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "MEYERS",
+    "numberOfViolations": 2,
+    "total_fine": 4819.35,
+    "average_fine": 2409.68,
+    "personID": "d69932ce-9a99-4206-b72e-3de851222af0"
+  },
+  {
+    "first_name": "Nathaniel",
+    "last_name": "HOUSTON",
+    "numberOfViolations": 1,
+    "total_fine": 4465.11,
+    "average_fine": 4465.11,
+    "personID": "90e55fb4-31c4-49ec-9e76-b679be4934e2"
+  },
+  {
+    "first_name": "Joyce",
+    "last_name": "BURKE",
+    "numberOfViolations": 3,
+    "total_fine": 7426.33,
+    "average_fine": 2475.44,
+    "personID": "a496cfbe-731e-4a3a-ac93-308808086bc2"
+  },
+  {
+    "first_name": "Gerardo",
+    "last_name": "CONLEY",
+    "numberOfViolations": 1,
+    "total_fine": 3964.46,
+    "average_fine": 3964.46,
+    "personID": "0fa0fdf2-5ff8-4480-9d31-53799d6fcfd3"
+  },
+  {
+    "first_name": "Janine",
+    "last_name": "DENNIS",
+    "numberOfViolations": 3,
+    "total_fine": 11116.11,
+    "average_fine": 3705.37,
+    "personID": "a43ff58d-f316-4f31-846c-074958ea83bb"
+  },
+  {
+    "first_name": "Damian",
+    "last_name": "OSBORN",
+    "numberOfViolations": 1,
+    "total_fine": 291.01,
+    "average_fine": 291.01,
+    "personID": "618e5a33-7b58-4d88-aa31-5c615f810158"
+  },
+  {
+    "first_name": "Patrick",
+    "last_name": "MUNOZ",
+    "numberOfViolations": 2,
+    "total_fine": 7468.18,
+    "average_fine": 3734.09,
+    "personID": "99d8eaab-eb86-42dc-a896-fe73feb3b797"
+  },
+  {
+    "first_name": "Krystle",
+    "last_name": "INGRAM",
+    "numberOfViolations": 2,
+    "total_fine": 3847.65,
+    "average_fine": 1923.83,
+    "personID": "7e742780-6b9a-407a-b618-0f32df477994"
+  },
+  {
+    "first_name": "April",
+    "last_name": "WOODS",
+    "numberOfViolations": 2,
+    "total_fine": 1792.23,
+    "average_fine": 896.12,
+    "personID": "df24a9a2-507f-4d2c-9f77-6bc1c89a3a08"
+  },
+  {
+    "first_name": "Frederick",
+    "last_name": "WILLIS",
+    "numberOfViolations": 2,
+    "total_fine": 3672.63,
+    "average_fine": 1836.32,
+    "personID": "aeeb286d-5df1-4844-9cd4-71cf14ba8f61"
+  },
+  {
+    "first_name": "Debra",
+    "last_name": "LUNA",
+    "numberOfViolations": 1,
+    "total_fine": 4821.89,
+    "average_fine": 4821.89,
+    "personID": "90a59d69-cd2f-4940-a68b-f9c61993628e"
+  },
+  {
+    "first_name": "Celia",
+    "last_name": "JUSTICE",
+    "numberOfViolations": 2,
+    "total_fine": 3732.62,
+    "average_fine": 1866.31,
+    "personID": "642c86d5-82e1-400e-861b-a66008425ddb"
+  },
+  {
+    "first_name": "Kendall",
+    "last_name": "SPARKS",
+    "numberOfViolations": 1,
+    "total_fine": 4246.35,
+    "average_fine": 4246.35,
+    "personID": "58466d97-e16a-40df-8ee0-aa0558f7a583"
+  },
+  {
+    "first_name": "Darin",
+    "last_name": "LEWIS",
+    "numberOfViolations": 2,
+    "total_fine": 9023.85,
+    "average_fine": 4511.93,
+    "personID": "85a03548-0ac7-46c6-9848-c394bbfb1137"
+  },
+  {
+    "first_name": "Robert",
+    "last_name": "VINCENT",
+    "numberOfViolations": 2,
+    "total_fine": 2459.29,
+    "average_fine": 1229.65,
+    "personID": "de04e851-5a16-471b-a3a5-ec795a69a316"
+  },
+  {
+    "first_name": "Monica",
+    "last_name": "PARKER",
+    "numberOfViolations": 2,
+    "total_fine": 3046.78,
+    "average_fine": 1523.39,
+    "personID": "ec872bb5-6919-47af-8292-a3d3e5b6188f"
+  },
+  {
+    "first_name": "Marisa",
+    "last_name": "BOND",
+    "numberOfViolations": 1,
+    "total_fine": 1141.33,
+    "average_fine": 1141.33,
+    "personID": "a4a5b7d2-9ba5-42b8-9d78-3a0fff93c773"
+  },
+  {
+    "first_name": "Jeanette",
+    "last_name": "KIRK",
+    "numberOfViolations": 2,
+    "total_fine": 4725.23,
+    "average_fine": 2362.62,
+    "personID": "32db17b2-3f94-4c2b-beeb-4fd5c4f08d1b"
+  },
+  {
+    "first_name": "Savannah",
+    "last_name": "FRANK",
+    "numberOfViolations": 2,
+    "total_fine": 4200.86,
+    "average_fine": 2100.43,
+    "personID": "7f587970-371f-4f08-983b-ab6e3e08b56a"
+  },
+  {
+    "first_name": "Charity",
+    "last_name": "WEBER",
+    "numberOfViolations": 2,
+    "total_fine": 4033.51,
+    "average_fine": 2016.76,
+    "personID": "bb4cf2d0-0dc3-4691-886d-4081ba079e2c"
+  },
+  {
+    "first_name": "Malcolm",
+    "last_name": "DENNIS",
+    "numberOfViolations": 3,
+    "total_fine": 4308.9,
+    "average_fine": 1436.3,
+    "personID": "86c6a66d-137f-4ab9-ac3c-27fd7f18c3b8"
+  },
+  {
+    "first_name": "Callie",
+    "last_name": "GILL",
+    "numberOfViolations": 2,
+    "total_fine": 6688.42,
+    "average_fine": 3344.21,
+    "personID": "f707afe1-5066-497e-aa2c-1135b1d8f52e"
+  },
+  {
+    "first_name": "Liliana",
+    "last_name": "BERG",
+    "numberOfViolations": 2,
+    "total_fine": 4952.01,
+    "average_fine": 2476.01,
+    "personID": "7fb9212c-18e7-4e67-af89-8b62c28c2867"
+  },
+  {
+    "first_name": "Kathleen",
+    "last_name": "GOFF",
+    "numberOfViolations": 2,
+    "total_fine": 3945.91,
+    "average_fine": 1972.96,
+    "personID": "a687b44a-1335-45fd-b6b5-6e645dbb8f78"
+  },
+  {
+    "first_name": "Carlos",
+    "last_name": "WOLFE",
+    "numberOfViolations": 3,
+    "total_fine": 6650.42,
+    "average_fine": 2216.81,
+    "personID": "fad78258-dbca-4fa5-b16b-f0504ccbaf0c"
+  },
+  {
+    "first_name": "Nickolas",
+    "last_name": "FLOYD",
+    "numberOfViolations": 3,
+    "total_fine": 8874.73,
+    "average_fine": 2958.24,
+    "personID": "4c43b953-859b-4477-87f8-e77f6966e33c"
+  },
+  {
+    "first_name": "Chrystal",
+    "last_name": "SNOW",
+    "numberOfViolations": 2,
+    "total_fine": 5850.76,
+    "average_fine": 2925.38,
+    "personID": "8d1224ff-8b86-4a75-b5de-d96a6650dcdf"
+  },
+  {
+    "first_name": "Michele",
+    "last_name": "ELLISON",
+    "numberOfViolations": 1,
+    "total_fine": 3353.8,
+    "average_fine": 3353.8,
+    "personID": "c8cd4fa3-d5b5-416e-a9aa-c2547f3f1158"
+  },
+  {
+    "first_name": "Graham",
+    "last_name": "HARRINGTON",
+    "numberOfViolations": 3,
+    "total_fine": 5275.66,
+    "average_fine": 1758.55,
+    "personID": "c109e2bc-83d3-4e4b-a3d3-5a2917d9f622"
+  },
+  {
+    "first_name": "Marlon",
+    "last_name": "HINES",
+    "numberOfViolations": 3,
+    "total_fine": 3231.73,
+    "average_fine": 1077.24,
+    "personID": "071ebc0e-8b8b-42b2-ac1d-9d13f8173503"
+  },
+  {
+    "first_name": "Lance",
+    "last_name": "BLAIR",
+    "numberOfViolations": 1,
+    "total_fine": 1662.75,
+    "average_fine": 1662.75,
+    "personID": "2c249160-9fec-4750-acf3-a7e374801453"
+  },
+  {
+    "first_name": "Christy",
+    "last_name": "BARBER",
+    "numberOfViolations": 3,
+    "total_fine": 7988.05,
+    "average_fine": 2662.68,
+    "personID": "30605750-1d9d-4795-b5b8-c40d41d01b61"
+  },
+  {
+    "first_name": "Lewis",
+    "last_name": "MURRAY",
+    "numberOfViolations": 3,
+    "total_fine": 10394.31,
+    "average_fine": 3464.77,
+    "personID": "658a2247-0355-4ca4-baa1-29568ad45720"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "BUCK",
+    "numberOfViolations": 1,
+    "total_fine": 4277.84,
+    "average_fine": 4277.84,
+    "personID": "3b8cab21-03ac-4039-99a2-9befb20fa545"
+  },
+  {
+    "first_name": "Victoria",
+    "last_name": "GALLEGOS",
+    "numberOfViolations": 2,
+    "total_fine": 4530.78,
+    "average_fine": 2265.39,
+    "personID": "0bcbe6fb-c82c-4a17-b044-7cd3ef901a4c"
+  },
+  {
+    "first_name": "Ruben",
+    "last_name": "SCHWARTZ",
+    "numberOfViolations": 3,
+    "total_fine": 8633.12,
+    "average_fine": 2877.71,
+    "personID": "606509ca-7861-493b-91df-8b979fc97b3c"
+  },
+  {
+    "first_name": "Ryan",
+    "last_name": "WHITE",
+    "numberOfViolations": 2,
+    "total_fine": 2510.93,
+    "average_fine": 1255.47,
+    "personID": "014169b7-dae6-437f-85e6-d0842ef114b5"
+  },
+  {
+    "first_name": "Kory",
+    "last_name": "WARE",
+    "numberOfViolations": 1,
+    "total_fine": 2526.41,
+    "average_fine": 2526.41,
+    "personID": "fcfcac13-c921-48e0-951d-8ace5748eff9"
+  },
+  {
+    "first_name": "Melissa",
+    "last_name": "WAGNER",
+    "numberOfViolations": 1,
+    "total_fine": 3550.78,
+    "average_fine": 3550.78,
+    "personID": "bcd04053-36f5-4753-896a-9645523e2678"
+  },
+  {
+    "first_name": "Oscar",
+    "last_name": "BERGER",
+    "numberOfViolations": 1,
+    "total_fine": 4782.3,
+    "average_fine": 4782.3,
+    "personID": "50df68f2-761d-43aa-bc98-0fde13d45345"
+  },
+  {
+    "first_name": "Allison",
+    "last_name": "WALLER",
+    "numberOfViolations": 2,
+    "total_fine": 6599.73,
+    "average_fine": 3299.87,
+    "personID": "edad1569-7f5f-4b81-a4a9-eeab55006556"
+  },
+  {
+    "first_name": "Ciara",
+    "last_name": "GENTRY",
+    "numberOfViolations": 2,
+    "total_fine": 3287.27,
+    "average_fine": 1643.64,
+    "personID": "468e6faa-a2cd-451b-8562-dded3b3f2b0c"
+  },
+  {
+    "first_name": "Autumn",
+    "last_name": "AVILA",
+    "numberOfViolations": 2,
+    "total_fine": 5256.0,
+    "average_fine": 2628.0,
+    "personID": "db520f89-1cd4-46b3-ad23-8aa3af66280a"
+  },
+  {
+    "first_name": "Jacob",
+    "last_name": "SCHULTZ",
+    "numberOfViolations": 2,
+    "total_fine": 4037.09,
+    "average_fine": 2018.55,
+    "personID": "8cc3a84f-17d8-459e-9fd3-a242918d6c87"
+  },
+  {
+    "first_name": "Spencer",
+    "last_name": "WALTERS",
+    "numberOfViolations": 1,
+    "total_fine": 3857.35,
+    "average_fine": 3857.35,
+    "personID": "d01e3134-6371-49df-9f04-0a10caf35a32"
+  },
+  {
+    "first_name": "Raquel",
+    "last_name": "HERNANDEZ",
+    "numberOfViolations": 1,
+    "total_fine": 854.08,
+    "average_fine": 854.08,
+    "personID": "41dd98a2-7cb8-4f22-b3de-86f3f99de006"
+  },
+  {
+    "first_name": "Alexander",
+    "last_name": "MOODY",
+    "numberOfViolations": 1,
+    "total_fine": 4772.04,
+    "average_fine": 4772.04,
+    "personID": "127b7afa-76f9-4971-8fe3-15e4b0d94b8d"
+  },
+  {
+    "first_name": "Kerri",
+    "last_name": "BAXTER",
+    "numberOfViolations": 2,
+    "total_fine": 6908.43,
+    "average_fine": 3454.22,
+    "personID": "1405cc75-c0b2-488b-8524-775f418255ea"
+  },
+  {
+    "first_name": "Bradford",
+    "last_name": "BULLOCK",
+    "numberOfViolations": 2,
+    "total_fine": 6705.43,
+    "average_fine": 3352.72,
+    "personID": "c844efed-85de-407c-8c5b-d3e659813268"
+  },
+  {
+    "first_name": "Eileen",
+    "last_name": "RILEY",
+    "numberOfViolations": 2,
+    "total_fine": 4076.04,
+    "average_fine": 2038.02,
+    "personID": "57c5aae3-3c4c-4ba4-a03e-07c5540eff5b"
+  },
+  {
+    "first_name": "Mitchell",
+    "last_name": "GEORGE",
+    "numberOfViolations": 1,
+    "total_fine": 493.18,
+    "average_fine": 493.18,
+    "personID": "459e5369-7c3d-4067-9807-7a0216a33863"
+  },
+  {
+    "first_name": "Ernest",
+    "last_name": "MCLEOD",
+    "numberOfViolations": 3,
+    "total_fine": 8924.66,
+    "average_fine": 2974.89,
+    "personID": "b7769016-bb90-480a-a8c4-bcd02aebc46f"
+  },
+  {
+    "first_name": "Clay",
+    "last_name": "DAUGHERTY",
+    "numberOfViolations": 1,
+    "total_fine": 3274.39,
+    "average_fine": 3274.39,
+    "personID": "6db7c5a1-4049-4eae-92f5-9885cb685185"
+  },
+  {
+    "first_name": "Emily",
+    "last_name": "ONEILL",
+    "numberOfViolations": 2,
+    "total_fine": 6997.95,
+    "average_fine": 3498.98,
+    "personID": "fa5c875e-b836-4a7c-aad5-4f8a0a6e1e14"
+  },
+  {
+    "first_name": "Gilbert",
+    "last_name": "ROBERTS",
+    "numberOfViolations": 2,
+    "total_fine": 3316.91,
+    "average_fine": 1658.46,
+    "personID": "54a39374-318c-43da-8540-0bfe37fc82b3"
+  },
+  {
+    "first_name": "Caleb",
+    "last_name": "CHEN",
+    "numberOfViolations": 3,
+    "total_fine": 8629.35,
+    "average_fine": 2876.45,
+    "personID": "8c91c3ea-9531-49b3-a0f2-7ec1f89b7322"
+  },
+  {
+    "first_name": "Terry",
+    "last_name": "YATES",
+    "numberOfViolations": 2,
+    "total_fine": 6991.05,
+    "average_fine": 3495.53,
+    "personID": "98725111-868a-4298-a57f-11203fa0c0fb"
+  },
+  {
+    "first_name": "Chelsea",
+    "last_name": "FITZPATRICK",
+    "numberOfViolations": 1,
+    "total_fine": 306.48,
+    "average_fine": 306.48,
+    "personID": "f03ffd81-c29a-431b-8bc7-f687a6320934"
+  },
+  {
+    "first_name": "Kathy",
+    "last_name": "SUMMERS",
+    "numberOfViolations": 1,
+    "total_fine": 1874.33,
+    "average_fine": 1874.33,
+    "personID": "fdac908d-8e6e-4f06-9c6b-2addbe7232f7"
+  },
+  {
+    "first_name": "Kenny",
+    "last_name": "DICKERSON",
+    "numberOfViolations": 2,
+    "total_fine": 4570.69,
+    "average_fine": 2285.35,
+    "personID": "24312ca1-04cf-4878-a591-37298baedbb2"
+  },
+  {
+    "first_name": "Lorena",
+    "last_name": "TODD",
+    "numberOfViolations": 2,
+    "total_fine": 5035.27,
+    "average_fine": 2517.64,
+    "personID": "adb09fbf-b0a1-47c0-97ac-5f5515080e1c"
+  },
+  {
+    "first_name": "Fernando",
+    "last_name": "BOYLE",
+    "numberOfViolations": 2,
+    "total_fine": 7795.29,
+    "average_fine": 3897.65,
+    "personID": "1be2d753-a7c7-4245-a6f1-a660ad5d4a7b"
+  },
+  {
+    "first_name": "Kelly",
+    "last_name": "BISHOP",
+    "numberOfViolations": 2,
+    "total_fine": 5417.79,
+    "average_fine": 2708.9,
+    "personID": "d6f23922-1109-4f98-bcf1-65547955b738"
+  },
+  {
+    "first_name": "Kirsten",
+    "last_name": "MORGAN",
+    "numberOfViolations": 2,
+    "total_fine": 4012.86,
+    "average_fine": 2006.43,
+    "personID": "aa88508f-2f24-4260-b0d4-ec862f9aba07"
+  },
+  {
+    "first_name": "Graham",
+    "last_name": "RICHARDSON",
+    "numberOfViolations": 2,
+    "total_fine": 6025.91,
+    "average_fine": 3012.96,
+    "personID": "5b22faba-dc4e-49df-b37f-0e93f60bd17c"
+  },
+  {
+    "first_name": "Irene",
+    "last_name": "MITCHELL",
+    "numberOfViolations": 2,
+    "total_fine": 6223.11,
+    "average_fine": 3111.56,
+    "personID": "8fff8e9e-03ff-4983-9e4e-04abce16797d"
+  },
+  {
+    "first_name": "Geoffrey",
+    "last_name": "WYNN",
+    "numberOfViolations": 3,
+    "total_fine": 10545.67,
+    "average_fine": 3515.22,
+    "personID": "f62e5c05-a7f3-4525-8446-320ee7e777c6"
+  },
+  {
+    "first_name": "Jacqueline",
+    "last_name": "LYONS",
+    "numberOfViolations": 1,
+    "total_fine": 3152.24,
+    "average_fine": 3152.24,
+    "personID": "86533264-b62b-4d64-988b-cb3f05b55fed"
+  },
+  {
+    "first_name": "Lewis",
+    "last_name": "TURNER",
+    "numberOfViolations": 1,
+    "total_fine": 2030.66,
+    "average_fine": 2030.66,
+    "personID": "b231f764-ee03-43f3-b8fe-126cbc0b48a5"
+  },
+  {
+    "first_name": "Elena",
+    "last_name": "HAMPTON",
+    "numberOfViolations": 2,
+    "total_fine": 4472.6,
+    "average_fine": 2236.3,
+    "personID": "f94e4123-e555-4533-8ef6-7f8d4b3a1cd6"
+  },
+  {
+    "first_name": "Kelvin",
+    "last_name": "VANG",
+    "numberOfViolations": 2,
+    "total_fine": 3217.23,
+    "average_fine": 1608.62,
+    "personID": "3c3a0ab1-d661-4362-8d06-2c1701edd5e8"
+  },
+  {
+    "first_name": "Henry",
+    "last_name": "EVERETT",
+    "numberOfViolations": 1,
+    "total_fine": 58.66,
+    "average_fine": 58.66,
+    "personID": "d2fa9b9b-d94a-496f-9f31-33e7df398437"
+  },
+  {
+    "first_name": "Destiny",
+    "last_name": "SCOTT",
+    "numberOfViolations": 2,
+    "total_fine": 5154.34,
+    "average_fine": 2577.17,
+    "personID": "b854e2d1-dee5-45e3-82b0-b76103e45117"
+  },
+  {
+    "first_name": "Brianna",
+    "last_name": "ERICKSON",
+    "numberOfViolations": 1,
+    "total_fine": 1691.75,
+    "average_fine": 1691.75,
+    "personID": "0d9500ba-3eff-4434-b5a0-c6c0ceabc487"
+  },
+  {
+    "first_name": "Kurtis",
+    "last_name": "HARTMAN",
+    "numberOfViolations": 1,
+    "total_fine": 2203.39,
+    "average_fine": 2203.39,
+    "personID": "9ce5e0f8-b8a2-4962-abdf-40bae1a8d1ba"
+  },
+  {
+    "first_name": "Chase",
+    "last_name": "MELTON",
+    "numberOfViolations": 3,
+    "total_fine": 7100.9,
+    "average_fine": 2366.97,
+    "personID": "b2a2f8bb-4af2-41f7-8c33-c49e3bde64c5"
+  },
+  {
+    "first_name": "Nikki",
+    "last_name": "TORRES",
+    "numberOfViolations": 2,
+    "total_fine": 7134.04,
+    "average_fine": 3567.02,
+    "personID": "8eb0aae9-920e-4dec-a605-e81ac7de24d7"
+  },
+  {
+    "first_name": "Joey",
+    "last_name": "VAZQUEZ",
+    "numberOfViolations": 2,
+    "total_fine": 3467.71,
+    "average_fine": 1733.86,
+    "personID": "367be38f-a2c7-4048-bc76-7be79935b771"
+  },
+  {
+    "first_name": "Rosemary",
+    "last_name": "SHAW",
+    "numberOfViolations": 1,
+    "total_fine": 1989.8,
+    "average_fine": 1989.8,
+    "personID": "a277dd4e-313a-4b6c-8efb-71976e2a6a87"
+  },
+  {
+    "first_name": "Kirsten",
+    "last_name": "MEJIA",
+    "numberOfViolations": 2,
+    "total_fine": 6619.05,
+    "average_fine": 3309.53,
+    "personID": "2a2b4123-080c-4c51-8118-876d8ff6b878"
+  },
+  {
+    "first_name": "Brittani",
+    "last_name": "HOLT",
+    "numberOfViolations": 1,
+    "total_fine": 1588.25,
+    "average_fine": 1588.25,
+    "personID": "1767fd0a-ac80-432a-902b-c26875e3fcd6"
+  },
+  {
+    "first_name": "Cesar",
+    "last_name": "VALENTINE",
+    "numberOfViolations": 3,
+    "total_fine": 6048.52,
+    "average_fine": 2016.17,
+    "personID": "1642e604-9bd0-4873-9bff-2b15de06e3bc"
+  },
+  {
+    "first_name": "Gordon",
+    "last_name": "BREWER",
+    "numberOfViolations": 2,
+    "total_fine": 4103.53,
+    "average_fine": 2051.77,
+    "personID": "8bda0856-9d8e-4bdd-8ad2-52f4808363c2"
+  },
+  {
+    "first_name": "Tera",
+    "last_name": "PEREZ",
+    "numberOfViolations": 2,
+    "total_fine": 5965.2,
+    "average_fine": 2982.6,
+    "personID": "e92057c6-e0ea-4bb9-963d-040f1ba50a9b"
+  },
+  {
+    "first_name": "Marisol",
+    "last_name": "GILLIAM",
+    "numberOfViolations": 1,
+    "total_fine": 2922.16,
+    "average_fine": 2922.16,
+    "personID": "f6a4cc4d-7b53-4d26-9585-9e9104473d76"
+  },
+  {
+    "first_name": "Brenton",
+    "last_name": "CHURCH",
+    "numberOfViolations": 1,
+    "total_fine": 635.26,
+    "average_fine": 635.26,
+    "personID": "a190897a-c08a-4b37-b765-95ef55675200"
+  },
+  {
+    "first_name": "Victoria",
+    "last_name": "COLLIER",
+    "numberOfViolations": 2,
+    "total_fine": 3700.97,
+    "average_fine": 1850.49,
+    "personID": "38ca3f4e-deaf-495a-a951-f7526476fcbf"
+  },
+  {
+    "first_name": "Kurtis",
+    "last_name": "SANTOS",
+    "numberOfViolations": 2,
+    "total_fine": 7447.05,
+    "average_fine": 3723.53,
+    "personID": "da25cc87-0a25-4a1b-a93f-7649c58462d2"
+  },
+  {
+    "first_name": "Don",
+    "last_name": "WILLIAMS",
+    "numberOfViolations": 1,
+    "total_fine": 557.57,
+    "average_fine": 557.57,
+    "personID": "bf8bd6a6-d6d8-47c3-914c-fff64fa5a7eb"
+  },
+  {
+    "first_name": "Kaitlin",
+    "last_name": "FULTON",
+    "numberOfViolations": 3,
+    "total_fine": 6033.2,
+    "average_fine": 2011.07,
+    "personID": "a8026af8-87a7-4181-a74b-84dfd4ee8565"
+  },
+  {
+    "first_name": "Ricardo",
+    "last_name": "CROSBY",
+    "numberOfViolations": 1,
+    "total_fine": 3514.55,
+    "average_fine": 3514.55,
+    "personID": "8f2271c8-c853-4b14-b53e-70c625ca935a"
+  },
+  {
+    "first_name": "Harrison",
+    "last_name": "INGRAM",
+    "numberOfViolations": 2,
+    "total_fine": 5603.25,
+    "average_fine": 2801.63,
+    "personID": "c2efb6e3-8f00-4f0e-9486-f762b7b2469e"
+  },
+  {
+    "first_name": "Antonio",
+    "last_name": "MURPHY",
+    "numberOfViolations": 2,
+    "total_fine": 5471.07,
+    "average_fine": 2735.54,
+    "personID": "8b8c0791-7fd9-4bfc-9ee1-1176ade72484"
+  },
+  {
+    "first_name": "Antwan",
+    "last_name": "RANDOLPH",
+    "numberOfViolations": 1,
+    "total_fine": 1024.0,
+    "average_fine": 1024.0,
+    "personID": "24f0e0fa-c55f-4200-bea5-4e19636b864d"
+  },
+  {
+    "first_name": "Mathew",
+    "last_name": "SHERMAN",
+    "numberOfViolations": 2,
+    "total_fine": 5935.94,
+    "average_fine": 2967.97,
+    "personID": "18ea40b8-1da9-4c15-b93f-154f128aa9db"
+  },
+  {
+    "first_name": "Holly",
+    "last_name": "TANNER",
+    "numberOfViolations": 3,
+    "total_fine": 2389.54,
+    "average_fine": 796.51,
+    "personID": "4f5fc220-9c11-46f9-a79f-45248d152ee8"
+  },
+  {
+    "first_name": "Cesar",
+    "last_name": "SHAW",
+    "numberOfViolations": 2,
+    "total_fine": 2828.11,
+    "average_fine": 1414.06,
+    "personID": "17a91795-0157-4625-8a1d-cb1b4e476ede"
+  },
+  {
+    "first_name": "Damon",
+    "last_name": "PARSONS",
+    "numberOfViolations": 2,
+    "total_fine": 7798.98,
+    "average_fine": 3899.49,
+    "personID": "dcc5fe78-33a5-4e59-b98f-ce6f4fedf19d"
+  },
+  {
+    "first_name": "Jamar",
+    "last_name": "FIELDS",
+    "numberOfViolations": 1,
+    "total_fine": 2625.5,
+    "average_fine": 2625.5,
+    "personID": "d60a0462-8076-4e37-9d4c-3a9e13401e6a"
+  },
+  {
+    "first_name": "Antonio",
+    "last_name": "DAVIDSON",
+    "numberOfViolations": 1,
+    "total_fine": 2266.05,
+    "average_fine": 2266.05,
+    "personID": "420a702f-e77a-42aa-b626-67957dd30d44"
+  },
+  {
+    "first_name": "Charity",
+    "last_name": "FITZPATRICK",
+    "numberOfViolations": 1,
+    "total_fine": 4930.8,
+    "average_fine": 4930.8,
+    "personID": "3009d4eb-4a05-4e7e-8589-2683f8977dd1"
+  },
+  {
+    "first_name": "Kendrick",
+    "last_name": "HORN",
+    "numberOfViolations": 3,
+    "total_fine": 6190.59,
+    "average_fine": 2063.53,
+    "personID": "14f539b9-a5a0-4968-b822-1b528b7b5f5a"
+  },
+  {
+    "first_name": "Bradford",
+    "last_name": "BURGESS",
+    "numberOfViolations": 2,
+    "total_fine": 5349.79,
+    "average_fine": 2674.9,
+    "personID": "1a7995b4-2426-4be4-940f-905f1f8d4d0e"
+  },
+  {
+    "first_name": "Brandi",
+    "last_name": "LANG",
+    "numberOfViolations": 3,
+    "total_fine": 6759.09,
+    "average_fine": 2253.03,
+    "personID": "80d29282-4a24-43ee-8936-dc2c483fa060"
+  },
+  {
+    "first_name": "Dale",
+    "last_name": "KEY",
+    "numberOfViolations": 1,
+    "total_fine": 3748.11,
+    "average_fine": 3748.11,
+    "personID": "2d51bbeb-e867-4611-9b68-966a2858b349"
+  },
+  {
+    "first_name": "Gavin",
+    "last_name": "NORRIS",
+    "numberOfViolations": 2,
+    "total_fine": 4722.21,
+    "average_fine": 2361.11,
+    "personID": "93f149d3-8959-48ac-a943-6b00312f865b"
+  },
+  {
+    "first_name": "Gloria",
+    "last_name": "RAY",
+    "numberOfViolations": 2,
+    "total_fine": 1611.64,
+    "average_fine": 805.82,
+    "personID": "2ec3852d-7f22-49ec-be83-30e6ce1203b7"
+  },
+  {
+    "first_name": "Gloria",
+    "last_name": "BUCKNER",
+    "numberOfViolations": 1,
+    "total_fine": 3628.03,
+    "average_fine": 3628.03,
+    "personID": "85922ea4-7a64-417b-a54b-b0e584c6bfa0"
+  },
+  {
+    "first_name": "Julia",
+    "last_name": "ROBLES",
+    "numberOfViolations": 2,
+    "total_fine": 5128.71,
+    "average_fine": 2564.36,
+    "personID": "a057b39a-513f-4e21-842a-73027d3a1023"
+  },
+  {
+    "first_name": "Jeffery",
+    "last_name": "DOYLE",
+    "numberOfViolations": 3,
+    "total_fine": 6287.36,
+    "average_fine": 2095.79,
+    "personID": "08a80cc4-b9ed-4a3e-a0d1-f1be639673ac"
+  },
+  {
+    "first_name": "Kayla",
+    "last_name": "HULL",
+    "numberOfViolations": 1,
+    "total_fine": 3302.55,
+    "average_fine": 3302.55,
+    "personID": "2cfd06da-669e-45bd-9e06-f3cc3fdbddff"
+  },
+  {
+    "first_name": "Alisha",
+    "last_name": "TORRES",
+    "numberOfViolations": 1,
+    "total_fine": 2483.14,
+    "average_fine": 2483.14,
+    "personID": "eae3cfc3-9262-443f-8662-c3ff1b6b0b67"
+  },
+  {
+    "first_name": "Brittany",
+    "last_name": "JOSEPH",
+    "numberOfViolations": 3,
+    "total_fine": 10592.06,
+    "average_fine": 3530.69,
+    "personID": "ff6f4323-7c27-4e7e-98b9-edf9b96b84d3"
+  },
+  {
+    "first_name": "Drew",
+    "last_name": "BEST",
+    "numberOfViolations": 2,
+    "total_fine": 1253.56,
+    "average_fine": 626.78,
+    "personID": "ead87613-3695-4d74-be88-809c13299cfa"
+  },
+  {
+    "first_name": "Bernard",
+    "last_name": "BRYANT",
+    "numberOfViolations": 2,
+    "total_fine": 5534.52,
+    "average_fine": 2767.26,
+    "personID": "80547faa-706b-4f31-8b68-b6220a49814a"
+  },
+  {
+    "first_name": "Kenneth",
+    "last_name": "HALEY",
+    "numberOfViolations": 2,
+    "total_fine": 7927.47,
+    "average_fine": 3963.74,
+    "personID": "753c970b-4204-4df9-8b6e-e33dedc28eb6"
+  },
+  {
+    "first_name": "Beverly",
+    "last_name": "ROWLAND",
+    "numberOfViolations": 1,
+    "total_fine": 3564.99,
+    "average_fine": 3564.99,
+    "personID": "9fcb6436-418b-4e85-9d03-7444b1b4daee"
+  },
+  {
+    "first_name": "Elisha",
+    "last_name": "HOLT",
+    "numberOfViolations": 3,
+    "total_fine": 4663.88,
+    "average_fine": 1554.63,
+    "personID": "e9411f78-72d2-4d5c-9074-0e90e8e40147"
+  },
+  {
+    "first_name": "Brett",
+    "last_name": "KELLEY",
+    "numberOfViolations": 1,
+    "total_fine": 1333.52,
+    "average_fine": 1333.52,
+    "personID": "7e10630e-1f38-4040-ac54-3a49bd6a07e0"
+  },
+  {
+    "first_name": "Krystal",
+    "last_name": "CRUZ",
+    "numberOfViolations": 2,
+    "total_fine": 7650.92,
+    "average_fine": 3825.46,
+    "personID": "4f81233d-b788-45c6-8887-764b76c3300a"
+  },
+  {
+    "first_name": "Genevieve",
+    "last_name": "VASQUEZ",
+    "numberOfViolations": 2,
+    "total_fine": 1326.12,
+    "average_fine": 663.06,
+    "personID": "02c61c42-fb54-48a1-bc26-8321ba7c0ef0"
+  },
+  {
+    "first_name": "Sam",
+    "last_name": "HICKS",
+    "numberOfViolations": 2,
+    "total_fine": 5007.63,
+    "average_fine": 2503.82,
+    "personID": "5dbb20f8-3964-472e-bfcd-642b940a9219"
+  },
+  {
+    "first_name": "Amelia",
+    "last_name": "GREENE",
+    "numberOfViolations": 3,
+    "total_fine": 9692.48,
+    "average_fine": 3230.83,
+    "personID": "671e887a-b90b-4aff-a904-8902b86633f4"
+  },
+  {
+    "first_name": "Summer",
+    "last_name": "TILLMAN",
+    "numberOfViolations": 3,
+    "total_fine": 10334.37,
+    "average_fine": 3444.79,
+    "personID": "291e60eb-0fd7-437c-ac9e-8f7299a9d81c"
+  },
+  {
+    "first_name": "Corey",
+    "last_name": "CLAY",
+    "numberOfViolations": 2,
+    "total_fine": 7535.26,
+    "average_fine": 3767.63,
+    "personID": "7b2a42db-53e2-4c30-b85a-65bea40580cd"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "HOOPER",
+    "numberOfViolations": 1,
+    "total_fine": 4846.01,
+    "average_fine": 4846.01,
+    "personID": "4005996b-60c2-4215-8178-7fd8a7624d6a"
+  },
+  {
+    "first_name": "Alyson",
+    "last_name": "FITZPATRICK",
+    "numberOfViolations": 1,
+    "total_fine": 3251.89,
+    "average_fine": 3251.89,
+    "personID": "7e7d12c1-dd53-4539-93df-ef2de480a3b3"
+  },
+  {
+    "first_name": "Ronald",
+    "last_name": "NIELSEN",
+    "numberOfViolations": 3,
+    "total_fine": 8160.95,
+    "average_fine": 2720.32,
+    "personID": "c71286b6-fce2-4d04-8f79-bf8c200f0fa1"
+  },
+  {
+    "first_name": "Leticia",
+    "last_name": "SANTOS",
+    "numberOfViolations": 3,
+    "total_fine": 7861.23,
+    "average_fine": 2620.41,
+    "personID": "657bdf65-da80-4614-87ce-73910b4bb685"
+  },
+  {
+    "first_name": "Alaina",
+    "last_name": "FISHER",
+    "numberOfViolations": 1,
+    "total_fine": 1540.53,
+    "average_fine": 1540.53,
+    "personID": "2e370570-d5f8-44c7-9dd7-91b53959a858"
+  },
+  {
+    "first_name": "James",
+    "last_name": "BULLOCK",
+    "numberOfViolations": 1,
+    "total_fine": 209.69,
+    "average_fine": 209.69,
+    "personID": "5a0b64df-76ac-409f-9530-e5b5be0b3175"
+  },
+  {
+    "first_name": "Andrew",
+    "last_name": "LARSON",
+    "numberOfViolations": 2,
+    "total_fine": 3222.72,
+    "average_fine": 1611.36,
+    "personID": "4be5d2d6-c581-4ddd-b392-8afe91299634"
+  },
+  {
+    "first_name": "Tracie",
+    "last_name": "STONE",
+    "numberOfViolations": 1,
+    "total_fine": 459.14,
+    "average_fine": 459.14,
+    "personID": "04070ad2-68c6-405e-8610-3e516c63a54f"
+  },
+  {
+    "first_name": "Miranda",
+    "last_name": "WONG",
+    "numberOfViolations": 2,
+    "total_fine": 5587.64,
+    "average_fine": 2793.82,
+    "personID": "66c71cfd-310e-4c42-b9e3-368a9ced53d0"
+  },
+  {
+    "first_name": "Leticia",
+    "last_name": "STOKES",
+    "numberOfViolations": 2,
+    "total_fine": 1956.41,
+    "average_fine": 978.21,
+    "personID": "9af4a10b-6da4-455a-a657-8b5ad7f856d7"
+  },
+  {
+    "first_name": "Angelica",
+    "last_name": "CAIN",
+    "numberOfViolations": 1,
+    "total_fine": 4180.98,
+    "average_fine": 4180.98,
+    "personID": "50954b70-a95f-4a8b-af94-8aa0f3fcb1dc"
+  },
+  {
+    "first_name": "Vivian",
+    "last_name": "WARNER",
+    "numberOfViolations": 2,
+    "total_fine": 4541.27,
+    "average_fine": 2270.64,
+    "personID": "9cabf776-12bb-4a86-9fef-e384a53ded93"
+  },
+  {
+    "first_name": "Madeline",
+    "last_name": "ZIMMERMAN",
+    "numberOfViolations": 2,
+    "total_fine": 4478.59,
+    "average_fine": 2239.3,
+    "personID": "6e6d9ac2-012d-444e-b346-f71ca182bb31"
+  },
+  {
+    "first_name": "Eileen",
+    "last_name": "HAWKINS",
+    "numberOfViolations": 2,
+    "total_fine": 5695.52,
+    "average_fine": 2847.76,
+    "personID": "de5bdd3e-467c-4718-9542-15157d347044"
+  },
+  {
+    "first_name": "Tania",
+    "last_name": "CALDERON",
+    "numberOfViolations": 2,
+    "total_fine": 6825.65,
+    "average_fine": 3412.83,
+    "personID": "418f4ea9-1785-4fb1-bca2-735402c2f500"
+  },
+  {
+    "first_name": "Tina",
+    "last_name": "WEST",
+    "numberOfViolations": 2,
+    "total_fine": 2807.26,
+    "average_fine": 1403.63,
+    "personID": "52949b68-a245-4721-9f5e-e38e8695e9fa"
+  },
+  {
+    "first_name": "Jacquelyn",
+    "last_name": "GARRETT",
+    "numberOfViolations": 2,
+    "total_fine": 4270.58,
+    "average_fine": 2135.29,
+    "personID": "a886e07a-6eec-42e9-a296-7ededd7992ef"
+  },
+  {
+    "first_name": "Callie",
+    "last_name": "DURHAM",
+    "numberOfViolations": 3,
+    "total_fine": 4294.76,
+    "average_fine": 1431.59,
+    "personID": "55df1600-e569-4919-9255-0fa23b374e42"
+  },
+  {
+    "first_name": "Stuart",
+    "last_name": "WILLIAM",
+    "numberOfViolations": 1,
+    "total_fine": 4432.9,
+    "average_fine": 4432.9,
+    "personID": "87989d8b-2599-4f33-849b-577fedb939d5"
+  },
+  {
+    "first_name": "Carolyn",
+    "last_name": "MEYER",
+    "numberOfViolations": 2,
+    "total_fine": 4558.78,
+    "average_fine": 2279.39,
+    "personID": "d549815f-9bec-4287-bddd-6ab0e559f87a"
+  },
+  {
+    "first_name": "Orlando",
+    "last_name": "PATTERSON",
+    "numberOfViolations": 3,
+    "total_fine": 5292.66,
+    "average_fine": 1764.22,
+    "personID": "7a787619-8d75-481b-984b-b6bde52b95e1"
+  },
+  {
+    "first_name": "Sheri",
+    "last_name": "BERGER",
+    "numberOfViolations": 2,
+    "total_fine": 2896.74,
+    "average_fine": 1448.37,
+    "personID": "dfe29890-603a-4b1a-bdc3-1f55ee7a3f8a"
+  },
+  {
+    "first_name": "Neil",
+    "last_name": "SNYDER",
+    "numberOfViolations": 2,
+    "total_fine": 2432.27,
+    "average_fine": 1216.14,
+    "personID": "c60f8c10-7919-40a0-8b6e-5cd6482d5b08"
+  },
+  {
+    "first_name": "Kelsey",
+    "last_name": "POTTS",
+    "numberOfViolations": 1,
+    "total_fine": 3799.65,
+    "average_fine": 3799.65,
+    "personID": "a42eab4f-1126-4911-b0cb-78cf105b8834"
+  },
+  {
+    "first_name": "Freddie",
+    "last_name": "HUNT",
+    "numberOfViolations": 2,
+    "total_fine": 3831.5,
+    "average_fine": 1915.75,
+    "personID": "0f043f6c-f0c4-47ca-b7b8-50d4dc50d364"
+  },
+  {
+    "first_name": "Jocelyn",
+    "last_name": "GRAY",
+    "numberOfViolations": 2,
+    "total_fine": 5690.48,
+    "average_fine": 2845.24,
+    "personID": "440036ce-6db1-4a25-8e57-db544939665e"
+  },
+  {
+    "first_name": "Joanne",
+    "last_name": "SYKES",
+    "numberOfViolations": 2,
+    "total_fine": 4644.0,
+    "average_fine": 2322.0,
+    "personID": "889640de-9648-461b-b444-c2b20779ded5"
+  },
+  {
+    "first_name": "Rosanna",
+    "last_name": "MARSHALL",
+    "numberOfViolations": 2,
+    "total_fine": 6346.72,
+    "average_fine": 3173.36,
+    "personID": "846746ab-cc97-4c06-b04a-552530e60096"
+  },
+  {
+    "first_name": "Destiny",
+    "last_name": "HUTCHINSON",
+    "numberOfViolations": 1,
+    "total_fine": 1483.64,
+    "average_fine": 1483.64,
+    "personID": "0fde6712-b030-4d2e-bb12-4ea918f1a7da"
+  },
+  {
+    "first_name": "Beau",
+    "last_name": "BROWN",
+    "numberOfViolations": 2,
+    "total_fine": 5423.66,
+    "average_fine": 2711.83,
+    "personID": "e9303323-8dd8-4c24-8d57-0b003b22f9df"
+  },
+  {
+    "first_name": "Chantel",
+    "last_name": "BROWN",
+    "numberOfViolations": 3,
+    "total_fine": 9061.53,
+    "average_fine": 3020.51,
+    "personID": "c408ab5a-1cf2-4bb5-a772-88df2ce2b41c"
+  },
+  {
+    "first_name": "Carly",
+    "last_name": "GALLAGHER",
+    "numberOfViolations": 2,
+    "total_fine": 4716.62,
+    "average_fine": 2358.31,
+    "personID": "ede93a3c-7231-4531-ae36-b17cb3ff4329"
+  },
+  {
+    "first_name": "Xavier",
+    "last_name": "RICHARDSON",
+    "numberOfViolations": 1,
+    "total_fine": 3398.01,
+    "average_fine": 3398.01,
+    "personID": "5e9896d1-7bfb-437f-91cf-83942dc7901a"
+  },
+  {
+    "first_name": "Kimberly",
+    "last_name": "LEACH",
+    "numberOfViolations": 2,
+    "total_fine": 5862.12,
+    "average_fine": 2931.06,
+    "personID": "2e386b7f-93b8-4fec-a447-3fd7ad0798c9"
+  },
+  {
+    "first_name": "Nina",
+    "last_name": "BECK",
+    "numberOfViolations": 2,
+    "total_fine": 3711.26,
+    "average_fine": 1855.63,
+    "personID": "17b49778-b395-475e-83fd-4e56717f4f81"
+  },
+  {
+    "first_name": "Gloria",
+    "last_name": "ATKINS",
+    "numberOfViolations": 3,
+    "total_fine": 13043.45,
+    "average_fine": 4347.82,
+    "personID": "bb95c6c4-ebd8-4534-878d-c110f8c1fab2"
+  },
+  {
+    "first_name": "Roland",
+    "last_name": "LYONS",
+    "numberOfViolations": 3,
+    "total_fine": 9836.74,
+    "average_fine": 3278.91,
+    "personID": "5837a461-ae4b-4786-a0ce-18c7573bddfc"
+  },
+  {
+    "first_name": "Jenifer",
+    "last_name": "RAYMOND",
+    "numberOfViolations": 2,
+    "total_fine": 8898.83,
+    "average_fine": 4449.42,
+    "personID": "536edeff-48b5-4f40-8600-a72da2ee16ff"
+  },
+  {
+    "first_name": "Connie",
+    "last_name": "SAMPSON",
+    "numberOfViolations": 2,
+    "total_fine": 4985.92,
+    "average_fine": 2492.96,
+    "personID": "16cd56f3-5302-4544-bb0a-d6873e8c3224"
+  },
+  {
+    "first_name": "Robert",
+    "last_name": "CALHOUN",
+    "numberOfViolations": 1,
+    "total_fine": 128.7,
+    "average_fine": 128.7,
+    "personID": "9b23fb10-1791-411e-9156-52b741a78ba7"
+  },
+  {
+    "first_name": "Norman",
+    "last_name": "OLSON",
+    "numberOfViolations": 2,
+    "total_fine": 7465.79,
+    "average_fine": 3732.9,
+    "personID": "e12f7116-5675-46b5-b78a-138b1704fca2"
+  },
+  {
+    "first_name": "Brandie",
+    "last_name": "SIMS",
+    "numberOfViolations": 1,
+    "total_fine": 157.78,
+    "average_fine": 157.78,
+    "personID": "cf323d7c-364a-4c8c-8362-d0334a3e26b8"
+  },
+  {
+    "first_name": "Gilberto",
+    "last_name": "ACEVEDO",
+    "numberOfViolations": 2,
+    "total_fine": 8934.29,
+    "average_fine": 4467.15,
+    "personID": "12bfe6bc-355c-479b-aec1-c2a0391ac4de"
+  },
+  {
+    "first_name": "Jana",
+    "last_name": "BALLARD",
+    "numberOfViolations": 2,
+    "total_fine": 5676.66,
+    "average_fine": 2838.33,
+    "personID": "a089e26b-5132-4c5d-98a4-619400b9e166"
+  },
+  {
+    "first_name": "Desiree",
+    "last_name": "NORMAN",
+    "numberOfViolations": 1,
+    "total_fine": 1980.63,
+    "average_fine": 1980.63,
+    "personID": "8ea52871-e648-42b9-adfd-113eeae9536b"
+  },
+  {
+    "first_name": "Raymond",
+    "last_name": "DORSEY",
+    "numberOfViolations": 1,
+    "total_fine": 3568.53,
+    "average_fine": 3568.53,
+    "personID": "0f9c4f5a-f035-4d50-a0d6-4f8461939404"
+  },
+  {
+    "first_name": "Alexandria",
+    "last_name": "RUIZ",
+    "numberOfViolations": 2,
+    "total_fine": 3625.36,
+    "average_fine": 1812.68,
+    "personID": "e824ab2f-fdf8-428b-ac28-5b89d4b46005"
+  },
+  {
+    "first_name": "Christine",
+    "last_name": "VANG",
+    "numberOfViolations": 3,
+    "total_fine": 12171.68,
+    "average_fine": 4057.23,
+    "personID": "08d94e25-e070-4a88-b1ef-8de681037e66"
+  },
+  {
+    "first_name": "Harold",
+    "last_name": "LANCASTER",
+    "numberOfViolations": 3,
+    "total_fine": 5884.39,
+    "average_fine": 1961.46,
+    "personID": "c1b344b2-5f22-40c2-b8d4-d2bd1fac784d"
+  },
+  {
+    "first_name": "Dominic",
+    "last_name": "MORTON",
+    "numberOfViolations": 2,
+    "total_fine": 6771.07,
+    "average_fine": 3385.54,
+    "personID": "4267401f-dfb2-4320-83b1-cab210ce9048"
+  },
+  {
+    "first_name": "Alexandria",
+    "last_name": "MCDANIEL",
+    "numberOfViolations": 2,
+    "total_fine": 5778.01,
+    "average_fine": 2889.01,
+    "personID": "593c4e0c-15f8-46e5-99f8-bfcb6f9e8af4"
+  },
+  {
+    "first_name": "Fabian",
+    "last_name": "ROSS",
+    "numberOfViolations": 1,
+    "total_fine": 3311.19,
+    "average_fine": 3311.19,
+    "personID": "166e2ffd-ba69-4cc4-b82b-8e304152af00"
+  },
+  {
+    "first_name": "Walter",
+    "last_name": "PRINCE",
+    "numberOfViolations": 2,
+    "total_fine": 5489.59,
+    "average_fine": 2744.8,
+    "personID": "ac221d4c-bacb-40ef-a445-1c8ed07a2483"
+  },
+  {
+    "first_name": "Eddie",
+    "last_name": "HAMILTON",
+    "numberOfViolations": 2,
+    "total_fine": 4550.2,
+    "average_fine": 2275.1,
+    "personID": "fd3f335e-e45d-4370-9f79-830d02e1b0a3"
+  },
+  {
+    "first_name": "Erin",
+    "last_name": "STOKES",
+    "numberOfViolations": 1,
+    "total_fine": 1540.46,
+    "average_fine": 1540.46,
+    "personID": "4baa55bb-4b41-4712-82ae-d532dd9b2f3f"
+  },
+  {
+    "first_name": "Angie",
+    "last_name": "MAXWELL",
+    "numberOfViolations": 3,
+    "total_fine": 7136.68,
+    "average_fine": 2378.89,
+    "personID": "486c253b-5718-4771-a9b8-29ffaf540550"
+  },
+  {
+    "first_name": "Ashleigh",
+    "last_name": "CALDERON",
+    "numberOfViolations": 2,
+    "total_fine": 5205.26,
+    "average_fine": 2602.63,
+    "personID": "850b8984-3db8-4273-a8ba-3296899fc78a"
+  },
+  {
+    "first_name": "Bobby",
+    "last_name": "FRANKS",
+    "numberOfViolations": 2,
+    "total_fine": 6009.99,
+    "average_fine": 3005.0,
+    "personID": "e2fcd44d-2c5e-4c2b-8afd-9b66420c4ad3"
+  },
+  {
+    "first_name": "Antoinette",
+    "last_name": "WITT",
+    "numberOfViolations": 1,
+    "total_fine": 4845.0,
+    "average_fine": 4845.0,
+    "personID": "581ed938-88e8-45a4-bf71-3c5db66b46ad"
+  },
+  {
+    "first_name": "Tamika",
+    "last_name": "MCCRAY",
+    "numberOfViolations": 3,
+    "total_fine": 10005.96,
+    "average_fine": 3335.32,
+    "personID": "9886707c-b19d-4d14-9dc0-03c48f1872e9"
+  },
+  {
+    "first_name": "Ellen",
+    "last_name": "GREEN",
+    "numberOfViolations": 3,
+    "total_fine": 6046.89,
+    "average_fine": 2015.63,
+    "personID": "5117164c-8143-48cb-a5fa-456e99abf060"
+  },
+  {
+    "first_name": "Cassie",
+    "last_name": "ONEIL",
+    "numberOfViolations": 1,
+    "total_fine": 3029.0,
+    "average_fine": 3029.0,
+    "personID": "dad936db-5798-4ac1-bb0f-e9b4479873e9"
+  },
+  {
+    "first_name": "Brady",
+    "last_name": "BLANKENSHIP",
+    "numberOfViolations": 2,
+    "total_fine": 2634.99,
+    "average_fine": 1317.5,
+    "personID": "ea730ea6-be95-451c-8cbf-d0ebbfa0333d"
+  },
+  {
+    "first_name": "Joy",
+    "last_name": "BOOTH",
+    "numberOfViolations": 3,
+    "total_fine": 5472.88,
+    "average_fine": 1824.29,
+    "personID": "e06b18d4-c1e1-4fdf-9e76-1eb83dab8472"
+  },
+  {
+    "first_name": "Daniel",
+    "last_name": "PADILLA",
+    "numberOfViolations": 3,
+    "total_fine": 9618.68,
+    "average_fine": 3206.23,
+    "personID": "3eb5caa5-17ee-4266-891d-db1011b1a5bd"
+  },
+  {
+    "first_name": "Wesley",
+    "last_name": "MERCER",
+    "numberOfViolations": 2,
+    "total_fine": 4563.7,
+    "average_fine": 2281.85,
+    "personID": "10143e58-d399-45be-b699-c964ebde13d5"
+  },
+  {
+    "first_name": "Connie",
+    "last_name": "MADDEN",
+    "numberOfViolations": 2,
+    "total_fine": 1981.53,
+    "average_fine": 990.77,
+    "personID": "465409a4-9514-48df-8084-e9f1aedd9a32"
+  },
+  {
+    "first_name": "Martin",
+    "last_name": "CHANG",
+    "numberOfViolations": 2,
+    "total_fine": 2519.92,
+    "average_fine": 1259.96,
+    "personID": "efe9aceb-c429-410f-b4d5-f09e4b49d684"
+  },
+  {
+    "first_name": "Orlando",
+    "last_name": "OLSEN",
+    "numberOfViolations": 2,
+    "total_fine": 5810.79,
+    "average_fine": 2905.4,
+    "personID": "7131f5cd-3644-4bc8-8f74-0e9a36545968"
+  },
+  {
+    "first_name": "Nelson",
+    "last_name": "LOWE",
+    "numberOfViolations": 3,
+    "total_fine": 4420.27,
+    "average_fine": 1473.42,
+    "personID": "99c38e52-7a90-47d9-a967-acda3ec21604"
+  },
+  {
+    "first_name": "William",
+    "last_name": "ROLLINS",
+    "numberOfViolations": 2,
+    "total_fine": 6595.03,
+    "average_fine": 3297.52,
+    "personID": "86c0001f-9251-4d70-b32c-98b8750550cb"
+  },
+  {
+    "first_name": "Kendra",
+    "last_name": "FLOYD",
+    "numberOfViolations": 2,
+    "total_fine": 3112.02,
+    "average_fine": 1556.01,
+    "personID": "969b6b87-9302-450a-a8db-25128e31bf4a"
+  },
+  {
+    "first_name": "Darryl",
+    "last_name": "CHURCH",
+    "numberOfViolations": 3,
+    "total_fine": 6164.08,
+    "average_fine": 2054.69,
+    "personID": "d59662ec-6ed4-4908-88cd-dacff991c492"
+  },
+  {
+    "first_name": "Rodolfo",
+    "last_name": "PARRISH",
+    "numberOfViolations": 1,
+    "total_fine": 3176.63,
+    "average_fine": 3176.63,
+    "personID": "e1327f2b-a001-4812-84bd-bebf730990a8"
+  },
+  {
+    "first_name": "Teri",
+    "last_name": "LOWE",
+    "numberOfViolations": 1,
+    "total_fine": 761.76,
+    "average_fine": 761.76,
+    "personID": "a0dc1ce3-2b12-47f1-9e8d-499063f86396"
+  },
+  {
+    "first_name": "Jocelyn",
+    "last_name": "MCCRAY",
+    "numberOfViolations": 1,
+    "total_fine": 3279.72,
+    "average_fine": 3279.72,
+    "personID": "c2ae0baf-a5f2-4df9-b89c-a66c69f189bb"
+  },
+  {
+    "first_name": "Jessica",
+    "last_name": "SCHULTZ",
+    "numberOfViolations": 1,
+    "total_fine": 721.18,
+    "average_fine": 721.18,
+    "personID": "b0421dcc-f929-44b2-966e-04d6e7bfe2a3"
+  },
+  {
+    "first_name": "Christian",
+    "last_name": "STEIN",
+    "numberOfViolations": 1,
+    "total_fine": 4198.88,
+    "average_fine": 4198.88,
+    "personID": "650d61e3-8e76-413c-9c8b-14b4e400e02f"
+  },
+  {
+    "first_name": "Landon",
+    "last_name": "MCCORMICK",
+    "numberOfViolations": 2,
+    "total_fine": 6681.24,
+    "average_fine": 3340.62,
+    "personID": "36a047ba-326b-45ee-a206-57e0144b7885"
+  },
+  {
+    "first_name": "Charlotte",
+    "last_name": "COLLIER",
+    "numberOfViolations": 2,
+    "total_fine": 4306.83,
+    "average_fine": 2153.42,
+    "personID": "a5eb7123-8b71-4a6d-869e-774a6f363481"
+  },
+  {
+    "first_name": "Esther",
+    "last_name": "HOOVER",
+    "numberOfViolations": 2,
+    "total_fine": 4597.15,
+    "average_fine": 2298.58,
+    "personID": "b6b690a7-df07-487f-b525-a01d213ab2d6"
+  },
+  {
+    "first_name": "Jolene",
+    "last_name": "PITTMAN",
+    "numberOfViolations": 2,
+    "total_fine": 6038.77,
+    "average_fine": 3019.39,
+    "personID": "52a8c5f4-ce98-4b64-a9b0-8328455852de"
+  },
+  {
+    "first_name": "Alyssa",
+    "last_name": "KIRK",
+    "numberOfViolations": 3,
+    "total_fine": 4414.4,
+    "average_fine": 1471.47,
+    "personID": "33858c8d-33ad-4c6b-930b-5128df56827b"
+  },
+  {
+    "first_name": "Betsy",
+    "last_name": "VELEZ",
+    "numberOfViolations": 2,
+    "total_fine": 7670.65,
+    "average_fine": 3835.33,
+    "personID": "b29599f8-9fd3-41dc-9690-c1f51f28faed"
+  },
+  {
+    "first_name": "Tameka",
+    "last_name": "VELAZQUEZ",
+    "numberOfViolations": 1,
+    "total_fine": 579.93,
+    "average_fine": 579.93,
+    "personID": "ab98f64a-86d1-4dd3-a34d-242be46f821a"
+  },
+  {
+    "first_name": "William",
+    "last_name": "WILKINS",
+    "numberOfViolations": 2,
+    "total_fine": 1001.81,
+    "average_fine": 500.91,
+    "personID": "b3628392-8d33-44fc-9736-ff222e4b28a5"
+  },
+  {
+    "first_name": "Alison",
+    "last_name": "BENDER",
+    "numberOfViolations": 1,
+    "total_fine": 446.59,
+    "average_fine": 446.59,
+    "personID": "48c3f04e-0a47-467d-95ee-2c00ab7771f6"
+  },
+  {
+    "first_name": "Janelle",
+    "last_name": "BURT",
+    "numberOfViolations": 2,
+    "total_fine": 7614.31,
+    "average_fine": 3807.16,
+    "personID": "092ddadf-f560-4450-a168-9a70d9084709"
+  },
+  {
+    "first_name": "Caleb",
+    "last_name": "SOSA",
+    "numberOfViolations": 2,
+    "total_fine": 5762.56,
+    "average_fine": 2881.28,
+    "personID": "52b332cd-1860-4220-80d6-9e9580d3b372"
+  },
+  {
+    "first_name": "Bonnie",
+    "last_name": "YANG",
+    "numberOfViolations": 1,
+    "total_fine": 2446.89,
+    "average_fine": 2446.89,
+    "personID": "08afe75e-1d03-4791-9693-89bb73e18648"
+  },
+  {
+    "first_name": "Tiffani",
+    "last_name": "MCFARLAND",
+    "numberOfViolations": 1,
+    "total_fine": 4305.16,
+    "average_fine": 4305.16,
+    "personID": "fac3ba49-91f7-4bdd-bdc0-8e638d967b76"
+  },
+  {
+    "first_name": "Donna",
+    "last_name": "AVILA",
+    "numberOfViolations": 2,
+    "total_fine": 9294.59,
+    "average_fine": 4647.3,
+    "personID": "183d8e47-7896-4555-a2a0-bfd73d8ef4a5"
+  },
+  {
+    "first_name": "Antoine",
+    "last_name": "CORTEZ",
+    "numberOfViolations": 1,
+    "total_fine": 2463.77,
+    "average_fine": 2463.77,
+    "personID": "4cc2105a-634a-4ee1-b198-e4a1f9c21a21"
+  },
+  {
+    "first_name": "Charlotte",
+    "last_name": "FOX",
+    "numberOfViolations": 3,
+    "total_fine": 9459.52,
+    "average_fine": 3153.17,
+    "personID": "40c5a2c6-3a2f-4afd-931a-47400d6b5c0b"
+  },
+  {
+    "first_name": "Alicia",
+    "last_name": "LINDSAY",
+    "numberOfViolations": 2,
+    "total_fine": 5940.15,
+    "average_fine": 2970.08,
+    "personID": "cd2fa55c-45bd-4b24-9fef-b649f3586bfa"
+  },
+  {
+    "first_name": "Fredrick",
+    "last_name": "SHIELDS",
+    "numberOfViolations": 1,
+    "total_fine": 3705.97,
+    "average_fine": 3705.97,
+    "personID": "a789b206-1924-4690-a0a2-2ec085fcde56"
+  },
+  {
+    "first_name": "Josue",
+    "last_name": "MITCHELL",
+    "numberOfViolations": 2,
+    "total_fine": 6522.95,
+    "average_fine": 3261.48,
+    "personID": "18ecd423-3446-4a8b-ad15-55d953a18e9a"
+  },
+  {
+    "first_name": "Audrey",
+    "last_name": "REILLY",
+    "numberOfViolations": 2,
+    "total_fine": 7760.93,
+    "average_fine": 3880.47,
+    "personID": "e562bd31-c727-49cd-b076-04dc1b54e6bf"
+  },
+  {
+    "first_name": "Jack",
+    "last_name": "WARD",
+    "numberOfViolations": 3,
+    "total_fine": 6263.13,
+    "average_fine": 2087.71,
+    "personID": "c77f2c18-dfdf-41ca-ba52-f6ab914e9f38"
+  },
+  {
+    "first_name": "Janelle",
+    "last_name": "RIVERS",
+    "numberOfViolations": 3,
+    "total_fine": 7713.55,
+    "average_fine": 2571.18,
+    "personID": "8f8bd98c-d035-4e4c-8014-6999bf32993c"
   }
 ]
