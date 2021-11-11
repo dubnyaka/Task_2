@@ -1,12 +1,13 @@
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import entity.Offender;
 import lombok.AllArgsConstructor;
 import org.apache.commons.math3.util.Precision;
 
+import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
@@ -28,11 +29,15 @@ public class Parser {
 
 
     public static void main(String[] args) throws IOException {
-        parse("src/main/traffic_violations/");
+        long startTime = System.currentTimeMillis();
+        parse("src/main/traffic_violations/","src/main/output",4);
+        long endTime = System.currentTimeMillis();
+        System.out.println("Total execution time: " + (endTime-startTime) + "ms");
     }
 
-    public static void parse(String dir) throws IOException {
-        ExecutorService executorService = Executors.newFixedThreadPool(5);
+    public static void parse(String dir,String outputDir,int threads) throws IOException {
+        // Runtime.getRuntime().availableProcessors()
+        ExecutorService executorService = Executors.newFixedThreadPool(threads);
 
         try (Stream<Path> paths = Files.walk(Paths.get(dir))) {
             List<Path> pathsList = new ArrayList<>();
@@ -46,7 +51,18 @@ public class Parser {
         // Wait for all threads to do their work
         try {
             executorService.awaitTermination(30, TimeUnit.SECONDS);
-            offendersMain.entrySet().forEach(System.out::println);
+            // Calculation of the average fine amount for each offender
+            offendersMain.forEach((key, value) -> value
+                    .setAverage_fine(Precision.round(value.getTotal_fine() / value.getNumberOfViolations(), 2)));
+            // Sorting total fine
+            LinkedHashMap<String, Double> sortedAmountMap = new LinkedHashMap<>();
+            amountForFineMain.entrySet().stream().sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()))
+                    .forEach(stringDoubleEntry -> sortedAmountMap.put(stringDoubleEntry.getKey(), stringDoubleEntry.getValue()));
+            amountForFineMain = new LinkedHashMap<>(sortedAmountMap);
+            // Create output file
+            ObjectMapper objectMapper = new ObjectMapper();
+            objectMapper.writeValue(new File(outputDir+"/amountForFine.json"), amountForFineMain);
+            objectMapper.writeValue(new File(outputDir+"/offenders.json"), offendersMain.values());
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -142,7 +158,7 @@ public class Parser {
         String last_name;
         UUID personID;
         String type = "";
-        double fine_amount = 0;
+        double fine_amount;
 
         // Parse json array
         while (jParser.nextToken() != JsonToken.END_ARRAY) {
@@ -155,64 +171,51 @@ public class Parser {
                     if ("date_time".equals(fieldname)) {
                         jParser.nextToken();
                     }
-
                     if ("first_name".equals(fieldname)) {
                         jParser.nextToken();
                         first_name = jParser.getText();
                         newOffender.setFirst_name(first_name);
                     }
-
                     if ("last_name".equals(fieldname)) {
                         jParser.nextToken();
                         last_name = jParser.getText();
                         newOffender.setLast_name(last_name);
                     }
-
                     if ("personID".equals(fieldname)) {
                         jParser.nextToken();
                         personID = UUID.fromString(jParser.getText());
                         newOffender.setPersonID(personID);
                     }
-
                     if ("type".equals(fieldname)) {
                         jParser.nextToken();
                         type = jParser.getText();
                         // Put new type violation to Map
                         amountForFineRef.putIfAbsent(type, 0.0);
                     }
-
                     if ("fine_amount".equals(fieldname)) {
                         jParser.nextToken();
                         fine_amount = jParser.getDoubleValue();
-                        newOffender.setAverage_fine(fine_amount);
                         newOffender.setTotal_fine(fine_amount);
 
                         double finalFine_amount = fine_amount;
-                        amountForFineRef.computeIfPresent(type, (key, value) -> value + finalFine_amount);
+                        amountForFineRef.computeIfPresent(type, (key, value) -> Precision.round(value + finalFine_amount, 2));
                     }
                 }
                 newOffender.setNumberOfViolations(1);
 
-                // Денежная сумма штрафов по типам.
-//                if (RunnableParsing.amountForFine.containsKey(type)) {
-//                    RunnableParsing.amountForFine.put(type, RunnableParsing.amountForFine.get(type) + fine_amount);
-//                } else {
-//                    RunnableParsing.amountForFine.put(type, fine_amount);
-//                }
-
-
-
                 //Get offender from violation to hashmap
-                System.out.println("a" + offendersRef.computeIfAbsent(newOffender.getPersonID(),(value)-> newOffender));
+                if (offendersRef.containsKey(newOffender.getPersonID())) {
+                    // System.out.println(offendersRef);
+                    Offender existingOffender = offendersRef.getOrDefault(newOffender.getPersonID(), newOffender);
+                    // Incrementing violation count
+                    existingOffender.setNumberOfViolations(existingOffender.getNumberOfViolations() + 1);
+                    // Add fine_amount to total fine
+                    existingOffender.setTotal_fine(Precision.round(existingOffender.getTotal_fine() + newOffender.getTotal_fine(), 2));
 
-//                System.out.println(offendersRef);
-                Offender existingOffender = offendersRef.getOrDefault(newOffender.getPersonID(), newOffender);
-                // Incrementing violation count
-                existingOffender.setNumberOfViolations(existingOffender.getNumberOfViolations() + 1);
-                // Add fine_amount to total fine
-                existingOffender.setTotal_fine(Precision.round(existingOffender.getTotal_fine() + newOffender.getTotal_fine(), 2));
-
-                offendersRef.computeIfPresent(newOffender.getPersonID(),(key,value) -> value=existingOffender);
+                    offendersRef.computeIfPresent(newOffender.getPersonID(), (key, value) -> value = existingOffender);
+                } else {
+                    offendersRef.putIfAbsent(newOffender.getPersonID(), newOffender);
+                }
             }
         }
         jParser.close();
@@ -227,7 +230,6 @@ public class Parser {
 
         @Override
         public void run() {
-
             try {
                 Thread.sleep(new Random().nextInt(1000));
             } catch (InterruptedException e) {
@@ -238,7 +240,6 @@ public class Parser {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-
         }
     }
 

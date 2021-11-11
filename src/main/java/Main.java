@@ -51,8 +51,6 @@ public class Main {
             if (x > 10) break;
             x++;
         }
-
-
     }
 
     public static void streamParsing(InputStream inputStream, HashMap<String, Double> amountForFine, HashMap<UUID, Offender> offenders) throws IOException {

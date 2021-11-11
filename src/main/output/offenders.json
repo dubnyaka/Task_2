@@ -1,0 +1,82 @@
+[
+  {
+    "first_name": "Douglas",
+    "last_name": "TRAN",
+    "numberOfViolations": 1,
+    "total_fine": 2604.44,
+    "average_fine": 2604.44,
+    "personID": "1a1d3371-e2ea-44e8-a037-4eb21630b74b"
+  },
+  {
+    "first_name": "Dana",
+    "last_name": "PATTON",
+    "numberOfViolations": 1,
+    "total_fine": 3852.6,
+    "average_fine": 3852.6,
+    "personID": "e12bede6-0f63-4788-8099-ab4243ae0b42"
+  },
+  {
+    "first_name": "Ramon",
+    "last_name": "DUNN",
+    "numberOfViolations": 1,
+    "total_fine": 1134.49,
+    "average_fine": 1134.49,
+    "personID": "64284f20-944e-448f-bceb-362ccb085a57"
+  },
+  {
+    "first_name": "Randi",
+    "last_name": "BLANKENSHIP",
+    "numberOfViolations": 1,
+    "total_fine": 535.64,
+    "average_fine": 535.64,
+    "personID": "f4cea220-be94-4418-ac2e-e231bc121adc"
+  },
+  {
+    "first_name": "Ashleigh",
+    "last_name": "NEWMAN",
+    "numberOfViolations": 1,
+    "total_fine": 1442.33,
+    "average_fine": 1442.33,
+    "personID": "275fde34-3e83-4a5b-a8a9-ffcbd83456b6"
+  },
+  {
+    "first_name": "Rene",
+    "last_name": "CONRAD",
+    "numberOfViolations": 1,
+    "total_fine": 3525.9,
+    "average_fine": 3525.9,
+    "personID": "e35ef7a4-344d-4adc-88b1-1a476c70cdd8"
+  },
+  {
+    "first_name": "Nathaniel",
+    "last_name": "RAYMOND",
+    "numberOfViolations": 1,
+    "total_fine": 692.39,
+    "average_fine": 692.39,
+    "personID": "f1e9ca82-b225-4651-a891-1102110c0868"
+  },
+  {
+    "first_name": "Sandy",
+    "last_name": "FINCH",
+    "numberOfViolations": 1,
+    "total_fine": 4325.66,
+    "average_fine": 4325.66,
+    "personID": "2f882cbe-267c-48b4-a6a3-87410c8425d1"
+  },
+  {
+    "first_name": "Seth",
+    "last_name": "ROCHA",
+    "numberOfViolations": 1,
+    "total_fine": 1853.71,
+    "average_fine": 1853.71,
+    "personID": "9ab38d66-a510-48b1-8efe-2cd7dba4e8e2"
+  },
+  {
+    "first_name": "Paige",
+    "last_name": "ORTEGA",
+    "numberOfViolations": 1,
+    "total_fine": 935.8,
+    "average_fine": 935.8,
+    "personID": "4c9a5867-c5cb-4d32-a96c-f3905bf7b591"
+  }
+]
